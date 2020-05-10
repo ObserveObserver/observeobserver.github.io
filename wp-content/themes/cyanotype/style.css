@@ -43,7 +43,7 @@ td, th {padding: 0;}
 @keyframes slideIn {from {-moz-transform: translateX(100%);transform: translateX(100%);}
 	to {-moz-transform: translateX(0);transform: translateX(0);}}
 .site-header .menu-item-has-children > a:after, .social-navigation a:before, .sidebar-toggle:before, .dropdown-toggle:after, .bypostauthor > article .fn:after, .comment-reply-title small a:before, .cat-links:before, .tags-links:before, .comments-link:before, .edit-link:before, .full-size-link:before, .pagination .prev:before, .pagination .next:before, .author-link:after, .comment-navigation a:before, .comment-navigation a:after, .image-navigation a:before, .image-navigation a:after {-moz-osx-font-smoothing: grayscale;-webkit-font-smoothing: antialiased;display: inline-block;font-family: "Genericons";font-size: 16px;font-style: normal;font-weight: normal;font-variant: normal;line-height: 1;speak: none;text-align: center;text-decoration: inherit;text-transform: none;vertical-align: top;}
-body, button, input, select, textarea {color: #fff;font-family: Karla,sans-serif;font-size: 15px;font-size: .9375rem;line-height: 1.6;}
+body, button, input, select, textarea {color: #fff;font-family: "IBM Plex Mono",sans-serif;font-size: 15px;font-size: .9375rem;line-height: 1.6;}
 h1, h2, h3, h4, h5, h6 {clear: both;font-weight: 700;-webkit-font-variant-ligatures: common-ligatures;font-variant-ligatures: common-ligatures;text-rendering: optimizeLegibility;}
 p {margin: 0 0 24px;}
 b, strong {font-weight: 700;}
