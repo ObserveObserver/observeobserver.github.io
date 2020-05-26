@@ -16,7 +16,6 @@
 <link rel="stylesheet" id="carousel-block-view-css" href="https://observe.observer/wp-content/plugins/full-site-editing/newspack-blocks/dist/carousel-block-view.css" type="text/css" media="all">
 <link rel="stylesheet" id="premium-content-container-block-css" href="https://observe.observer/wp-content/plugins/full-site-editing/premium-content//style.css" type="text/css" media="all">
 <link rel="stylesheet" id="posts-list-block-style-css" href="https://observe.observer/wp-content/plugins/full-site-editing/posts-list-block/dist/posts-list-block.css" type="text/css" media="all">
-<link rel="stylesheet" id="tt-easy-google-fonts-css" href="http://fonts.googleapis.com/css?family=Anonymous+Pro%3Aregular%7CIBM+Plex+Mono%3A100%2C300%7CIBM+Plex+Serif%3A200%2C300&subset=latin%2Call&ver=5.4.1" type="text/css" media="all">
 <link rel="stylesheet" id="cyanotype-fonts-css" href="https://fonts.googleapis.com/css?family=Karla%3A400%2C700%2C400italic%2C700italic%7CInconsolata%3A400&subset=latin%2Clatin-ext" type="text/css" media="all">
 <link rel="stylesheet" id="genericons-css" href="https://observe.observer/wp-content/themes/cyanotype/genericons/genericons.css" type="text/css" media="all">
 <link rel="stylesheet" id="cyanotype-style-css" href="https://observe.observer/wp-content/themes/cyanotype/style.css" type="text/css" media="all">
@@ -34,7 +33,9 @@
 
 
 
-
+				<style type="text/css">
+					@font-face { font-family:anon;src:url(https://observe.observer/wp-content/uploads/2020/05/Anonymous-Pro.ttf) format('truetype');font-display: auto;}@font-face { font-family:ibm plex;src:url(https://observe.observer/wp-content/uploads/2020/05/IBMPlexMono-Medium.ttf) format('truetype');font-display: auto;}@font-face { font-family:pc98;src:url(https://observe.observer/wp-content/uploads/2020/05/pc-9800.ttf) format('truetype');font-display: auto;}				</style>
+				
 		<style type="text/css" id="cyanotype-custom-background-css">
 			body.custom-background,
 			.site-header .sub-menu a,
@@ -120,23 +121,64 @@
 <link rel="apple-touch-icon" href="https://observe.observer/wp-content/uploads/2020/05/ico2_640_icon.ico">
 <meta name="msapplication-TileImage" content="https://observe.observer/wp-content/uploads/2020/05/ico2_640_icon.ico">
 		<style type="text/css" id="wp-custom-css">
-			.site-title a {
+			@font-face {
+	font-family: pc98;  
+	src: url(https://observe.observer/wp-content/uploads/2020/05/pc-9800.ttf);  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family:ibm plex mono;
+	src: url(https://observe.observer/wp-content/uploads/2020/05/IBMPlexMono-Medium.ttf);
+	font-weight: normal;
+}
+
+
+
+.site-title a {
   color: #FFFFFFF !important;
+	font-family: "pc98";
+	font-size: 30px;
 }
 .site-title #masaki-site-title {
-  color: #740000;		</style>
-		<style id="tt-easy-google-font-styles" type="text/css">p { font-family: 'Anonymous Pro'; font-style: normal; font-weight: 400; }
-h1 { font-family: 'IBM Plex Mono'; font-size: 30px; font-style: normal; font-weight: 100; }
-h2 { font-family: 'IBM Plex Mono'; font-size: 19px; font-style: normal; font-weight: 100; line-height: 0.9; }
-h3 { }
-h4 { }
-h5 { }
-h6 { }
-.site-title a { color: #ffffff; font-family: 'IBM Plex Mono'; font-size: 22px; font-style: normal; font-weight: 300; letter-spacing: 2px; line-height: 0.8; }
-.main-navigation ul li a { font-family: 'IBM Plex Mono'!important; font-size: 16px!important; font-style: normal!important; font-weight: 300!important; letter-spacing: 1px!important; }
-.widget { font-family: 'IBM Plex Serif'; font-style: normal; font-weight: 200; }
-.widget-title { font-family: 'IBM Plex Serif'; font-size: 27px; font-style: normal; font-weight: 300; }
-</style></head>
+  color: #740000;
+}
+
+.site-header .nav-menu a {
+	font-family: "pc98";
+}
+
+.entry-content a {
+	font-family: "pc98";
+	font-size: 24px;
+}
+
+a .site-title {
+	font-family: "pc98";
+	font-size: 20px;
+	}
+
+p {
+	font-family: "ibm plex mono";
+	font-size: 16px;
+}
+
+.site-header .nav-menu a {
+	font-size: 21px;
+}
+
+.entry-title {
+	font-family: "pc98";
+}
+.entry-title a {
+	font-family: "pc98";
+	font-size: 32px;
+}
+
+.entry-content a {
+	font-family: "pc98";
+}		</style>
+		</head>
 
 <body class="post-template-default single single-post postid-48 single-format-standard custom-background primary-menu no-widgets">
 <div id="page" class="hfeed site">
