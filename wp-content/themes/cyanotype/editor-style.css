@@ -77,3 +77,5 @@ body.rtl {font-family: Arial,Tahoma,sans-serif;}
 .rtl table th, .rtl table caption {text-align: right;}
 @media screen and (max-width: 784px) {body, img, .wp-caption {max-width: 100%;}
 	img, .wp-caption {width: auto !important;}}
+.blink_me {animation: blinker 1s linear infinite;}
+@keyframes blinker {50% {opacity: 0;}}

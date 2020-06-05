@@ -142,6 +142,9 @@ body {
 	font-family: "pc98";
 	font-size: 24px;
 }
+
+
+
 .site-title #masaki-site-title {
   color: #740000;
 }
@@ -182,12 +185,20 @@ p {
 	font-family: "pc98";
 }
 
-
-#fademe{
-opacity:0;
-transition:2s;
+.site-title:after {
+  content: "|";
+  animation: blink 1.25s infinite;
 }
-		</style>
+
+@keyframes blink {
+    0% {opacity: 1;}
+    1% {opacity: 0;}
+    50% {opacity: 0;}
+    51% {opacity: 1;}
+}
+
+
+}		</style>
 		</head>
 
 <body class="post-template-default single single-post postid-166 single-format-standard custom-background primary-menu no-widgets">
@@ -208,7 +219,7 @@ transition:2s;
 		<div class="site-branding">
 			<div class="site-branding-inner">
 				
-									<p class="site-title"><a href="https://observe.observer/" rel="home">*observe.observer</a></p>
+								<p class="site-title"><a href="https://observe.observer/" rel="home">*observe.observer</a></p>
 							</div>
 
 					</div>
