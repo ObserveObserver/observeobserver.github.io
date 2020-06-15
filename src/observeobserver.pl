@@ -32,19 +32,19 @@ server(Port) :-
 % Hosting pages.
 
 :- http_handler('/', stories, []).
-:- http_handler('/i', i, []).
-:- http_handler('/h', h, []).
-:- http_handler('/n', n, []).
-:- http_handler('/g', g, []).
-:- http_handler('/f', f, []).
-:- http_handler('/e', e, []).
-:- http_handler('/d', d, []).
-:- http_handler('/c', c, []).
-:- http_handler('/gbp', gbp, []).
-:- http_handler('/b', b, []).
-:- http_handler('/readme', readme, []).
-:- http_handler('/blog', blog, []).
-:- http_handler('/blog1', blog1, []).
+:- http_handler('/i.html', i, []).
+:- http_handler('/h.html', h, []).
+:- http_handler('/n.html', n, []).
+:- http_handler('/g.html', g, []).
+:- http_handler('/f.html', f, []).
+:- http_handler('/e.html', e, []).
+:- http_handler('/d.html', d, []).
+:- http_handler('/c.html', c, []).
+:- http_handler('/gbp.html', gbp, []).
+:- http_handler('/b.html', b, []).
+:- http_handler('/readme.html', readme, []).
+:- http_handler('/blog.html', blog, []).
+:- http_handler('/blog1.html', blog1, []).
 
 % Translating request to serving HTML, logo_links = top of the page.
 
@@ -164,20 +164,20 @@ main_content(_Request) -->
                         </style>'],
                         div(class(listing),
                         [
-                                div(class(title), a(href='/i', h1('i'))),
+                                div(class(title), a(href='/i.html', h1('i'))),
                                 p(['its stressful. i just want it to stop. i get urges, i get angry, i get frustrated, i get depressed; an angry sadness, a sadness i cant love. 
                                 why does it bother me so much? 
                                 i couldnt even fucking move, breathing heavily. i gripped nothing as hard i could grip. i saw myself bashing my ... ',
-                                a(href='/i', 'Continue')])]),
+                                a(href='/i.html', 'Continue')])]),
                         div(class(listing),
                         [
-                                div(class(title), a(href='/h', h1('h'))),
+                                div(class(title), a(href='/h.html', h1('h'))),
                                 p(['\"writhe in bed time.\" i close my eyes. sink and merge, 
                                 my legs and arms remain somewhat restless. it\'s comfortable, i\'m comfortable. warmth forebodes my body, a hug from god ... ',
-                                a(href='/h', 'Continue')])]),
+                                a(href='/h.html', 'Continue')])]),
                         div(class(listing),
                         [
-                                div(class(title), a(href='/n', h1('n'))),
+                                div(class(title), a(href='/n.html', h1('n'))),
                                 p(
                                 \['
                                 we\'ll live forever, we\'ll die together. we\'ll become one, together forever. our heart, our soul. our love, our pain.
@@ -185,7 +185,7 @@ main_content(_Request) -->
                                 i love you so much.'])]),
                         div(class(listing),
                         [
-                                div(class(title), a(href='/g', h1('g'))),
+                                div(class(title), a(href='/g.html', h1('g'))),
                                 p(
                                 \['
                                 swallow and let\'s go. let\'s wait a bit, the calm before the storm? i don\'t know, it\'s been a long time, maybe never? wait. still waiting. oh, there you are. 
@@ -194,53 +194,53 @@ main_content(_Request) -->
                                               <a href="/g">Continue</a>'])]),
                        div(class(listing),
                         [
-                                div(class(title), a(href='/f', h1('f'))),
+                                div(class(title), a(href='/f.html', h1('f'))),
                                 p(
                                 \['
 where one world ends, another begins. locked away, infosphere grows exponential. social paradigm shifts from physical to transpersonal, unveiling the way to vast webs of communication. small colonies exist there; pilgrims, leading a way to the new existence
  ...
-                                              <a href="/f">Continue</a>'])]),
+                                              <a href="/f.html">Continue</a>'])]),
                        div(class(listing),
                         [
-                                div(class(title), a(href='/e', h1('e'))),
+                                div(class(title), a(href='/e.html', h1('e'))),
                                 p(
                                 \['
 curled up touch loss don\'t know. it\'s here and material, light warm candles inside. love smoke empathy embers, slips into bed. i\'m here, i\'m comfortable. closed eyes, whisked away. green tendril blue tendril: cuts black, immaterial; soul apparent
  ...
-                                              <a href="/e">Continue</a>'])]),
+                                              <a href="/e.html">Continue</a>'])]),
                        div(class(listing),
                         [
-                                div(class(title), a(href='/d', h1('d'))),
+                                div(class(title), a(href='/d.html', h1('d'))),
                                 p(
                                 \['
 Weird! Nothing going on here. Anybody else see who got married? Anybody see those celebrities break up? Did you see those (SAME SEX!) celebrities making out? It\'s a crazy world we live in, it\'s hot, fast, sleek and changing; here today gone tomorrow
  ...
-                                              <a href="/d">Continue</a>'])]),
+                                              <a href="/d.html">Continue</a>'])]),
                        div(class(listing),
                         [
-                                div(class(title), a(href='/c', h1('c'))),
+                                div(class(title), a(href='/c.html', h1('c'))),
                                 p(
                                 \['
 maybe ill delete this when i wake up or maybe i wont idk i feel like im sobered up to own pressing <ENTER> on this one, maybe ill be really embarrassed.
 <br><br>
 coming down off a very strength 25e trip which usually makes me want to write things even if its something g*y like a """blog post""" ...
-                                              <a href="/c">Continue</a>'])]),
+                                              <a href="/c.html">Continue</a>'])]),
                        div(class(listing),
                         [
-                                div(class(title), a(href='/gbp', h1('gbp'))),
+                                div(class(title), a(href='/gbp.html', h1('gbp'))),
                                 p(
                                 \['
 today the thoughts ablaze, everyday the same way. ruminations parallaxed through internal nocs. electronic escape puts the mind to ease, for this a debt unpaid. in the roots insects burrow, an aura of agony
  ...
-                                              <a href="/gbp">Continue</a>'])]),                       
+                                              <a href="/gbp.html">Continue</a>'])]),                       
                         div(class(listing),
                         [
-                                div(class(title), a(href='/b', h1('b'))),
+                                div(class(title), a(href='/b.html', h1('b'))),
                                 p(
                                 \['
 Friday, August 15th, 2003. 10 o\'clock PM EST (7 o\'clock PM PST). Dark night (#2E2E2E, https://www.color-hex.com/color/2e2e2e) and a moon whole (#F3F3F3, https://www.color-hex.com/color/f3f3f3) I wandered to the retention pond (Lat: 28.688283, Long: -81.459296), murky water (approx #004931, https://www.color-hex.com/color/004931) whereupon I stumbled a noise beckon\'d
  ...
-                                              <a href="/b">Continue</a>'])]),
+                                              <a href="/b.html">Continue</a>'])]),
                         (center(img(src('/f/logo.png')))),
                         (center(p(['Written in SWI-Prolog.'])))
 
@@ -539,7 +539,7 @@ blog_index(_Request) -->
                                 h1(class(b_top),
                                  'blogs'),
                                 div(class(blog_title), 
-                                a(href='/blog1', h1('#1 - 6/7/2020'))),
+                                a(href='/blog1.html', h1('#1 - 6/7/2020'))),
                                 p('i dunno yet...')])]).
 
 blog1_content(_Request) -->
@@ -566,9 +566,9 @@ user:body(logo_links, Body) -->
                     div(class(storieslink),
                     a(href='.', 'stories')),
                     div(class(bloglink),
-                    a([href='blog', name='hello'], 'blog')),
+                    a([href='blog.html', name='hello'], 'blog')),
                     div(class(readmelink),
-                    a(href='readme', 'README.NFO'))]),
+                    a(href='readme.html', 'README.NFO'))]),
                     div(id(divider),
                     \['=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=']),
                     Body
