@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1 - *observe.observer</title>
+
+<link rel="stylesheet" type="text/css" href="f/test.css">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+<body>
+<link rel="icon" type="image/png" href="favicon.ico"/>
+<div class="top">
+
+<h1>*observe.observer</h1>
+
+</div>
+<div class="links">
+<div class="storieslink"><a href="index.html">stories</a></div>
+<div class="bloglink"><a href="blog" name="hello">blog</a></div>
+<div class="readmelink"><a href="readme">README.NFO</a></div>
+</div>
+<div id="divider">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</div>
+
+<div class="story">
+
+<h1 id="storytitle">#1 6/7/2020</h1>
+
+<p class="blog_contents">
+don't really know what to say :) welcome to my blog.<br><br>
+                                here is a song. <br><br>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/6LH4VCEdijA" frameborder="0" 
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></div>
+</body>
+</html>

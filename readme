@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README.NFO - *observe.observer</title>
+
+<link rel="stylesheet" type="text/css" href="f/test.css">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+<body>
+<link rel="icon" type="image/png" href="favicon.ico"/>
+<div class="top">
+
+<h1>*observe.observer</h1>
+
+</div>
+<div class="links">
+<div class="storieslink"><a href="index.html">stories</a></div>
+<div class="bloglink"><a href="blog" name="hello">blog</a></div>
+<div class="readmelink"><a href="readme">README.NFO</a></div>
+</div>
+<div id="divider">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</div>
+
+                        <style>
+                        .readmelink {font-weight:bold; font-style:italic;}
+                        </style><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script><script src="f/readme.js"></script>
+
+<p id="demo">
+</p>
+</body>
+</html>

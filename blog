@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blog - *observe.observer</title>
+
+<link rel="stylesheet" type="text/css" href="f/test.css">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+<body>
+<link rel="icon" type="image/png" href="favicon.ico"/>
+<div class="top">
+
+<h1>*observe.observer</h1>
+
+</div>
+<div class="links">
+<div class="storieslink"><a href="index.html">stories</a></div>
+<div class="bloglink"><a href="blog" name="hello">blog</a></div>
+<div class="readmelink"><a href="readme">README.NFO</a></div>
+</div>
+<div id="divider">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</div>
+
+<div class="blog_listing">
+                        <style>
+                        .bloglink {font-weight:bold; font-style:italic;}
+                        </style>
+
+<h1 class="b_top">blogs</h1>
+
+<div class="blog_title"><a href="blog1">
+
+<h1>#1 - 6/7/2020</h1>
+
+</a></div>
+
+<p>
+i dunno yet...</p></div>
+</body>
+</html>

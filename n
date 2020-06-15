@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>n - *observe.observer</title>
+
+<link rel="stylesheet" type="text/css" href="f/test.css">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+<body>
+<link rel="icon" type="image/png" href="favicon.ico"/>
+<div class="top">
+
+<h1>*observe.observer</h1>
+
+</div>
+<div class="links">
+<div class="storieslink"><a href="index.html">stories</a></div>
+<div class="bloglink"><a href="blog" name="hello">blog</a></div>
+<div class="readmelink"><a href="readme">README.NFO</a></div>
+</div>
+<div id="divider">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</div>
+
+<div class="story">
+
+<h1 id="storytitle">n</h1>
+
+<p>
+
+                                we'll live forever, we'll die together. we'll become one, together forever. our heart, our soul. our love, our pain.
+                                <br><br>
+                                i love you so much.</p></div>
+</body>
+</html>

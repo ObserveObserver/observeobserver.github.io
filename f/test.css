@@ -1,0 +1,179 @@
+@font-face {
+	font-family:"anonymous pro";
+	src: url("Anonymous Pro.ttf");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family:"3270-font";
+	src: url("3270-regular.ttf");
+	font-weight: normal;
+}
+
+body {
+	font-family:"3270";
+}
+
+p {
+	font-family:"anonymous pro";
+}
+
+.blog_listing {
+	padding: 40px 400px 0px 400px;
+	text-align: center;
+}
+
+.story #storytitle {
+	text-align:left;
+}
+
+.storiestitle {
+	text-align:center;
+	font-size:30px;
+}
+
+.blog_title {
+	font-style: italic;
+	text-align:center;
+	padding: 30px 0px 0px 0px;
+}
+
+.blog_listing p {
+	text-align: left;
+}
+
+.b-top {
+	text-align:center;
+}
+
+.blog_contents {
+	text-align:left;
+}
+
+
+.links div {
+        display: inline-block;
+}
+
+.story #demo {
+	text-align:left;
+}
+
+.story #demo p {
+	text-align:left;
+}
+
+.links {
+	text-align:center;
+}
+
+.story {
+	padding: 40px 550px 0px 550px;
+        text-align: center;
+	font-size:22px;
+}
+
+.story p {
+	text-align:left;
+}
+
+
+.top {
+     display: block;
+     text-align: center;
+}
+
+.top h1 {
+     text-align: left;
+     font-family: "Pc-9800";
+}
+
+
+.top h1:after {
+  content: "|";
+	font-family: "Terminal";
+	font-size: 22px;
+  animation: blink 1.25s infinite;
+}
+
+
+.top a {
+     padding: 0px 10px 10px 0px;
+     text-align: center;
+}
+
+a:visited, a:link {
+     color: white;
+}
+
+
+body {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+#demo {
+    text-align: center;
+}
+
+
+@keyframes blink {
+    0% {opacity: 1;}
+    1% {opacity: 0;}
+    50% {opacity: 0;}
+    51% {opacity: 1;}
+}
+
+.title {
+	font-size: 23px;
+}
+
+.listing {
+	display: block;
+	padding: 15px 550px 0px 550px;
+}
+
+#divider {
+	text-align:center
+}
+
+.listing h1 {
+	text-align: center;
+	font-style: italic;
+}
+
+.listing p {
+	text-align: left;
+	font-size: 20px;
+
+.listing a {
+	text-color: white;
+}
+
+.listing a:visited, a:link {
+	text-color: white;
+}
+
+.story {
+	padding: 40px 400px 0px 400px;
+        text-align: center;
+}
+
+.story p {
+	padding: 40px 400px 0px 400px;
+}
+	
+
+
