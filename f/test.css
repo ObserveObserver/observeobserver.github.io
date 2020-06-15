@@ -1,17 +1,17 @@
 @font-face {
 	font-family:"anonymous pro";
-	src: url("Anonymous Pro.ttf");
+	src: url("/f/Anonymous Pro.ttf");
 	font-weight: normal;
 }
 
 @font-face {
 	font-family:"3270-font";
-	src: url("3270-regular.ttf");
+	src: url("/f/3270-regular.ttf");
 	font-weight: normal;
 }
 
 body {
-	font-family:"3270";
+	font-family:"3270-font";
 }
 
 p {
