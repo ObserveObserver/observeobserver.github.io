@@ -511,6 +511,8 @@ Friday, August 15th, 2003. 10 o\'clock PM EST (7 o\'clock PM PST). Dark night (#
 readme_content(_Request) -->
         html(
                 [
+                        div(class(story),
+                        [
                         \['
                         <style>
                         .readmelink {font-weight:bold; font-style:italic;}
@@ -519,6 +521,7 @@ readme_content(_Request) -->
                         '<script src="/f/readme.js"></script>'],    
                         p(id(demo),
                         ('')) 
+                        ])
                 ]
         ).
 

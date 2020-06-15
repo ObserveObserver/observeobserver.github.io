@@ -21,11 +21,12 @@
 </div>
 <div id="divider">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</div>
 
+<div class="story">
                         <style>
                         .readmelink {font-weight:bold; font-style:italic;}
                         </style><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script><script src="f/readme.js"></script>
 
 <p id="demo">
-</p>
+</p></div>
 </body>
 </html>
