@@ -8,6 +8,7 @@
 :- use_module(library(http/http_files)).
 :- use_module(library(http/html_head)).
 
+% static files:
 %  wget -p -P /site -mpck --user-agent="" -e robots=off --wait 1 http://localhost:8000
 
 % HOSTED-FILE-SECTION.
@@ -32,6 +33,7 @@ server(Port) :-
 % Hosting pages.
 
 :- http_handler('/', stories, []).
+:- http_handler('/j.html', j, []).
 :- http_handler('/i.html', i, []).
 :- http_handler('/h.html', h, []).
 :- http_handler('/n.html', n, []).
@@ -54,6 +56,13 @@ stories(_Request) :-
                 [title('*observe.observer')],
 		 [\html_requires(files('test.css')),
                  (\main_content(Request))]).
+
+j(_Request) :-
+            reply_html_page(
+                logo_links,
+                [title('j - *observe.observer')],
+                [\html_requires(files('test.css')),
+                (\j_content(Request))]).                 
 
 i(_Request) :-
             reply_html_page(
@@ -136,7 +145,7 @@ b(_Request) :-
 blog(_Request) :-
         reply_html_page(
                 logo_links,
-                [title('Blog - *observe.observer')],
+                [title('blog - *observe.observer')],
                 [\html_requires(files('test.css')),
                 (\blog_index(Request))]
         ).
@@ -162,6 +171,13 @@ main_content(_Request) -->
                         <style>
                         .storieslink {font-weight:bold; font-style:italic;}
                         </style>'],
+                        div(class(listing),
+                        [
+                                div(class(title), a(href='/j.html', h1('j'))),
+                                p(['i dont want to die. they will never understand what we want, it\'s impossible. i want it, you want it;
+                                 but it is a pipedream. you can\'t fault "normal" people for thinking we are crazy; 
+                                 but they will know in death what we mean. they will feel our thoughts and desires, just like we want ... ',
+                                a(href='/j.html', 'Continue')])]),
                         div(class(listing),
                         [
                                 div(class(title), a(href='/i.html', h1('i'))),
@@ -191,7 +207,7 @@ main_content(_Request) -->
                                 swallow and let\'s go. let\'s wait a bit, the calm before the storm? i don\'t know, it\'s been a long time, maybe never? wait. still waiting. oh, there you are. 
                                 familiar feeling through arms and legs, it\'s okay. huh, words split in 2. words split stretched. words betray comprehencmrozwkefs- 
                                 i\'m slipping back i\'m falling through fuck i don\'t want this? i don\'t want this? i don\'t want this? ...
-                                              <a href="/g">Continue</a>'])]),
+                                              <a href="/g.html">Continue</a>'])]),
                        div(class(listing),
                         [
                                 div(class(title), a(href='/f.html', h1('f'))),
@@ -242,13 +258,36 @@ Friday, August 15th, 2003. 10 o\'clock PM EST (7 o\'clock PM PST). Dark night (#
  ...
                                               <a href="/b.html">Continue</a>'])]),
                         (center(img(src('/f/logo.png')))),
-                        (center(p(['Written in SWI-Prolog.'])))
+                        (center(a(href='https://github.com/ObserveObserver/observeobserver.github.io/blob/master/src/observeobserver.pl', 'Written in SWI-Prolog')))
 
 
                    
 
                 ]
              ).
+
+
+j_content(_Request) -->
+        html(
+                [
+                        div(class(story),
+                        [
+                                h1(id(storytitle),
+                                'j'),
+                                p(
+                                \['i dont want to die.
+
+they will never understand what we want, it\'s impossible. i want it, you want it; but it is a pipedream. you can\'t fault "normal" people for thinking we are crazy; but they will know in death what we mean. they will feel our thoughts and desires, just like we want. it\'s ok for now, just relax and don\'t fault anyone ok? don\'t get angry, it doesn\'t matter. just be happy with yourself and don\'t make others feel miserable, it\'s pointless, really. please? for me.
+<br><br>
+i love you so much. im sorry we dont talk much anymore, im just scared of hearing what you say. every time it\'s stressful, and you know that i know it\'s stressful and it\'s hard for me to handle. i think about the times we used to play pente and games, i remember when we did flashcards, i remember when i sat in your rocking chair next to you and pumpkin. i miss that so much. i really regret not talking to you and the guilt haunts me every day. i still haven\'t read your letter. i want to be close to you again, but it\'s just hard. i really do love you with all my heart, it\'s just hard. i love you so much.
+<br><br>
+please don\'t leave me, i dont want to be alone.
+<br><br>
+i\'m a 16 year old stuck in a ## year old\'s body. i spent 10 years doing fucking nothing dude. it hurts. maybe less than 16. i love cute stuff. i wish i was a kid again. i love music boxes, i love stuffed animals; i still sleep with my childhood bear. my hearts torn when cute stuff is thrown away, i still haven\'t thrown away like any of my kid stuff. growing up sucks, i know that\'s a common loser sentiment but how can anyone justify this shit? we live in fucking hellworld. go deal with insurance, that should be enough to make you want to kill yourself execution style. 
+<br><br>
+please don\'t kill yourself, i don\'t want you to die. i think suicide is so sad, i think death is sad. i\'m not afraid to die, but i\'m afraid of others dying. i know they will be happier, but i still don\'t want you to die. live your life, you might as well; what can it hurt? i know your pain, i know it sucks; and it\'s a shame. i hate that you hurt, i hate that you want to die. i hate that there\'s kids with cancer, that shit tears my heart out. i cry so hard seeing sick or dead kids, it fucking kills me. the world is unfair and hell, but it\'s also really beautiful and fun sometimes. i hope my happiness doesn\'t go away, even though i know it will. please don\'t lose your light, please? for me.
+'])])]).
+
 
 i_content(_Request) -->
         html(
