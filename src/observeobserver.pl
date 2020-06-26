@@ -183,7 +183,7 @@ main_content(_Request) -->
                         [
                                 div(class(title), a(href='/k.html', h1('k'))),
                                 p(['i just want us to be happy. im happy. not really? dont know, hard to say. sometimes im happy, sometimes im miserable. unfulfilled. 
-                                i want just you to be happy. i know why you\'re not, and it\'s ok. i want to make you happy; i want to fix you. it\'s not my job, 
+                                i want you to be happy. i know why you\'re not, and it\'s ok. i want to make you happy; i want to fix you. it\'s not my job, 
                                 but i have to do it. it\'s in my heart,
                                  it\'s in my soul. i just want to see you smile. i want to see you comfortable. you will be, i promise. just let me, ok? ...',
                                 a(href='/k.html', 'Continue')])]),
@@ -290,7 +290,7 @@ k_content(__Request) -->
                                 h1(id(storytitle),
                                 'k'),
                                 p(
-                                \['i just want us to be happy. im happy. not really? dont know, hard to say. sometimes im happy, sometimes im miserable. unfulfilled. i want just you to be happy. i know why you\'re not, and it\'s ok. i want to make you happy; i want to fix you. it\'s not my job, but i have to do it. it\'s in my heart, it\'s in my soul. i just want to see you smile. i want to see you comfortable. you will be, i promise. just let me, ok? 
+                                \['i just want us to be happy. im happy. not really? dont know, hard to say. sometimes im happy, sometimes im miserable. unfulfilled. i want you to be happy. i know why you\'re not, and it\'s ok. i want to make you happy; i want to fix you. it\'s not my job, but i have to do it. it\'s in my heart, it\'s in my soul. i just want to see you smile. i want to see you comfortable. you will be, i promise. just let me, ok? 
 <br><br>
 we\'ll all be happy in death. we\'ll all be connected. we\'ll all be loved. we\'ll all be cherished; i\'ve said it before. i want it so bad. but i\'m so afraid. i don\'t want to leave. i know i\'ll die young, i\'ve always known. i dont want to leave you. <b>if you die, i\'ll die.</b> i don\'t want you to die. please don\'t die when i die. i want you to live so badly. i want you to feel alive. i want you to feel real. i want to be apart of you. we\'ll merge one day, i\'ve said it before. 
 <br><br>
