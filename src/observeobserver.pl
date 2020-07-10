@@ -48,6 +48,8 @@ server(Port) :-
 :- http_handler('/readme.html', readme, []).
 :- http_handler('/blog.html', blog, []).
 :- http_handler('/blog1.html', blog1, []).
+:- http_handler('/keyboards.html', kbindex, []).
+:- http_handler('/dvorak.html', dvorak, []).
 
 % Translating request to serving HTML, logo_links = top of the page.
 
@@ -164,6 +166,22 @@ blog1(_Request) :-
                 [title('1 - *observe.observer')],
                 [\html_requires(files('test.css')),
                 (\blog1_content(Request))]
+        ).
+
+kbindex(_Request) :-
+        reply_html_page(
+                logo_links,
+                [title('Keyboards - *observe.observer')],
+                [\html_requires(files('test.css')),
+                (\kbindex_content(Request))]
+        
+        ).
+dvorak(_Request) :-
+        reply_html_page(
+                logo_links,
+                [title('Dvorak - *observe.observer')],
+                [\html_requires(files('test.css')),
+                (\dvorak_content(Request))]
         ).
 
 /* Bottom content.
@@ -628,6 +646,84 @@ blog1_content(_Request) -->
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/6LH4VCEdijA" frameborder="0" 
                                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'])])]).
 
+% KEYBOARD-SECTION.
+
+kbindex_content(_Request) -->
+        html(
+                [
+                        div(class(blog_listing),
+                        [
+                        \['
+                        <style>
+                        .keyboardlink {font-weight:bold; font-style:italic;}
+                        </style>'],
+                                h1(class(b_top),
+                                 'keyboards'),
+                                div(class(blog_title), 
+                                a(href='/dvorak.html', h1('Thoughts on Dvorak (and welcome!)'))),
+                                p(['Using programmer dvorak for 2 years, I\'ve realized it\'s simply not for me; and that\'s okay. 
+                                Too many people dismiss the idea of simply abandoning a layout if it doesn\'t fit them or "flow" right. 
+                                I will write more sometime about this "flow" as it\'s something I promised to do a long time ago ...',
+                                a(href='/dvorak.html', 'Continue')])])]).
+
+dvorak_content(_Request) -->
+        html(
+                [
+                        div(class(story),
+                        [
+                                h1(id(storytitle),
+                                'Thoughts on Dvorak (and welcome!)'),
+                                p(class(blog_contents),
+                                ['Last updated: 7/9/2020.',
+                                br(''),
+                                br(''),
+                                'Welcome to my keyboard blog, I really like keyboards and layouts. Here, I will write a bit about layouts, experiences, new keyboards
+                                what-have-you. I hope you like it!',
+                                br(''),
+                                br(''),
+                                'Using programmer dvorak for 2 years, I\'ve realized it\'s simply not for me; and that\'s okay. Too many people dismiss the idea
+                                of simply abandoning a layout if it doesn\'t fit them or "flow" right. I will write more sometime about this "flow" as it\'s something 
+                                I promised to do a long time ago.',
+                                br(''),
+                                br(''),
+                                'I started dvorak about 2 years ago and quickly switched to programmer, mostly because of the number system. I came to really, really
+                                love the symbols as well and think it is a huge benefit (especially when using a lisp.) I liked the layout a lot, but something
+                                never felt quite right. Let me get into what I liked about dvorak:',
+                                br(''),
+                                br(''),
+                                b('The Good:'),
+                                br(''),
+                                br(''),
+                                code([
+                                '1. Nice rolls. Dvorak is an alteration layout, but has some of the best short rolls out there (i.e. th ch gh ns nt gh)',
+                                br(''),
+                                br(''),
+                                '2. Portability. It\'s everywhere, even on my old Alphasmart I used in school!',
+                                br(''),
+                                br(''),
+                                '3. It\'s a good layout overall. Really, it is. It has some problems I think, some bad ones too; but it\'s a fine layout.',
+                                br(''),
+                                br(''),
+                                '4. Punctuation on qwerty QWE. One of my favorite things about the layout!']),
+                                br(''),
+                                br(''),
+                                b('The Bad:'),
+                                br(''),
+                                br(''),
+                                code([
+                                '1. L and R are on terrible fingers. This is really inexcusible imo, and there\'s nothing to defend it.',
+                                br(''),
+                                br(''),
+                                '2. Overuse of right-hand. Right hand is overused in keypresses and distance dramatically. My righthand sucks, so it sucks for me.',
+                                br(''),
+                                br(''),
+                                '3. It just doesn\'t feel right to me. This is a combination of lots of things, but it just doesn\'t feel right to me...']),
+                                br(''),
+                                br(''),
+                                'Short blog to start it off, but just my reasons why I am not a fan of Dvorak. If it works for you, I\'m happy; it just didn\'t for me.',
+                                br(''),
+                                br('')])])]).
+
 % HEADER
 user:body(logo_links, Body) -->
         html(body([ 
@@ -641,7 +737,9 @@ user:body(logo_links, Body) -->
                     div(class(bloglink),
                     a([href='blog.html', name='hello'], 'blog')),
                     div(class(readmelink),
-                    a(href='readme.html', 'README.NFO'))]),
+                    a(href='readme.html', 'README.NFO')),
+                    div(class(keyboardlink),
+                    a(href='keyboards.html', 'Keyboards'))]),
                     div(id(divider),
                     \['=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=']),
                     Body
