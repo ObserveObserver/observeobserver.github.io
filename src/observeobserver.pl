@@ -33,6 +33,7 @@ server(Port) :-
 % Hosting pages.
 
 :- http_handler('/', stories, []).
+:- http_handler('/l.html', l, []).
 :- http_handler('/k.html', k, []).
 :- http_handler('/j.html', j, []).
 :- http_handler('/i.html', i, []).
@@ -59,6 +60,13 @@ stories(_Request) :-
                 [title('*observe.observer')],
 		 [\html_requires(files('test.css')),
                  (\main_content(Request))]).
+
+l(_Request) :-
+            reply_html_page(
+                logo_links,
+                [title('l - *observe.observer')],
+                [\html_requires(files('test.css')),
+                (\l_content(Request))]).     
 
 k(_Request) :-
             reply_html_page(
@@ -105,7 +113,7 @@ g(_Request) :-
 f(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('gf - *observe.observer')],
+                [title('f - *observe.observer')],
                 [\html_requires(files('test.css')),
                 (\f_content(Request))]).         
 
@@ -119,14 +127,14 @@ e(_Request) :-
 d(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('gd - *observe.observer')],
+                [title('d - *observe.observer')],
                 [\html_requires(files('test.css')),
                 (\d_content(Request))]).          
 
 c(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('gc - *observe.observer')],
+                [title('c - *observe.observer')],
                 [\html_requires(files('test.css')),
                 (\c_content(Request))]).      
 
@@ -171,7 +179,7 @@ blog1(_Request) :-
 kbindex(_Request) :-
         reply_html_page(
                 logo_links,
-                [title('Keyboards - *observe.observer')],
+                [title('keyboards - *observe.observer')],
                 [\html_requires(files('test.css')),
                 (\kbindex_content(Request))]
         
@@ -197,6 +205,13 @@ main_content(_Request) -->
                         <style>
                         .storieslink {font-weight:bold; font-style:italic;}
                         </style>'],
+                        div(class(listing),
+                        [
+                                div(class(title), a(href='/l.html', h1('l'))),
+                                p(['she feels pain. he feels pain. "what am i? am i real? what am i?" it\'s hard. she wants to be herself, why can\'t she? she is, but she\'s not. everyone should be. 
+                                it\'s hard, society is cruel; a conveyer belt. the assembly line pushing drone, drone everything. she wants to be beautiful, but how? what is beautiful? beautiful 
+                                to her is atypical, is atypical good? she doesn\'t know ...',
+                                a(href='/l.html', 'Continue')])]),
                         div(class(listing),
                         [
                                 div(class(title), a(href='/k.html', h1('k'))),
@@ -299,6 +314,37 @@ Friday, August 15th, 2003. 10 o\'clock PM EST (7 o\'clock PM PST). Dark night (#
 
                 ]
              ).
+
+l_content(__Request) -->
+        html(
+                [
+                        div(class(story),
+                        [
+                                h1(id(storytitle),
+                                'l'),
+                                p(
+                                \['she feels pain. he feels pain. "what am i? am i real? what am i?" it\'s hard. she wants to be herself, why can\'t she? she is, but she\'s not. everyone should be. 
+                                it\'s hard, society is cruel; a conveyer belt. the assembly line pushing drone, drone everything. she wants to be beautiful, but how? what is beautiful? beautiful 
+                                to her is atypical, is atypical good? she doesn\'t know. he doesn\'t know. he wants to be normal, he desires a sense of normality in his own way. they want to be pure;
+                                 he wants to be sweet. he can\'t be sweet, people are watching (man). why hate him for being soft, for being sweet. they hate him for everything. 
+                                 they hate her for abnormality, she loves her "normal". fuck, this sucks, huh? 
+                                <br><br>
+                                read about it, it\'s true; this is reality and they know it. they do what they want to do what they want, but are confined: the invisible hand must feed, so feed it
+                                 slaves. they don\'t want to, but you must; "let\'s opt out." WRONG, don\'t you see you\'re a slave? you think there\'s something you can do? 
+                                <br><br>
+                                you hate them? fucking do something. can\'t let them be how they want to? why? why not do something about it? are you scared? because you don\'t care as much as 
+                                you think. keep posting your meemays, keep preaching to those of whom think they already believe. man, that shit is sad. i fucking hate it. do sometihng? 
+                                do sometihng? do sometihng? why are mad at people for doing something they believe in? holy shit that is pathetic. keep posting while the world around you is
+                                 changed by those whom are strong enough to do something.
+                                <br><br>
+                                he wants to cry, but he can\'t; he wishes he can. why can\'t he? he wants to be pretty, why can\'t he? it\'s weird, isn\'t it? he thinks so, he wants you to cry too. 
+                                he feels bad when he\'s made fun of, he looks at people disliking him, he\'s bullied at school. you wonder why shit happens. be nice to people, he just wants you to be
+                                 nice to him and accept him. 
+                                <br><br>
+                                he wants to cry to cry so bad, it feels so good. why can\'t you cry, anon? are you scared? don\'t want to be soft? it\'s okay, i accept you, he accepts you, 
+                                she accepts you and the "you" you want to be. be who you want, stop appeasing people. i want you to be happy, i want you to cry. ">implying", implying. 
+                                <br><br>
+                                it\'s okay, it\'ll all be okay.'])])]).
 
 k_content(__Request) -->
         html(
@@ -526,7 +572,7 @@ e_content(__Request) -->
                                 'e'),
                                 p(
                                 \['
-curled up touch loss don\'t know. it\'s here and material, light warm candles inside. love smoke empathy embers, slips into bed. i\'m here, i\'m comfortable. closed eyes, whisked away. green tendril blue tendril: cuts black, immaterial; soul apparent. key unlocked, door ajar. "what is the truth? what is beyond rationale?" i say to the void. feelings eclipse, presence eclipse. i love u, written in red. u r ok, written in red. slow. fire. sparked. glowing. i\'m gone, i detach. movie theater, i\'m here. drive-in, pittsburgh. why am i here? i can\'t question it. i want to go back, so i do go back. in the dark, i feel it. close eyes, welcome back. green tendril blue tendril. cuts black, immaterial; soul apparent. key unlocked, door ajar. "what is the truth? what is truth beyond rationale?" i say to the void. feelings eclipse, presence eclipse. i love u, written in red. u r ok, written in red. incessant, persistent. demon? tulpa? God? please be God. no. feels unfriendly; feels unwelcoming. i rise, i sit. "you want to help? you may help me." i submit. i wait. the feeling disappears, my feeling disappears. not malicious perhaps, i don\'t know. distortion subside, clarity resumes. extreme vulnerability, emotional vulnerability. spiritual vulnerability. what if my soul dies alone? what if my soul is untied? i dont want to die alone. i\'m panicking; i don\'t want to die alone. i don\'t want to be alone. i don\'t want to die alone. i don\'t want to wander. i don\'t want to die alone. i don\'t want to be lost. i don\'t want to die alone. i\'m crying; i don\'t want to die alone, i don\'t want to be alone, i don\'t want to die alone, i don\'t want to wander, i don\'t want to die alone, i don\'t want to be lost, i don\'t want to die alone. i\'m wailing; i don\'t want to die alone, i don\'t want to be alone, i don\'t want to die alone, i don\'t want to wander, i don\'t want to die alone, i don\'t want to be lost, i don\'t want to die alone. i don\'t want to die alone. i don\'t want to die alone. i don\'t want to die alone! calm embrace. i see. i feel it. a pure, imminent bliss; a pure and blissful good. blinding white, but feeling. i see now, a truth reclaimed. i won\'t die alone. i won\'t be alone. i won\'t wander. i won\'t be lost. no abject terrors, no earthly laments. no sorrow, no grief; only good, wholly good. friends and family; my parents: the love, attention, care lost as a child made up in spades, "you\'re cared for, you\'re special, you\'re loved, we\'re proud of you…" held, loved. finally, for all eternity. my heart, my soul, love beyond love in eternal bliss. i must share my soul, my soul must be tied. my husband, my wife; our heart, our soul. i\'m relieved, i\'m renewed.
+curled up touch loss don\'t know. it\'s here and material, light warm candles inside. love smoke empathy embers, slips into bed. i\'m here, i\'m comfortable. closed eyes, whisked away. green tendril blue tendril: cuts black, immaterial; soul apparent. key unlocked, door ajar. "what is the truth? what is beyond rationale?" i say to the void. feelings eclipse, presence eclipse. i love u, written in red. u r ok, written in red. slow. fire. sparked. glowing. i\'m gone, i detach. movie theater, i\'m here. drive-in, pittsburgh. why am i here? i can\'t question it. i want to go back, so i do go back. in the dark, i feel it. close eyes, welcome back. green tendril blue tendril. cuts black, immaterial; soul apparent. key unlocked, door ajar. "what is the truth? what is truth beyond rationale?" i say to the void. feelings eclipse, presence eclipse. i love u, written in red. u r ok, written in red. incessant, persistent. demon? tulpa? God? please be God. no. feels unfriendly; feels unwelcoming. i rise, i sit. "you want to help? you may help me." i submit. i wait. the feeling disappears, my feeling disappears. not malicious perhaps, i don\'t know. distortion subside, clarity resumes. extreme vulnerability, emotional vulnerability. spiritual vulnerability. what if my soul dies alone? what if my soul is untied? i dont want to die alone. i\'m panicking; i don\'t want to die alone. i don\'t want to be alone. i don\'t want to die alone. i don\'t want to wander. i don\'t want to die alone. i don\'t want to be lost. i don\'t want to die alone. i\'m crying; i don\'t want to die alone, i don\'t want to be alone, i don\'t want to die alone, i don\'t want to wander, i don\'t want to die alone, i don\'t want to be lost, i don\'t want to die alone. i\'m wailing; i don\'t want to die alone, i don\'t want to be alone, i don\'t want to die alone, i don\'t want to wander, i don\'t want to die alone, i don\'t want to be lost, i don\'t want to die alone. i don\'t want to die alone. i don\'t want to die alone. i don\'t want to die alone! calm embrace. i see. i feel it. a pure, imminent bliss; a pure and blissful good. blinding white, but feeling. i see now, a truth reclaimed. i won\'t die alone. i won\'t be alone. i won\'t wander. i won\'t be lost. no abject terrors, no earthly laments. no sorrow, no grief; only good, wholly good. friends and family; my parents: the love, attention, care lost as a child made up in spades, "you\'re cared for, you\'re special, you\'re loved, we\'re proud of you..." held, loved. finally, for all eternity. my heart, my soul, love beyond love in eternal bliss. i must share my soul, my soul must be tied. my husband, my wife; our heart, our soul. i\'m relieved, i\'m renewed.
 '])])]).
 
 d_content(__Request) -->
@@ -584,7 +630,19 @@ gbp_content(__Request) -->
                                 'gbp'),
                                 p(
                                 \['
-today the thoughts ablaze, everyday the same way. ruminations parallaxed through internal nocs. electronic escape puts the mind to ease, for this a debt unpaid. in the roots insects burrow, an aura of agony. embers remain; however, immune via a damp cloak. a sapling, encased in a cocoon; rather, exoskeleton. it\'s connections burrow beneath layers of soot, each limb\'s demise felt at the core. it feels everything. the bugs run from their impending doom, digging deeper and deeper into the bark, a feeble effort. i understand. i mumble, but more sonar; the reflection stokes the flames burning consciousness. they respond, it pierces, a wind brushes the flames larger and larger, bit by bit seared. the larva survives, immune but quarantined out of fear of contagion. where\'s the normality? what\'s left after? i hard reset my phone, it made me install a lot of bloatware. you know it\'s spying on you? all those user agreements, i haven\'t read them. i\'m sure you\'ve never disabled all the opt-in tracking, i\'m sure you resign yourself to using the fingerprint unlocker because you\'re too lazy to type in 4 numbers. one more added to the database! facial recognition? so Sum Ting-Wong Megacorp can add you to their evergrowing neural network? you\'re helping support chinese totalitarianism in a way. it\'s pushed as the future. 322, take one. it\'s a waiting game, you have to do it properly. slight waves sweep in and it\'s here. a strength and willingness appear, but to do what? nothing is here, it\'s late; go home. i\'m back, so let\'s go again? 322, take two. it\'s a waiting game, you have to do it properly. transmissions begin rising, a kite above me. i see the picture, but i can\'t feel angry? fire draws close, the cloak evaporates. the parcel rises higher and higher, beyond the inferno below. 7000km. condensates and freefalls. dousing the now hellscape. what\'s left? barren, ashened skeletons quickly disregarded as a stupid mistake. the sapling remains, relieved but wilted. you\'ve so long left! we\'ll deal with it tomorrow, anyway.
+today the thoughts ablaze, everyday the same way. ruminations parallaxed through internal nocs. electronic escape puts the mind to ease, for this a debt unpaid. 
+in the roots insects burrow, an aura of agony. embers remain; however, immune via a damp cloak. 
+a sapling, encased in a cocoon; rather, exoskeleton. it\'s connections burrow beneath layers of soot, each limb\'s demise felt at the core. it feels everything. the bugs run from their impending doom, 
+digging deeper and deeper into the bark, a feeble effort. i understand. i mumble, but more sonar; the reflection stokes the flames burning consciousness. they respond, it pierces, a wind brushes the flames larger and larger, bit by bit seared. the larva survives, 
+immune but quarantined out of fear of contagion. where\'s the normality? what\'s left after? i hard reset my phone, it made me install a lot of bloatware.
+ you know it\'s spying on you? all those user agreements, i haven\'t read them.
+ i\'m sure you\'ve never disabled all the opt-in tracking, i\'m sure you resign yourself to using the fingerprint unlocker because you\'re too lazy to type in 4 numbers.
+  one more added to the database! facial recognition? so Sum Ting-Wong Megacorp can add you to their evergrowing neural network? you\'re helping support chinese totalitarianism in a way.
+   it\'s pushed as the future. 322, take one. it\'s a waiting game, you have to do it properly. slight waves sweep in and it\'s here. a strength and willingness appear, but to do what? 
+   nothing is here, it\'s late; go home. i\'m back, so let\'s go again? 322, take two. it\'s a waiting game, you have to do it properly. transmissions begin rising, a kite above me.
+    i see the picture, but i can\'t feel angry? fire draws close, the cloak evaporates. the parcel rises higher and higher, beyond the inferno below. 7000km. condensates and freefalls. 
+    dousing the now hellscape. what\'s left? barren, ashened skeletons quickly disregarded as a stupid mistake. the sapling remains, relieved but wilted.
+     you\'ve so long left! we\'ll deal with it tomorrow, anyway.
 '])])]).
 
 b_content(__Request) -->
@@ -596,7 +654,22 @@ b_content(__Request) -->
                                 'b'),
                                 p(
                                 \['
-Friday, August 15th, 2003. 10 o\'clock PM EST (7 o\'clock PM PST). Dark night (#2E2E2E, https://www.color-hex.com/color/2e2e2e) and a moon whole (#F3F3F3, https://www.color-hex.com/color/f3f3f3) I wandered to the retention pond (Lat: 28.688283, Long: -81.459296), murky water (approx #004931, https://www.color-hex.com/color/004931) whereupon I stumbled a noise beckon\'d (https://i.imgur.com/pWQxvs9.png, https://youtu.be/MO2_dn19zCA?t=20) my ears perked, a noise unknown to me, that time (August 15, 2003; approx 22:05 EST, 19:05 PST) present. My age: 9 years, 2 months, 9 days, 17 hours and 13 minutes. Skin on my feet (approx #FDF2E4, https://www.color-hex.com/color/fdf2e4) sank in mud. My heart, palpitating (135 BPM, approx. 2 asynchronous beats per. 5 seconds) at delights of prospects of losing my virginity. My first orgasm was on June 3rd, 2003 at around 2 PM EST (11 AM PST) my age was 8 years, 11 months, 19 days, 11 hours and 30 minutes assuming my time of birth was June 15th, 1994 at 2:30 AM EST (June 14th, 1994 at 11:30 PM PST) this masturbatory act transpired in a hot tub. The details of this encounter are unimportant. I pludged the depths, paddling across at a rate of 3 MPH (2.6 knots) swampy water beading my face and hair (#694600, https://www.color-hex.com/color/694600) Fruitless efforts, as I attempted to pinpoint the source of my curiosity. Finally: a lilypad (#00640D, https://www.color-hex.com/color/00640d) (approx 11 inches [27.94 cm] wide) held my prize. One adult, male “rana catesbeiana” (Common American Bullfrog) it\'s size (about 7.5 inches wide [19.05 cm], 9 inches long [22.86 cm], 2.3 inches tall [5.842 cm] weighing approximately 100 grams [0.22 pounds]) typical for that of this species, I\'ve discovered. I snatched it, it put up no fight. I hurried back to shore (approx. 3.5 MPH, [3.04 knots]) wherein my eyes (#009313, https://www.color-hex.com/color/009313) gleamed upon sight of this trepid creature. I decided to pull down my jean shorts (#000E82, https://www.color-hex.com/color/000e82) and my underwear (#C2C2C2, https://www.color-hex.com/color/c2c2c2). I parted it\'s lips (#00E71E, https://www.color-hex.com/color/009313) and placed my member (Head: #C23899, https://www.color-hex.com/color/c23899; Shaft: #E5BF9E ALPHA:217, https://www.color-hex.com/color/e5bf9e) inside. I thrusted, he croaked. I finish, my seed (#E0E0E0 ALPHA: 155, https://www.color-hex.com/color/e0e0e0) seeped from his oriface. I toss him back towards the sea, and proceeded back home.
+Friday, August 15th, 2003. 10 o\'clock PM EST (7 o\'clock PM PST). Dark night (#2E2E2E, https://www.color-hex.com/color/2e2e2e) and a moon whole (#F3F3F3, https://www.color-hex.com/color/f3f3f3)
+ I wandered to the retention pond (Lat: 28.688283, Long: -81.459296), murky water (approx #004931, https://www.color-hex.com/color/004931) whereupon 
+ I stumbled a noise beckon\'d (https://i.imgur.com/pWQxvs9.png, https://youtu.be/MO2_dn19zCA?t=20) my ears perked, a noise unknown to me, that time (August 15, 2003; approx 22:05 EST, 
+ 19:05 PST) present. My age: 9 years, 2 months, 9 days, 17 hours and 13 minutes. Skin on my feet (approx #FDF2E4, https://www.color-hex.com/color/fdf2e4) sank in mud. 
+ My heart, palpitating (135 BPM, approx. 2 asynchronous beats per. 5 seconds) at delights of prospects of losing my virginity. My first orgasm was on June 3rd, 2003 at around 2 PM EST (11 AM PST)
+  my age was 8 years, 11 months, 19 days, 11 hours and 30 minutes assuming my time of birth was June 15th, 1994 at 2:30 AM EST (June 14th, 1994 at 11:30 PM PST) this masturbatory act transpired 
+  in a hot tub. The details of this encounter are unimportant. I pludged the depths, paddling across at a rate of 3 MPH (2.6 knots) swampy water 
+  beading my face and hair (#694600, https://www.color-hex.com/color/694600) Fruitless efforts, as I attempted to pinpoint the source of my curiosity. 
+  Finally: a lilypad (#00640D, https://www.color-hex.com/color/00640d) (approx 11 inches [27.94 cm] wide) held my prize. One adult, male "rana catesbeiana" (Common American Bullfrog) 
+  it\'s size (about 7.5 inches wide [19.05 cm], 9 inches long [22.86 cm], 2.3 inches tall [5.842 cm] weighing approximately 100 grams [0.22 pounds]) typical for that of this species, 
+  I\'ve discovered. I snatched it, it put up no fight. I hurried back to shore (approx. 3.5 MPH, [3.04 knots]) wherein my eyes (#009313, https://www.color-hex.com/color/009313) 
+  gleamed upon sight of this trepid creature. I decided to pull down my
+   jean shorts (#000E82, https://www.color-hex.com/color/000e82) and my underwear (#C2C2C2, https://www.color-hex.com/color/c2c2c2). 
+   I parted it\'s lips (#00E71E, https://www.color-hex.com/color/009313) and placed my member (Head: #C23899, https://www.color-hex.com/color/c23899; 
+   Shaft: #E5BF9E ALPHA:217, https://www.color-hex.com/color/e5bf9e) inside. I thrusted, he croaked. I finish, my seed (#E0E0E0 ALPHA: 155, https://www.color-hex.com/color/e0e0e0) 
+   seeped from his oriface. I toss him back towards the sea, and proceeded back home.
 '])])]).
 
 readme_content(_Request) -->
@@ -714,7 +787,7 @@ dvorak_content(_Request) -->
                                 '1. L and R are on terrible fingers. This is really inexcusible imo, and there\'s nothing to defend it.',
                                 br(''),
                                 br(''),
-                                '2. Overuse of right-hand. Right hand is overused in keypresses and distance dramatically. My righthand sucks, so it sucks for me.',
+                                '2. Overuse of right-hand. Right hand is overused in keypresses and distance dramatically. My righthand sucks (bad genetic rng) so it sucks for me.',
                                 br(''),
                                 br(''),
                                 '3. It just doesn\'t feel right to me. This is a combination of lots of things, but it just doesn\'t feel right to me...']),
@@ -722,7 +795,8 @@ dvorak_content(_Request) -->
                                 br(''),
                                 'Short blog to start it off, but just my reasons why I am not a fan of Dvorak. If it works for you, I\'m happy; it just didn\'t for me.',
                                 br(''),
-                                br('')])])]).
+                                br(''),
+                                'I will stick with it for the time being, and see if it becomes more comfortable!'])])]).
 
 % HEADER
 user:body(logo_links, Body) -->
@@ -739,8 +813,8 @@ user:body(logo_links, Body) -->
                     div(class(readmelink),
                     a(href='readme.html', 'README.NFO')),
                     div(class(keyboardlink),
-                    a(href='keyboards.html', 'Keyboards'))]),
+                    a(href='keyboards.html', 'keyboards'))]),
                     div(id(divider),
-                    \['=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=']),
+                    \['=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=']),
                     Body
                     ])).
