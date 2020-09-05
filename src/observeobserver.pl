@@ -74,13 +74,13 @@ stories(_Request) :-
 m(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('m - *observe.observer'),
                 \['     
                 <meta property="og:title" content="m - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/m.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="why can\'t people just be who they want to be? i can\'t accept the world as it is ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -89,13 +89,13 @@ m(_Request) :-
 l(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('l - *observe.observer'),
                 \['     
                 <meta property="og:title" content="l - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/l.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="she feels pain. he feels pain. "what am i? am i real? what am i?" it\'s hard. ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -105,13 +105,13 @@ l(_Request) :-
 k(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('k - *observe.observer'),
                 \['     
                 <meta property="og:title" content="k - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/k.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="i just want us to be happy. im happy. not really? dont know, hard to say. ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -121,13 +121,13 @@ k(_Request) :-
 j(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('j - *observe.observer'),
                 \['     
                 <meta property="og:title" content="j - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/j.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="i dont want to die. they will never understand what we want, it\'s impossible. i want it, you want it; but it is a pipedream. ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -137,13 +137,13 @@ j(_Request) :-
 i(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('i - *observe.observer'),
                 \['     
                 <meta property="og:title" content="i - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/i.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="its stressful. i just want it to stop. i get urges, i get angry, i get frustrated, i get depressed; an angry sadness, a sadness i cant love. ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -153,13 +153,13 @@ i(_Request) :-
 h(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('h - *observe.observer'),
                 \['     
                 <meta property="og:title" content="h - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/h.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="\'writhe in bed time.\' i close my eyes. sink and merge,  ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -169,13 +169,13 @@ h(_Request) :-
 n(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('n - *observe.observer'),
                 \['     
                 <meta property="og:title" content="n - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/n.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="to nia," />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -185,13 +185,13 @@ n(_Request) :-
 g(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('g - *observe.observer'),
                 \['     
                 <meta property="og:title" content="g - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/g.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="swallow and let\'s go. let\'s wait a bit, the calm before the storm? i don\'t know, it\'s been a long time, maybe never? ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -201,13 +201,13 @@ g(_Request) :-
 f(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('f - *observe.observer'),
                 \['     
                 <meta property="og:title" content="f - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/f.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="where one world ends, another begins. locked away, infosphere grows exponential. social paradigm shifts from physical to transpersonal, unveiling the way to vast webs of communication. ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -217,13 +217,13 @@ f(_Request) :-
 e(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('e - *observe.observer'),
                 \['     
                 <meta property="og:title" content="e - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/e.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="curled up touch loss don\'t know. it\'s here and material, light warm candles inside. love smoke empathy embers, slips into bed. i\'m here, i\'m comfortable. ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -233,13 +233,13 @@ e(_Request) :-
 d(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('d - *observe.observer'),
                 \['     
                 <meta property="og:title" content="d - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/d.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="Weird! Nothing going on here. Anybody else see who got married? Anybody see those celebrities break up? Did you see those (SAME SEX!) celebrities making out? It\'s a crazy world we live in, it\'s hot, fast, sleek and changing ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -249,13 +249,13 @@ d(_Request) :-
 c(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('c - *observe.observer'),
                 \['     
                 <meta property="og:title" content="c - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/c.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="stories..." />
+                <meta property="og:description" content="maybe ill delete this when i wake up or maybe i wont idk i feel like im sobered up to own pressing <ENTER> on this one, maybe ill be really embarrassed ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -265,7 +265,7 @@ c(_Request) :-
 gbp(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('gbp - *observe.observer'),
                 \['     
                 <meta property="og:title" content="gbp - *observe.observer" />
                 <meta property="og:type" content="website" />
@@ -281,7 +281,7 @@ gbp(_Request) :-
 b(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer'),
+                [title('b - *observe.observer'),
                 \['     
                 <meta property="og:title" content="b - *observe.observer" />
                 <meta property="og:type" content="website" />
