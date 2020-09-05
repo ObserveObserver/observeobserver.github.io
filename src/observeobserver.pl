@@ -33,6 +33,7 @@ server(Port) :-
 % Hosting pages.
 
 :- http_handler('/', stories, []).
+:- http_handler('/m.html', m, []).
 :- http_handler('/l.html', l, []).
 :- http_handler('/k.html', k, []).
 :- http_handler('/j.html', j, []).
@@ -57,140 +58,320 @@ server(Port) :-
 stories(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('*observe.observer')],
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="*observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
 		 [\html_requires(files('test.css')),
                  (\main_content(Request))]).
 
+m(_Request) :-
+            reply_html_page(
+                logo_links,
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="m - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/m.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 l(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('l - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\l_content(Request))]).     
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="l - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/l.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).       
 
 k(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('k - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\k_content(Request))]).     
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="k - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/k.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
 j(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('j - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\j_content(Request))]).                 
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="j - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/j.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).                
 
 i(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('i - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\i_content(Request))]).
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="i - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/i.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
 h(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('h - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\h_content(Request))]).
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="h - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/h.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
 n(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('n - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\n_content(Request))]).
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="n - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/n.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
                     
 g(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('g - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\g_content(Request))]).               
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="g - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/g.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).              
 
 f(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('f - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\f_content(Request))]).         
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="f - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/f.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).           
 
 e(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('e - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\e_content(Request))]).         
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="e - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/e.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).        
 
 d(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('d - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\d_content(Request))]).          
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="d - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/d.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).        
 
 c(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('c - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\c_content(Request))]).      
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="c - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/c.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
 gbp(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('gbp - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\gbp_content(Request))]).
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="gbp - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/gbp.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
            
 b(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('b - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\b_content(Request))]).
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="b - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/b.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
  readme(_Request) :-
             reply_html_page(
                 logo_links,
-                [title('README.NFO - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\readme_content(Request))]
-                ).
+                [title('README.NFO - *observe.observer'),
+                \['     
+                <meta property="og:title" content="README.NFO - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/readme.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="README.NFO" />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
 blog(_Request) :-
-        reply_html_page(
+            reply_html_page(
                 logo_links,
-                [title('blog - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\blog_index(Request))]
-        ).
+                [title('blogs - *observe.observer'),
+                \['     
+                <meta property="og:title" content="blogs - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/blog.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="blogs..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
 blog1(_Request) :-
-        reply_html_page(
+            reply_html_page(
                 logo_links,
-                [title('1 - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\blog1_content(Request))]
-        ).
+                [title('1 - *observe.observer'),
+                \['     
+                <meta property="og:title" content="1 - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/1.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="blogs..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
 kbindex(_Request) :-
-        reply_html_page(
+            reply_html_page(
                 logo_links,
-                [title('keyboards - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\kbindex_content(Request))]
-        
-        ).
+                [title('keyboards - *observe.observer'),
+                \['     
+                <meta property="og:title" content="keyboards - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/kbindex.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="keyboards..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 dvorak(_Request) :-
-        reply_html_page(
+            reply_html_page(
                 logo_links,
-                [title('Dvorak - *observe.observer')],
-                [\html_requires(files('test.css')),
-                (\dvorak_content(Request))]
-        ).
+                [title('*observe.observer'),
+                \['     
+                <meta property="og:title" content="dvorak - *observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/dvorak.html" />
+                <meta property="og:image" content="http://observe.observer/favicon.ico" />
+                <meta property="og:description" content="keyboards..." />
+                <meta name="theme-color" content="#FFFFFF">
+                <meta name="twitter:card" content="summary_large_image">']
+        ],
+		 [\html_requires(files('test.css')),
+                 (\main_content(Request))]).   
 
 /* Bottom content.
    <style> at top changes the link-bar based on div class.
@@ -207,10 +388,18 @@ main_content(_Request) -->
                         </style>'],
                         div(class(listing),
                         [
+                                div(class(title), a(href='/m.html', h1('m'))),
+                                p(['why can\'t people just be who they want to be? 
+                                i can\'t accept the world as it is. i wish for a pure world, a world where people could be beautiful.
+                                 i want you to be yourself, i don\'t want you to hold back. i know it\'s hard, maybe impossible at times. it\'s a pain i can\'t face.
+                                there\'s so much potential, i\'ve felt and seen it that potential feels limitless ... ',
+                                a(href='/m.html', 'Continue')])]),
+                        div(class(listing),
+                        [
                                 div(class(title), a(href='/l.html', h1('l'))),
                                 p(['she feels pain. he feels pain. "what am i? am i real? what am i?" it\'s hard. she wants to be herself, why can\'t she? she is, but she\'s not. everyone should be. 
                                 it\'s hard, society is cruel; a conveyer belt. the assembly line pushing drone, drone everything. she wants to be beautiful, but how? what is beautiful? beautiful 
-                                to her is atypical, is atypical good? she doesn\'t know ...',
+                                to her is atypical, is atypical good? ... ',
                                 a(href='/l.html', 'Continue')])]),
                         div(class(listing),
                         [
@@ -314,6 +503,30 @@ Friday, August 15th, 2003. 10 o\'clock PM EST (7 o\'clock PM PST). Dark night (#
 
                 ]
              ).
+
+m_content(__Request) -->
+        html(
+                [
+                        div(class(story),
+                        [
+                                h1(id(storytitle),
+                                'm'),
+                                p(
+                                \['why can\'t people just be who they want to be?
+<br><br>
+i can\'t accept the world as it is. i wish for a pure world, a world where people could be beautiful. i want you to be yourself, i don\'t want you to hold back. i know it\'s hard, maybe impossible at times. it\'s a pain i can\'t face. there\'s so much potential, i\'ve felt and seen it. that potential feels limitless, but is out of reach. i wish there was no masking. you\'re fine just the way you are, really. don\'t pretend for others! (i know you have to...) (...i wish you could be <i>you</i>.)
+<br><br>
+i hate mass media, i hate alt media, i hate it all. it\'s all trying to contain your identity, your spirit; i really hate that. i wish you could truly be yourself, who you are at your core, who you were as a child. i wish everyone could. i wish everyone\'s souls could blossom; beecome pure and light! let 3,000,000,000 cultures bloom! let 3,000,000,000 selves emerge. a world where one isn\'t clay for culture to mold, whose parents won\'t dictate who they should and should not be, who they can and cannot be. no gendered, no cultured. no norms, no standard. 
+<br><br>
+i can\'t accept the world as it is. i wish for a world where people cared, a world where people could be compassionate. i want you to cry, i don\'t want you to hold back. i want you to ring true, i want you to be loved. i wish everyone loved each other, at least each other\'s humanities, each others souls. i don\'t want you to hide anymore, i wish you weren\'t afraid. i wish there was no fear, no phobia. i wish we could love and be loved, unequivically. i wish we abandoned earthly power for something much more. more comfort, more security, the last thought in bed always being "i\'m at peace." 
+<br><br>
+i hate the world as it is. it\'s hard for me to accept. i know it\'ll take time, and even then i will never fully accept it. i want to change the world in some small way, for some small amount of people. i want to take away your pain, everyone\'s pain. i want to give you reason to get out of bed, i want you to know you are genuinely loved. 
+<br><br>
+the world\'s a scary place, disconnected and ruthless. people like us don\'t survive. but take my hand, and let\'s bravely set foot together. as long as i\'m with you nothing can go wrong. place trust in me as i trust you, let\'s find the purity, connection, warmth, affirmation and love we all seek deep down. 
+<br><br>
+let\'s discover happiness, in our own little ways.  
+<br><br>
+let\'s do it together.'])])]).
 
 l_content(__Request) -->
         html(
