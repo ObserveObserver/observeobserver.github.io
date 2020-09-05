@@ -85,7 +85,7 @@ m(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\m_content(Request))]).   
 l(_Request) :-
             reply_html_page(
                 logo_links,
@@ -100,7 +100,7 @@ l(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).       
+                 (\l_content(Request))]).       
 
 k(_Request) :-
             reply_html_page(
@@ -116,7 +116,7 @@ k(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\k_content(Request))]).   
 
 j(_Request) :-
             reply_html_page(
@@ -132,7 +132,7 @@ j(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).                
+                 (\j_content(Request))]).                
 
 i(_Request) :-
             reply_html_page(
@@ -148,7 +148,7 @@ i(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\i_content(Request))]).   
 
 h(_Request) :-
             reply_html_page(
@@ -164,7 +164,7 @@ h(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\h_content(Request))]).   
 
 n(_Request) :-
             reply_html_page(
@@ -180,7 +180,7 @@ n(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\n_content(Request))]).   
                     
 g(_Request) :-
             reply_html_page(
@@ -196,7 +196,7 @@ g(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).              
+                 (\g_content(Request))]).              
 
 f(_Request) :-
             reply_html_page(
@@ -212,7 +212,7 @@ f(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).           
+                 (\f_content(Request))]).           
 
 e(_Request) :-
             reply_html_page(
@@ -228,7 +228,7 @@ e(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).        
+                 (\e_content(Request))]).        
 
 d(_Request) :-
             reply_html_page(
@@ -244,7 +244,7 @@ d(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).        
+                 (\d_content(Request))]).        
 
 c(_Request) :-
             reply_html_page(
@@ -260,7 +260,7 @@ c(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\c_content(Request))]).   
 
 gbp(_Request) :-
             reply_html_page(
@@ -276,7 +276,7 @@ gbp(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\gbp_content(Request))]).   
            
 b(_Request) :-
             reply_html_page(
@@ -292,7 +292,7 @@ b(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\b_content(Request))]).   
 
  readme(_Request) :-
             reply_html_page(
@@ -308,7 +308,7 @@ b(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\readme_content(Request))]).   
 
 blog(_Request) :-
             reply_html_page(
@@ -324,7 +324,7 @@ blog(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\blog_index(Request))]).   
 
 blog1(_Request) :-
             reply_html_page(
@@ -340,7 +340,7 @@ blog1(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\blog1_content(Request))]).   
 
 kbindex(_Request) :-
             reply_html_page(
@@ -356,7 +356,7 @@ kbindex(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\kbindex_content(Request))]).   
 dvorak(_Request) :-
             reply_html_page(
                 logo_links,
@@ -371,7 +371,7 @@ dvorak(_Request) :-
                 <meta name="twitter:card" content="summary_large_image">']
         ],
 		 [\html_requires(files('test.css')),
-                 (\main_content(Request))]).   
+                 (\dvorak_content(Request))]).   
 
 /* Bottom content.
    <style> at top changes the link-bar based on div class.
