@@ -63,7 +63,7 @@ stories(_Request) :-
                 <meta property="og:title" content="*observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -79,7 +79,7 @@ m(_Request) :-
                 <meta property="og:title" content="m - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/m.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -94,7 +94,7 @@ l(_Request) :-
                 <meta property="og:title" content="l - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/l.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -110,7 +110,7 @@ k(_Request) :-
                 <meta property="og:title" content="k - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/k.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -126,7 +126,7 @@ j(_Request) :-
                 <meta property="og:title" content="j - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/j.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -142,7 +142,7 @@ i(_Request) :-
                 <meta property="og:title" content="i - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/i.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -158,7 +158,7 @@ h(_Request) :-
                 <meta property="og:title" content="h - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/h.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -174,7 +174,7 @@ n(_Request) :-
                 <meta property="og:title" content="n - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/n.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -190,7 +190,7 @@ g(_Request) :-
                 <meta property="og:title" content="g - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/g.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -206,7 +206,7 @@ f(_Request) :-
                 <meta property="og:title" content="f - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/f.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -222,7 +222,7 @@ e(_Request) :-
                 <meta property="og:title" content="e - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/e.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -238,7 +238,7 @@ d(_Request) :-
                 <meta property="og:title" content="d - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/d.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -254,7 +254,7 @@ c(_Request) :-
                 <meta property="og:title" content="c - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/c.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -270,7 +270,7 @@ gbp(_Request) :-
                 <meta property="og:title" content="gbp - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/gbp.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -286,7 +286,7 @@ b(_Request) :-
                 <meta property="og:title" content="b - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/b.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -302,7 +302,7 @@ b(_Request) :-
                 <meta property="og:title" content="README.NFO - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/readme.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="README.NFO" />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -318,7 +318,7 @@ blog(_Request) :-
                 <meta property="og:title" content="blogs - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/blog.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="blogs..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -334,7 +334,7 @@ blog1(_Request) :-
                 <meta property="og:title" content="1 - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/1.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="blogs..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -350,7 +350,7 @@ kbindex(_Request) :-
                 <meta property="og:title" content="keyboards - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/kbindex.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="keyboards..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
@@ -365,7 +365,7 @@ dvorak(_Request) :-
                 <meta property="og:title" content="dvorak - *observe.observer" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/dvorak.html" />
-                <meta property="og:image" content="http://observe.observer/f/preview.png" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="keyboards..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
