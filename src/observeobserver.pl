@@ -95,7 +95,7 @@ l(_Request) :-
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/l.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="she feels pain. he feels pain. "what am i? am i real? what am i?" it\'s hard. ..." />
+                <meta property="og:description" content="she feels pain. he feels pain. \'what am i? am i real? what am i?\' it\'s hard. ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
