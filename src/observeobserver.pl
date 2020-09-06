@@ -80,7 +80,7 @@ m(_Request) :-
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="http://observe.observer/m.html" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
-                <meta property="og:description" content="why can\'t people just be who they want to be? i can\'t accept the world as it is ..." />
+                <meta property="og:description" content="why can\'t people be who they want to be? i can\'t accept the world as it is ..." />
                 <meta name="theme-color" content="#FFFFFF">
                 <meta name="twitter:card" content="summary_large_image">']
         ],
@@ -389,7 +389,7 @@ main_content(_Request) -->
                         div(class(listing),
                         [
                                 div(class(title), a(href='/m.html', h1('m'))),
-                                p(['why can\'t people just be who they want to be? 
+                                p(['why can\'t people be who they want to be? 
                                 i can\'t accept the world as it is. i wish for a pure world, a world where people could be beautiful.
                                  i want you to be yourself, i don\'t want you to hold back. i know it\'s hard, maybe impossible at times. it\'s a pain i can\'t face.
                                 there\'s so much potential, i\'ve felt and seen it that potential feels limitless ... ',
@@ -512,7 +512,7 @@ m_content(__Request) -->
                                 h1(id(storytitle),
                                 'm'),
                                 p(
-                                \['why can\'t people just be who they want to be?
+                                \['why can\'t people be who they want to be?
 <br><br>
 i can\'t accept the world as it is. i wish for a pure world, a world where people could be beautiful. i want you to be yourself, i don\'t want you to hold back. i know it\'s hard, maybe impossible at times. it\'s a pain i can\'t face. there\'s so much potential, i\'ve felt and seen it. that potential feels limitless, but is out of reach. i wish there was no masking. you\'re fine just the way you are, really. don\'t pretend for others! (i know you have to...) (...i wish you didn\'t.)
 <br><br>
