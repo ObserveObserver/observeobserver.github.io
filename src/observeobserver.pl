@@ -65,8 +65,9 @@ stories(_Request) :-
                 <meta property="og:url" content="http://observe.observer/" />
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
-                <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="theme-color" content="#FFFFFF"/>
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\main_content(Request))]).
@@ -82,7 +83,8 @@ m(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="why can\'t people be who they want to be? i can\'t accept the world as it is ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\m_content(Request))]).   
@@ -97,7 +99,8 @@ l(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="she feels pain. he feels pain. \'what am i? am i real? what am i?\' it\'s hard. ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\l_content(Request))]).       
@@ -113,7 +116,8 @@ k(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="i just want us to be happy. im happy. not really? dont know, hard to say. ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\k_content(Request))]).   
@@ -129,7 +133,8 @@ j(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="i dont want to die. they will never understand what we want, it\'s impossible. i want it, you want it; but it is a pipedream. ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\j_content(Request))]).                
@@ -145,7 +150,8 @@ i(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="its stressful. i just want it to stop. i get urges, i get angry, i get frustrated, i get depressed; an angry sadness, a sadness i cant love. ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\i_content(Request))]).   
@@ -161,7 +167,8 @@ h(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="\'writhe in bed time.\' i close my eyes. sink and merge,  ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\h_content(Request))]).   
@@ -177,7 +184,8 @@ n(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="to nia," />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\n_content(Request))]).   
@@ -193,7 +201,8 @@ g(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="swallow and let\'s go. let\'s wait a bit, the calm before the storm? i don\'t know, it\'s been a long time, maybe never? ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\g_content(Request))]).              
@@ -209,7 +218,8 @@ f(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="where one world ends, another begins. locked away, infosphere grows exponential. social paradigm shifts from physical to transpersonal, unveiling the way to vast webs of communication. ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\f_content(Request))]).           
@@ -225,7 +235,8 @@ e(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="curled up touch loss don\'t know. it\'s here and material, light warm candles inside. love smoke empathy embers, slips into bed. i\'m here, i\'m comfortable. ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\e_content(Request))]).        
@@ -241,7 +252,8 @@ d(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="Weird! Nothing going on here. Anybody else see who got married? Anybody see those celebrities break up? Did you see those (SAME SEX!) celebrities making out? It\'s a crazy world we live in, it\'s hot, fast, sleek and changing ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\d_content(Request))]).        
@@ -257,7 +269,8 @@ c(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="maybe ill delete this when i wake up or maybe i wont idk i feel like im sobered up to own pressing <ENTER> on this one, maybe ill be really embarrassed ..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\c_content(Request))]).   
@@ -273,7 +286,8 @@ gbp(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\gbp_content(Request))]).   
@@ -289,7 +303,8 @@ b(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="stories..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\b_content(Request))]).   
@@ -305,7 +320,8 @@ b(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="README.NFO" />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\readme_content(Request))]).   
@@ -321,7 +337,8 @@ blog(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="blogs..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\blog_index(Request))]).   
@@ -337,7 +354,8 @@ blog1(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="blogs..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\blog1_content(Request))]).   
@@ -353,7 +371,8 @@ kbindex(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="keyboards..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\kbindex_content(Request))]).   
@@ -368,7 +387,8 @@ dvorak(_Request) :-
                 <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
                 <meta property="og:description" content="keyboards..." />
                 <meta name="theme-color" content="#FFFFFF">
-                <meta name="twitter:card" content="summary_large_image">']
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />']
         ],
 		 [\html_requires(files('test.css')),
                  (\dvorak_content(Request))]).   
@@ -407,7 +427,7 @@ main_content(_Request) -->
                                 p(['i just want us to be happy. im happy. not really? dont know, hard to say. sometimes im happy, sometimes im miserable. unfulfilled. 
                                 i want you to be happy. i know why you\'re not, and it\'s ok. i want to make you happy; i want to fix you. it\'s not my job, 
                                 but i have to do it. it\'s in my heart,
-                                 it\'s in my soul. i just want to see you smile. i want to see you comfortable. you will be, i promise. just let me, ok? ...',
+                                 it\'s in my soul. i just want to see you smile. i want to see you comfortable. you will be, i promise. just let me, ok? ... ',
                                 a(href='/k.html', 'Continue')])]),
                         div(class(listing),
                         [
@@ -913,8 +933,6 @@ blog_index(_Request) -->
                         <style>
                         .bloglink {font-weight:bold; font-style:italic;}
                         </style>'],
-                                h1(class(b_top),
-                                 'blogs'),
                                 div(class(blog_title), 
                                 a(href='/blog1.html', h1('#1 - 6/7/2020'))),
                                 p('i dunno yet...')])]).
@@ -943,8 +961,6 @@ kbindex_content(_Request) -->
                         <style>
                         .keyboardlink {font-weight:bold; font-style:italic;}
                         </style>'],
-                                h1(class(b_top),
-                                 'keyboards'),
                                 div(class(blog_title), 
                                 a(href='/dvorak.html', h1('Thoughts on Dvorak (and welcome!)'))),
                                 p(['Using programmer dvorak for 2 years, I\'ve realized it\'s simply not for me; and that\'s okay. 

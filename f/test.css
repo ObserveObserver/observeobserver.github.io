@@ -10,6 +10,12 @@
 	font-weight: normal;
 }
 
+@font-face {
+	font-family:"Pc-9800";
+	src: url("pc-9800.ttf");
+	font-weight: normal;
+}
+
 body {
 	font-family:"3270-font";
 }
@@ -19,12 +25,13 @@ p {
 }
 
 .blog_listing {
-	padding: 40px 400px 0px 400px;
+	padding: 15px 400px 0px 400px;
 	text-align: center;
 }
 
 .story #storytitle {
-	text-align:left;
+	text-align:center;
+	font-size: 44px;
 }
 
 .storiestitle {
@@ -66,16 +73,6 @@ p {
 
 .links {
 	text-align:center;
-}
-
-.story {
-	padding: 40px 550px 0px 550px;
-        text-align: center;
-	font-size:22px;
-}
-
-.story p {
-	text-align:left;
 }
 
 
@@ -147,7 +144,7 @@ h3 {
 }
 
 #divider {
-	text-align:center
+	text-align:center;
 }
 
 .listing h1 {
@@ -158,6 +155,7 @@ h3 {
 .listing p {
 	text-align: left;
 	font-size: 20px;
+}
 
 .listing a {
 	text-color: white;
@@ -168,13 +166,52 @@ h3 {
 }
 
 .story {
-	padding: 40px 400px 0px 400px;
-        text-align: center;
+	padding: 15px 550px 0px 550px;
+        text-align: left;
+	font-size: 22px;
 }
 
-.story p {
-	padding: 40px 400px 0px 400px;
+
+
+
+@media only screen and (max-width: 768px) {
+
+	.story, .listing, .blog_listing  {
+	display: inline;
+	}
+
+	.story {
+	text-align: left;
+	}
+
+	#divider {
+	text-align:center;
+	font-size: 13px;
+	}
+	img {
+  	max-width: 100%;
+  	height: auto;
+	}
+	.story, .blog_listing, .listing {
+	padding: 0px 550px 0px 550px;
+	}
+	.blog_contents p, .listing p {
+	font-size:16px;
+	}
+	.blog_contents h1, .blog_title h1, .listing h1 {
+	font-size: 30px;
+	}
+	.story p {
+	font-size:18px;
+	}
+	code {
+	font-size: 14px;
+	}
+	.story #demo {
+	font-size: 13px;
+	}
+	.links {
+	font-size: 14px;
+	padding: 5px 0px 2px 0px;
+	}
 }
-	
-
-
