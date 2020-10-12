@@ -1,372 +1,211 @@
 <!DOCTYPE html>
-<html lang="en-US" class="no-js">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- TESTING SCRIPT -->
-
-<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <title>*observe.observer</title>
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="dns-prefetch" href="//s.w.org">
+     
+                <meta property="og:title" content="*observe.observer" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="http://observe.observer/" />
+                <meta property="og:image" content="http://observe.observer/f/preview.jpg" />
+                <meta property="og:description" content="stories..." />
+                <meta name="theme-color" content="#FFFFFF"/>
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="f/test.css">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
+</head>
+<body>
+<link rel="icon" type="image/png" href="favicon.ico"/>
+<div class="top">
 
-<link rel="stylesheet" id="wp-block-library-css" href="https://observe.observer/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="blog-posts-block-view-css" href="https://observe.observer/wp-content/plugins/full-site-editing/newspack-blocks/dist/blog-posts-block-view.css" type="text/css" media="all">
-<link rel="stylesheet" id="carousel-block-view-css" href="https://observe.observer/wp-content/plugins/full-site-editing/newspack-blocks/dist/carousel-block-view.css" type="text/css" media="all">
-<link rel="stylesheet" id="premium-content-container-block-css" href="https://observe.observer/wp-content/plugins/full-site-editing/premium-content//style.css" type="text/css" media="all">
-<link rel="stylesheet" id="posts-list-block-style-css" href="https://observe.observer/wp-content/plugins/full-site-editing/posts-list-block/dist/posts-list-block.css" type="text/css" media="all">
-<link rel="stylesheet" id="cyanotype-fonts-css" href="https://fonts.googleapis.com/css?family=Karla%3A400%2C700%2C400italic%2C700italic%7CInconsolata%3A400&subset=latin%2Clatin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="genericons-css" href="https://observe.observer/wp-content/themes/cyanotype/genericons/genericons.css" type="text/css" media="all">
-<link rel="stylesheet" id="cyanotype-style-css" href="https://observe.observer/wp-content/themes/cyanotype/style.css" type="text/css" media="all">
-<style id="jetpack-global-styles-frontend-style-inline-css" type="text/css">
-:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
-</style>
-<script type="text/javascript" src="https://observe.observer/wp-includes/js/jquery/jquery.js"></script>
-<script type="text/javascript" src="https://observe.observer/wp-includes/js/jquery/jquery-migrate.min.js"></script>
-
-
-
-
-
-
-
-				<style type="text/css">
-					@font-face { font-family:anon;src:url(https://observe.observer/wp-content/uploads/2020/05/Anonymous-Pro.ttf) format('truetype');font-display: auto;}@font-face { font-family:ibm plex;src:url(https://observe.observer/wp-content/uploads/2020/05/IBMPlexMono-Medium.ttf) format('truetype');font-display: auto;}@font-face { font-family:pc98;src:url(https://observe.observer/wp-content/uploads/2020/05/pc-9800.ttf) format('truetype');font-display: auto;}				</style>
-				
-		<style type="text/css" id="cyanotype-custom-background-css">
-			body.custom-background,
-			.site-header .sub-menu a,
-			.widget_calendar tbody a:hover,
-			.widget_calendar tbody a:focus,
-			#infinite-footer .container {
-				background-color: #000002;
-			}
-			mark,
-			ins,
-			button:hover,
-			button:focus,
-			button:active,
-			input[type="button"]:hover,
-			input[type="button"]:focus,
-			input[type="button"]:active,
-			input[type="reset"]:hover,
-			input[type="reset"]:focus,
-			input[type="reset"]:active,
-			input[type="submit"]:hover,
-			input[type="submit"]:focus,
-			input[type="submit"]:active,
-			.site-header .nav-menu a:hover,
-			.site-header .nav-menu a:focus,
-			.pagination .prev:hover,
-			.pagination .prev:focus,
-			.pagination .next:hover,
-			.pagination .next:focus,
-			.widget_calendar tbody a,
-			.page-links a:hover,
-			.page-links a:focus,
-			.comment-reply-link:hover,
-			.comment-reply-link:focus,
-			#infinite-handle span:hover,
-			#infinite-handle span:focus {
-				color: #000002;
-			}
-
-			.highlander-dark .comments-area #respond p.form-submit input#comment-submit:hover,
-			.highlander-dark .comments-area #respond p.form-submit input#comment-submit:focus {
-				color: #000002 !important;
-			}
-
-			@media screen and (min-width: 51.755em) {
-				.post-navigation a:hover,
-				.post-navigation a:focus {
-					color: #000002;
-				}
-			}
-
-			.entry-content a,
-			.entry-footer .author-bio a,
-			.page-content a,
-			.taxonomy-description a,
-			.logged-in-as a,
-			.comment-content a,
-			.pingback .comment-body > a,
-			.textwidget a,
-			.aboutme_widget a,
-			.widget_gravatar a,
-			.widget-grofile a,
-			.image-navigation a:hover,
-			.comment-navigation a:hover,
-			.post-navigation a:hover .post-title,
-			.entry-date a:hover,
-			.entry-footer a:hover,
-			.site-title a:hover,
-			.entry-title a:hover,
-			.comment-author a:hover,
-			.comment-metadata a:hover,
-			.pingback .edit-link a:hover,
-			.site-info a:hover,
-			#infinite-footer .blog-credits a:hover {
-				text-shadow: 2px 0 0 #000002, -2px 0 0 #000002;
-			}
-
-			.entry-title a:hover {
-				text-shadow: 2px 2px 0 #000002, -2px 2px 0 #000002;
-			}
-		</style>
-<link rel="icon" href="https://observe.observer/wp-content/uploads/2020/05/ico2_640_icon.ico" sizes="32x32">
-<link rel="icon" href="https://observe.observer/wp-content/uploads/2020/05/ico2_640_icon.ico" sizes="192x192">
-<link rel="apple-touch-icon" href="https://observe.observer/wp-content/uploads/2020/05/ico2_640_icon.ico">
-<meta name="msapplication-TileImage" content="https://observe.observer/wp-content/uploads/2020/05/ico2_640_icon.ico">
-		<style type="text/css" id="wp-custom-css">
-			@font-face {
-	font-family: pc98;  
-	src: url(https://observe.observer/wp-content/uploads/2020/05/pc-9800.ttf);  
-	font-weight: normal;  
-}
-
-@font-face {
-	font-family:anonymous pro;
-	src: url(https://observe.observer/wp-content/uploads/2020/05/Anonymous-Pro.ttf);
-	font-weight: normal;
-}
-
-
-body {
-	font-family: "anonymous pro"
-}
-.site-title a {
-  color: #FFFFFFF !important;
-	font-family: "pc98";
-	font-size: 24px;
-}
-
-
-
-.site-title #masaki-site-title {
-  color: #740000;
-}
-
-.site-header .nav-menu a {
-	font-family: "pc98";
-}
-
-.entry-content a {
-	font-family: "pc98";
-	font-size: 23px;
-}
-
-a .site-title {
-	font-family: "pc98";
-	font-size: 20px;
-	}
-
-p {
-	font-family: "anonymous pro";
-	font-size: 20px;
-}
-
-.site-header .nav-menu a {
-	font-size: 18px;
-}
-
-.entry-title {
-	font-family: "pc98";
-	font-size: 48px
-}
-.entry-title a {
-	font-family: "pc98";
-	font-size: 32px;
-}
-
-.entry-content a {
-	font-family: "pc98";
-}
-
-.site-title:after {
-  content: "|";
-  animation: blink 1.25s infinite;
-}
-
-@keyframes blink {
-    0% {opacity: 1;}
-    1% {opacity: 0;}
-    50% {opacity: 0;}
-    51% {opacity: 1;}
-}
-
-
-}		</style>
-		</head>
-
-<body class="home page-template-default page page-id-7 custom-background single primary-menu no-widgets">
-<div id="page" class="hfeed site">
-	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-
-	
-	<header id="masthead" class="site-header" role="banner">
-		<div class="site-header-top">
-							<nav class="main-navigation" role="navigation">
-					<div class="menu-a-container"><ul id="menu-a" class="nav-menu"><li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-184"><a href="https://observe.observer/" aria-current="page">stories</a></li>
-<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="https://observe.observer/observe/">readme.nfo</a></li>
-</ul></div>				</nav>
-			
-							<button id="sidebar-toggle" class="sidebar-toggle"></button>
-					</div>
-
-		<div class="site-branding">
-			<div class="site-branding-inner">
-				
-								<p class="site-title"><a href="https://observe.observer/" rel="home">*observe.observer</a></p>
-							</div>
-
-					</div>
-	</header>
-
-	<div id="content" class="site-content">
-
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
-
-		
-<article id="post-7" class="post-7 page type-page status-publish hentry">
-	<header class="entry-header">
-		<h1 class="entry-title">stories</h1>	</header>
-
-	
-	<div class="entry-content">
-		
-<p></p>
-
-
-				<div class="wp-block-newspack-blocks-homepage-articles  wpnbha show-image image-aligntop ts-4 is-3 " style="">
-			<div data-posts>
-									<article data-post-id="176">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/23/i/" rel="bookmark">i</a></h2>						<p>it’s stressful. i just want it to stop. i get urges, i get angry, i get frustrated, i get depressed; an angry sadness, a sadness i can’t love. why does it bother me so much? i couldn’t even fucking move, breathing heavily. i gripped nothing as hard i could grip. i saw myself bashing my … <a href="https://observe.observer/2020/05/23/i/" class="more-link">Continue reading <span class="screen-reader-text">i</span></a></p>
-		</div>
-	</article>
-
-			<article data-post-id="166">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/17/h/" rel="bookmark">h</a></h2>						<p>“writhe in bed time.” i close my eyes and cut on my favorite band; melodic, sad, emotional, powerful. Carissa’s Wierd. i sink and merge, yet my legs and arms remain somewhat restless. it’s comfortable, i’m comfortable. warmth forebodes my body, a hug from god. i sink, deeper and deeper and deeper. my thoughts become erratic, … <a href="https://observe.observer/2020/05/17/h/" class="more-link">Continue reading <span class="screen-reader-text">h</span></a></p>
-		</div>
-	</article>
-
-			<article data-post-id="151">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/10/n/" rel="bookmark">n</a></h2>						<p>we’ll live forever, we’ll die together. we’ll become one, together forever. our heart, our soul. our love, our pain. i love you so much.</p>
-		</div>
-	</article>
-
-			<article data-post-id="48">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/08/f-2/" rel="bookmark">g</a></h2>						<p>swallow and let’s go. let’s wait a bit, the calm before the storm? i don’t know, it’s been a long time, maybe never? wait. still waiting. oh, there you are. familiar feeling through arms and legs, it’s okay. huh, words split in 2. words split stretched. words betray comprehencmrozwkefs- i’m slipping back i’m falling through … <a href="https://observe.observer/2020/05/08/f-2/" class="more-link">Continue reading <span class="screen-reader-text">g</span></a></p>
-		</div>
-	</article>
-
-			<article data-post-id="46">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/08/f/" rel="bookmark">f</a></h2>						<p>where one world ends, another begins. locked away, infosphere grows exponential. social paradigm shifts from physical to transpersonal, unveiling the way to vast webs of communication. small colonies exist there; pilgrims, leading a way to the new existence. abnormal, youth left to their own devices. children, that whom substituted their lack of physical with technological. … <a href="https://observe.observer/2020/05/08/f/" class="more-link">Continue reading <span class="screen-reader-text">f</span></a></p>
-		</div>
-	</article>
-
-			<article data-post-id="44">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/08/e/" rel="bookmark">e</a></h2>						<p>curled up touch loss don’t know. it’s here and material, light warm candles inside. love smoke empathy embers, slips into bed. i’m here, i’m comfortable. closed eyes, whisked away. green tendril blue tendril: cuts black, immaterial; soul apparent. key unlocked, door ajar. “what is the truth? what is beyond rationale?” i say to the void. … <a href="https://observe.observer/2020/05/08/e/" class="more-link">Continue reading <span class="screen-reader-text">e</span></a></p>
-		</div>
-	</article>
-
-			<article data-post-id="40">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/08/d/" rel="bookmark">d</a></h2>						<p>Weird! Nothing going on here. Anybody else see who got married? Anybody see those celebrities break up? Did you see those (SAME SEX!) celebrities making out? It’s a crazy world we live in, it’s hot, fast, sleek and changing; here today gone tomorrow. The latest fashion, the latest accessories, the latest tech; we live in … <a href="https://observe.observer/2020/05/08/d/" class="more-link">Continue reading <span class="screen-reader-text">d</span></a></p>
-		</div>
-	</article>
-
-			<article data-post-id="38">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/08/c/" rel="bookmark">c</a></h2>						<p>maybe ill delete this when i wake up or maybe i wont idk i feel like im sobered up to own pressing <ENTER> on this one, maybe ill be really embarrassed. coming down off a very strength 25e trip which usually makes me want to write things even if its something g*y like a “””blog … <a href="https://observe.observer/2020/05/08/c/" class="more-link">Continue reading <span class="screen-reader-text">c</span></a></p>
-		</div>
-	</article>
-
-			<article data-post-id="36">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/08/gbp/" rel="bookmark">gbp</a></h2>						<p>today the thoughts ablaze, everyday the same way. ruminations parallaxed through internal nocs. electronic escape puts the mind to ease, for this a debt unpaid. in the roots insects burrow, an aura of agony. embers remain; however, immune via a damp cloak. a sapling, encased in a cocoon; rather, exoskeleton. it’s connections burrow beneath layers … <a href="https://observe.observer/2020/05/08/gbp/" class="more-link">Continue reading <span class="screen-reader-text">gbp</span></a></p>
-		</div>
-	</article>
-
-			<article data-post-id="42">
-		
-		<div class="entry-wrapper">
-			<h2 class="entry-title"><a href="https://observe.observer/2020/05/08/b/" rel="bookmark">b</a></h2>						<p>Friday, August 15th, 2003. 10 o’clock PM EST (7 o’clock PM PST). Dark night (#2E2E2E, https://www.color-hex.com/color/2e2e2e) and a moon whole (#F3F3F3, https://www.color-hex.com/color/f3f3f3) I wandered to the retention pond (Lat: 28.688283, Long: -81.459296), murky water (approx #004931, https://www.color-hex.com/color/004931) whereupon I stumbled a noise beckon’d (https://i.imgur.com/pWQxvs9.png, https://youtu.be/MO2_dn19zCA?t=20) my ears perked, a noise unknown to me, that time … <a href="https://observe.observer/2020/05/08/b/" class="more-link">Continue reading <span class="screen-reader-text">b</span></a></p>
-		</div>
-	</article>
-
-					</div>
-			
-		</div>
-				
-
-
-<figure class="wp-block-image size-large"><img src="https://observe.observer/wp-content/uploads/2020/05/ascii3.png" alt="*o.o" class="wp-image-139" srcset="https://observe.observer/wp-content/uploads/2020/05/ascii3.png 800w,https://observe.observer/wp-content/uploads/2020/05/ascii3-300x150.png 300w,https://observe.observer/wp-content/uploads/2020/05/ascii3-768x383.png 768w,https://observe.observer/wp-content/uploads/2020/05/ascii3-192x96.png 192w" sizes="(max-width: 800px) 100vw, 800px"></figure>
-			</div>
-
-	</article>
-
-		</main>
-	</div>
-
-			<div id="sidebar" class="sidebar">
-		<div id="sidebar-inner" class="sidebar-inner">
-
-					<nav class="main-navigation" role="navigation">
-				<h2 class="menu-heading widget-title">Menu</h2>
-				<div class="menu-a-container"><ul id="menu-a-1" class="nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-184"><a href="https://observe.observer/" aria-current="page">stories</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="https://observe.observer/observe/">readme.nfo</a></li>
-</ul></div>			</nav>
-		
-		
-		
-		</div>
-	</div>
-
-	</div>
-
-
-
-
-
-
+<h1>*observe.observer</h1>
 
 </div>
+<div class="links">
+<div class="storieslink"><a href="index.html">stories</a></div>
+<div class="bloglink"><a href="blog.html" name="hello">blog</a></div>
+<div class="readmelink"><a href="readme.html">README.NFO</a></div>
+<div class="keyboardlink"><a href="keyboards.html">keyboards</a></div>
+</div>
+<div id="divider">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</div>
 
-<script type="text/javascript" src="https://observe.observer/wp-includes/js/dist/vendor/wp-polyfill.min.js"></script>
-<script type="text/javascript">
-( 'fetch' in window ) || document.write( '<script src="https://observe.observer/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0">' + 'ipt>' );( document.contains ) || document.write( '<script src="https://observe.observer/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0">' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://observe.observer/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0">' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://observe.observer/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4">' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://observe.observer/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12">' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://observe.observer/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2">' + 'ipt>' );
-</script>
-<script type="text/javascript" src="https://observe.observer/wp-content/plugins/full-site-editing/newspack-blocks/dist/blog-posts-block-view.js"></script>
-<script type="text/javascript" src="https://observe.observer/wp-includes/js/dist/vendor/lodash.min.js"></script>
-<script type="text/javascript">
-window.lodash = _.noConflict();
-</script>
-<script type="text/javascript" src="https://observe.observer/wp-includes/js/dist/dom-ready.min.js"></script>
-<script type="text/javascript" src="https://observe.observer/wp-content/plugins/full-site-editing/newspack-blocks/dist/carousel-block-view.js"></script>
-<script type="text/javascript" src="https://observe.observer/wp-content/themes/cyanotype/js/skip-link-focus-fix.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
-var toggleButtonText = {"menu":"Menu","widgets":"Widgets","both":"Menu & Widgets"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://observe.observer/wp-content/themes/cyanotype/js/functions.js"></script>
+                        <style>
+                        .storieslink {font-weight:bold; font-style:italic;}
+                        </style>
+<div class="listing">
+<div class="title"><a href="m.html">
+
+<h1>m</h1>
+
+</a></div>
+
+<p>
+why can't people be who they want to be? 
+                                i can't accept the world as it is. i wish for a pure world, a world where people could be beautiful.
+                                 i want you to be yourself, i don't want you to hold back. i know it's hard, maybe impossible at times. it's a pain i can't face.
+                                there's so much potential, i've felt and seen it that potential feels limitless ... <a href="m.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="l.html">
+
+<h1>l</h1>
+
+</a></div>
+
+<p>
+she feels pain. he feels pain. "what am i? am i real? what am i?" it's hard. she wants to be herself, why can't she? she is, but she's not. everyone should be. 
+                                it's hard, society is cruel; a conveyer belt. the assembly line pushing drone, drone everything. she wants to be beautiful, but how? what is beautiful? beautiful 
+                                to her is atypical, is atypical good? ... <a href="l.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="k.html">
+
+<h1>k</h1>
+
+</a></div>
+
+<p>
+i just want us to be happy. im happy. not really? dont know, hard to say. sometimes im happy, sometimes im miserable. unfulfilled. 
+                                i want you to be happy. i know why you're not, and it's ok. i want to make you happy; i want to fix you. it's not my job, 
+                                but i have to do it. it's in my heart,
+                                 it's in my soul. i just want to see you smile. i want to see you comfortable. you will be, i promise. just let me, ok? ... <a href="k.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="j.html">
+
+<h1>j</h1>
+
+</a></div>
+
+<p>
+i dont want to die. they will never understand what we want, it's impossible. i want it, you want it;
+                                 but it is a pipedream. you can't fault "normal" people for thinking we are crazy; 
+                                 but they will know in death what we mean. they will feel our thoughts and desires, just like we want ... <a href="j.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="i.html">
+
+<h1>i</h1>
+
+</a></div>
+
+<p>
+its stressful. i just want it to stop. i get urges, i get angry, i get frustrated, i get depressed; an angry sadness, a sadness i cant love. 
+                                why does it bother me so much? 
+                                i couldnt even fucking move, breathing heavily. i gripped nothing as hard i could grip. i saw myself bashing my ... <a href="i.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="h.html">
+
+<h1>h</h1>
+
+</a></div>
+
+<p>
+"writhe in bed time." i close my eyes. sink and merge, 
+                                my legs and arms remain somewhat restless. it's comfortable, i'm comfortable. warmth forebodes my body, a hug from god ... <a href="h.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="n.html">
+
+<h1>n</h1>
+
+</a></div>
+
+<p>
+
+                                we'll live forever, we'll die together. we'll become one, together forever. our heart, our soul. our love, our pain.
+                                <br><br>
+                                i love you so much.</p></div>
+<div class="listing">
+<div class="title"><a href="g.html">
+
+<h1>g</h1>
+
+</a></div>
+
+<p>
+
+                                swallow and let's go. let's wait a bit, the calm before the storm? i don't know, it's been a long time, maybe never? wait. still waiting. oh, there you are. 
+                                familiar feeling through arms and legs, it's okay. huh, words split in 2. words split stretched. words betray comprehencmrozwkefs- 
+                                i'm slipping back i'm falling through fuck i don't want this? i don't want this? i don't want this? ...
+                                              <a href="g.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="f.html">
+
+<h1>f</h1>
+
+</a></div>
+
+<p>
+
+where one world ends, another begins. locked away, infosphere grows exponential. social paradigm shifts from physical to transpersonal, unveiling the way to vast webs of communication. small colonies exist there; pilgrims, leading a way to the new existence
+ ...
+                                              <a href="f.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="e.html">
+
+<h1>e</h1>
+
+</a></div>
+
+<p>
+
+curled up touch loss don't know. it's here and material, light warm candles inside. love smoke empathy embers, slips into bed. i'm here, i'm comfortable. closed eyes, whisked away. green tendril blue tendril: cuts black, immaterial; soul apparent
+ ...
+                                              <a href="e.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="d.html">
+
+<h1>d</h1>
+
+</a></div>
+
+<p>
+
+Weird! Nothing going on here. Anybody else see who got married? Anybody see those celebrities break up? Did you see those (SAME SEX!) celebrities making out? It's a crazy world we live in, it's hot, fast, sleek and changing; here today gone tomorrow
+ ...
+                                              <a href="d.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="c.html">
+
+<h1>c</h1>
+
+</a></div>
+
+<p>
+
+maybe ill delete this when i wake up or maybe i wont idk i feel like im sobered up to own pressing <ENTER> on this one, maybe ill be really embarrassed.
+<br><br>
+coming down off a very strength 25e trip which usually makes me want to write things even if its something g*y like a """blog post""" ...
+                                              <a href="c.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="gbp.html">
+
+<h1>gbp</h1>
+
+</a></div>
+
+<p>
+
+today the thoughts ablaze, everyday the same way. ruminations parallaxed through internal nocs. electronic escape puts the mind to ease, for this a debt unpaid. in the roots insects burrow, an aura of agony
+ ...
+                                              <a href="gbp.html">Continue</a></p></div>
+<div class="listing">
+<div class="title"><a href="b.html">
+
+<h1>b</h1>
+
+</a></div>
+
+<p>
+
+Friday, August 15th, 2003. 10 o'clock PM EST (7 o'clock PM PST). Dark night (#2E2E2E, https://www.color-hex.com/color/2e2e2e) and a moon whole (#F3F3F3, https://www.color-hex.com/color/f3f3f3) I wandered to the retention pond (Lat: 28.688283, Long: -81.459296), murky water (approx #004931, https://www.color-hex.com/color/004931) whereupon I stumbled a noise beckon'd
+ ...
+                                              <a href="b.html">Continue</a></p></div>
+
+<center>
+<img src="f/logo.png">
+</center>
+
+<center>
+<a href="https://github.com/ObserveObserver/observeobserver.github.io/blob/master/src/observeobserver.pl">Written in SWI-Prolog</a>
+</center>
+
 </body>
 </html>
