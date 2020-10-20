@@ -43,10 +43,11 @@
            CALL 'BANNER'.
            DISPLAY
                  DIV LINEAGE BECOMES '"story"' CLOSE-DIV
-                   SCRIPT SRC BECOMES '"HTTPS://AJAX.GOOGLEAPIS.COM/AJAX
-      -    '/LIBS/JQUERY/3.4.0/JQUERY.MIN.JS"' CLOSE-SCRIPT
+                   SCRIPT SRC BECOMES
+           '"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.m
+      -    'in.js"' CLOSE-SCRIPT
                    END-SCRIPT
-                   SCRIPT SRC BECOMES '"F/README.JS"' CLOSE-SCRIPT
+                   SCRIPT SRC BECOMES '"f/readme.js"' CLOSE-SCRIPT
                    END-SCRIPT
                    PARA IDENTITY BECOMES '"demo"' CLOSE-PARA
                    END-PARA

@@ -31,8 +31,8 @@
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:image"'
-                     CON BECOMES '"http://observe.observer/f/preview.jpg
-      -    '>"'
+                     CON BECOMES '"https://observe.observer/f/preview.jp
+      -    'g"'
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:description"'

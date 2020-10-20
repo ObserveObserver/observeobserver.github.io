@@ -33,7 +33,7 @@
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:image"'
-                   CON BECOMES '"http://observe.observer/f/preview.jpg"'
+                  CON BECOMES '"https://observe.observer/f/preview.jpg"'
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:description"'
@@ -57,7 +57,7 @@
                    SCRIPT SRC BECOMES '"https://ajax.googleapis.com/ajax
       -    '/libs/jquery/3.4.0/jquery.min.js"' CLOSE-SCRIPT
                    END-SCRIPT
-                   SCRIPT SRC BECOMES '"F/TYPEWRITER.JS"' CLOSE-SCRIPT
+                   SCRIPT SRC BECOMES '"f/typeWriter.js"' CLOSE-SCRIPT
                    END-SCRIPT
                    PARA IDENTITY BECOMES '"demo"' CLOSE-PARA
                    END-PARA

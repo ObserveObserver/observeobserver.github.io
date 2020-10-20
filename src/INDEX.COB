@@ -27,19 +27,17 @@
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:url"'
-                      CON BECOMES '"HTTPS://OBSERVE.OBSERVER/INDEX.HTML"
+                      CON BECOMES '"HTTPS://OBSERVE.OBSERVER/index.html"
       -    ''
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:image"'
-                     CON BECOMES '"http://observe.observer/f/preview.jpg
-      -    '>"'
+                     CON BECOMES '"https://observe.observer/f/preview.jp
+      -    'g"'
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:description"'
-                      CON BECOMES 'i dont want to die. they will never u
-      -    'nderstand what we want, it''s impossible. i want it, you wan
-      -    't it.'
+                      CON BECOMES 'INQUIRE WITHIN'
                  CLOSE-META
            END-DISPLAY.
            CALL 'HEAD'.
