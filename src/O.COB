@@ -19,23 +19,27 @@
                  CAPTION
                    'o - *observe.observer'
                  END-CAPTION
-                 META BECOMES '"og:title"'
+                 META NAM BECOMES '"og:title"'
                    CON BECOMES '"o - *observe.observer"'
                  CLOSE-META
                  NL
-                 META BECOMES '"og:type"'
+                 META NAM BECOMES '"twitter:title"'
+                   CON BECOMES '"o - *observe.observer"'
+                 CLOSE-META
+                 NL
+                 META NAM BECOMES '"og:type"'
                    CON BECOMES '"website"'
                  CLOSE-META
                  NL
-                 META BECOMES '"og:url"'
+                 META NAM BECOMES '"og:url"'
                    CON BECOMES '"HTTPS://OBSERVE.OBSERVER/O.HTML"'
                  CLOSE-META
                  NL
-                 META BECOMES '"og:image"'
+                 META NAM BECOMES '"og:image"'
                  CON BECOMES '"http://observe.observer/f/preview.jpg"'
                  CLOSE-META
                  NL
-                 META BECOMES '"og:description"'
+                 META NAM BECOMES '"og:description"'
                    CON BECOMES '"Perennial three, to perennial thou. Fin
       -    'd''st me, find''st me! This world corrupt, unjust impure..."
       -    ''
