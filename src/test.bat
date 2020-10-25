@@ -1,0 +1,1 @@
+FOR /R %%F in (*.COB) do COBC -x -o ..\..\..\te\%%~nxF %%~nxF HEAD.CBL BANNER.CBL

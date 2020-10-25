@@ -15,7 +15,7 @@
            END-DIV
            DIV LINEAGE BECOMES '"links"' CLOSE-DIV
              DIV LINEAGE BECOMES '"storieslink"' CLOSE-DIV
-               LINK URL BECOMES '"INDEX.COB"' CLOSE-LINK
+               LINK URL BECOMES '"/"' CLOSE-LINK
                  'stories'
                END-LINK
              END-DIV
