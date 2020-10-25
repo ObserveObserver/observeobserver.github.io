@@ -1,0 +1,22 @@
+<!DOCTYPE html><HEAD>
+<TITLE>f - *observe.observer</TITLE><META="og:title" CONTENT="f - *observe.observer">
+<META="og:type" CONTENT="website">
+<META="og:url" CONTENT="HTTPS://OBSERVE.OBSERVER/G.HTML">
+<META="og:image" CONTENT="http://observe.observer/f/preview.jpg">
+<META="og:description" CONTENT="'writhe in bed time.' i close my eyes. sit and merge, my legs and arms remains somewhat restless.">
+<META NAME="theme-color" CONTENT="#FFFFFF">
+<META NAME="twitter:card" CONTENT="summary_large_image">
+<META NAME="twitter:image" CONTENT="https://observe.observer/f/preview.jpg">
+<META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0">
+<LINK REL="stylesheet" TYPE="text/css" HREF="f/test.css">
+<META http-equiv="content-type" CONTENT="text/html; charset=UTF-8">
+
+</HEAD>
+<BODY>
+<DIV  CLASS="top"><H1>*observe.observer</H1></DIV><DIV  CLASS="links"><DIV  CLASS="storieslink"><A  HREF="/">stories</A></DIV>
+<DIV  CLASS="bloglink"><A  HREF="BLOG.HTML">blog</A></DIV>
+<DIV  CLASS="readmelink"><A  HREF="README.HTML">README.NFO</A></DIV>
+<DIV  CLASS="keyboardlink"><A  HREF="KEYBOARDS.HTML">keyboards</A></DIV></DIV>
+<DIV  ID="divider">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</DIV>
+
+<DIV  CLASS=story><H1 ID=storytitle>f</H1><P>where one world ends, another begins. locked away, infosphere grows exponential. social paradigm shifts from physical to transpersonal, unveiling the way to vast webs of communication. small colonies exist there; pilgrims, leading a way to the new existence. abnormal, youth left to their own devices. children, that whom substituted their lack of physical with technological. a path carved from ruin and sadness, strife and loneliness. a proxy-world; a just world for those left behind. a world to be built upon new values. learned and spread. seized and believed. razed the status-quo; the new normal arrives. hope for a generation lost, found amongst a sea of information. tsunami crash, and wash away the sins of their elders. physical bodies foregone for new identities. their avatars constructed into the ideal selves, their souls lain bare. a world of connection, what they only dreamed of. arms linked, soul nodes weave; invisible, absolute. a rebellion by society's lost and broken; with no decay. no loneliness. an invisible network of infinite connection. no one needs to be alone. no one should be alone. <BR><BR>i want to connect. <BR>i want to be connected. <BR>i don't want to be alone. <BR>i don't want anyone to be alone. <BR>i want to merge.<BR>i want everyone to merge. <BR>it's unfair, isn' it? <BR>so close, yet so far. <BR>there's temptation in death, knowing connection awaits. <BR>the pain of diaspora will be eased one day; <BR>and one day i'll feel it. </P></DIV></BODY>
