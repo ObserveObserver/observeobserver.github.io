@@ -18,7 +18,7 @@
                  NL
                  META NAM BECOMES '"twitter:image"'
                       CON BECOMES '"https://observe.observer/f/preview.j
-      -    'pg"'
+      -    'pg">'
                  NL
                  META NAM BECOMES '"viewport"'
                       CON BECOMES '"width=device-width, initial-scale=1.
