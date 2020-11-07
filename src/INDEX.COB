@@ -13,14 +13,13 @@
                NL
            END-DISPLAY.
            DISPLAY
-               DOC
                HEAD
                  NL
                  CAPTION
-                   '*observe.observer'
+                   'stories - *observe.observer'
                  END-CAPTION
                  META PROP BECOMES '"og:title"'
-                      CON BECOMES '"*observe.observer"'
+                      CON BECOMES '"stories - *observe.observer"'
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:type"'
@@ -52,29 +51,6 @@
                  STYLE
                    '.storieslink {FONT-WEIGHT:BOLD; FONT-STYLE:ITALIC}'
                  END-STYLE
-                 DIV LINEAGE BECOMES 'listing' CLOSE-DIV
-                   DIV LINEAGE BECOMES 'title' CLOSE-DIV
-                     LINK URL BECOMES '"O.COB"' CLOSE-LINK
-                     H1 CLOSE-H1
-                       'o'
-                     END-H1
-                     END-LINK
-                   END-DIV
-                   PARA CLOSE-PARA
-           'Perennial thee, to perennial thou. Find''st me, '
-           'find''st me! This world corrupt, unjust, impure. '
-           'This world perish''d upon mine breast! O'', woe!  '
-           'Dost thou thinkest mine world betrayeth decay?  '
-           'Wherefore? Thou think''st mine words, they doth  '
-           'untrue? Ha! Pity upon thy. Indeed! That pity for '
-           'which anger thou hast taken! I want not thy demise, '
-           'thy to crumble. I want not vengeance, vengeance; '
-           'pity me! PITY ME! HA! '
-                   LINK URL BECOMES '"O.COB"' CLOSE-LINK
-                     'Continue'
-                   END-LINK
-                   END-PARA
-                 END-DIV
                  DIV LINEAGE BECOMES 'listing' CLOSE-DIV
                    DIV LINEAGE BECOMES 'title' CLOSE-DIV
                      LINK URL BECOMES '"M.COB"' CLOSE-LINK
@@ -357,7 +333,7 @@
                  END-MIDDLE
                  MIDDLE
                    LINK URL BECOMES '"https://github.com/ObserveObserver
-      -    '"/observeobserver.github.io/tree/master/src'
+      -    '/observeobserver.github.io/tree/master/src"'
                    CLOSE-LINK
                      'Written in OpenCOBOL'
                    END-LINK

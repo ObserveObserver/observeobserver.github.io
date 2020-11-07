@@ -15,10 +15,9 @@
                  META NAM BECOMES '"twitter:card"'
                       CON BECOMES '"summary_large_image"'
                    CLOSE-META
-                 NL
                  META NAM BECOMES '"twitter:image"'
                       CON BECOMES '"https://observe.observer/f/preview.j
-      -    'pg">'
+      -    'pg"'    CLOSE-META
                  NL
                  META NAM BECOMES '"viewport"'
                       CON BECOMES '"width=device-width, initial-scale=1.

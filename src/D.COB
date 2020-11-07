@@ -36,10 +36,10 @@
                  CLOSE-META
                  NL
                  META BECOMES '"og:description"'
-                   CON BECOMES '"''writhe in bed time.'' i close my eyes
-      -    '. sit and merge, my legs and arms remains somewhat restless.
-      -    '"'
-                 CLOSE-META
+                   CON BECOMES '"Weird! Nothing going on here. Anybody e
+      -    'lse see who got married? Anybody see those celebrities break
+      -    ' up?"'
+                   CLOSE-META
            END-DISPLAY.
            CALL 'HEAD'.
            DISPLAY

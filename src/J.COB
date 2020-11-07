@@ -36,9 +36,9 @@
                  CLOSE-META
                  NL
                  META BECOMES '"og:description"'
-                   CON BECOMES 'i dont want to die. they will never unde
-      -    'rstand what we want, it''s impossible. i want it, you want
-      -    'it .'
+                   CON BECOMES '"i dont want to die. they will never und
+      -    'erstand what we want, it''s impossible. i want it, you want
+      -    'it.'
                  CLOSE-META
            END-DISPLAY.
            CALL 'HEAD'.

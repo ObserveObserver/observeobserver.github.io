@@ -36,9 +36,7 @@
                  CLOSE-META
                  NL
                  META BECOMES '"og:description"'
-                   CON BECOMES '"''writhe in bed time.'' i close my eyes
-      -    '. sit and merge, my legs and arms remains somewhat restless.
-      -    '"'
+                   CON BECOMES '"stupid blog"'
                  CLOSE-META
            END-DISPLAY.
            CALL 'HEAD'.

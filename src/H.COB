@@ -14,6 +14,7 @@
            END-DISPLAY.
            DISPLAY
                DOC
+               NL
                HEAD
                  NL
                  CAPTION

@@ -13,6 +13,7 @@
                NL
            END-DISPLAY.
            DISPLAY
+             DOC
                HEAD
                  NL
                  CAPTION

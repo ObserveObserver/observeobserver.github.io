@@ -12,10 +12,11 @@
                NL
            END-DISPLAY.
            DISPLAY
+               DOC
                HEAD
                  NL
                  CAPTION
-                   'm - *observe.observer'
+                   'L - *observe.observer'
                  END-CAPTION
                  META BECOMES '"og:title"'
                    CON BECOMES '"m - *observe.observer"'

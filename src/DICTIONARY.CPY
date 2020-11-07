@@ -23,7 +23,7 @@
        01  NAM         PIC X(5)    VALUE ' NAME'.
        01  STYLE       PIC X(7)    VALUE '<STYLE>'.
        01  END-STYLE   PIC X(9)    VALUE '</STYLE>'.
-       01  SCRIPT      PIC X(13)   VALUE '<SCRIPT'.
+       01  SCRIPT      PIC X(7)    VALUE '<SCRIPT'.
        01  SRC         PIC X(4)    VALUE ' SRC'.
        01  END-SCRIPT  PIC X(9)    VALUE '</SCRIPT>'.
        01  IDENTITY    PIC X(3)    VALUE ' ID'.

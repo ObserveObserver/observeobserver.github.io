@@ -64,7 +64,7 @@
                  END-MIDDLE
                  MIDDLE
                    LINK URL BECOMES '"https://github.com/ObserveObserver
-      -    '"/observeobserver.github.io/tree/master/src'
+      -    '/observeobserver.github.io/tree/master/src"'
                    CLOSE-LINK
                      'Written in OpenCOBOL'
                    END-LINK

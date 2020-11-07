@@ -29,7 +29,7 @@
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:url"'
-                      CON BECOMES '"HTTPS://OBSERVE.OBSERVER/I.HTML"'
+                      CON BECOMES '"HTTPS://OBSERVE.OBSERVER/M.HTML"'
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:image"'
@@ -37,9 +37,9 @@
                  CLOSE-META
                  NL
                  META PROP BECOMES '"og:description"'
-                      CON BECOMES '"why does it bother me so much? i coud
-      -    'i couldn''t even move. breathing heavily, i gripped nothing
-      -    'as hard as i could...'
+                      CON BECOMES '"why does it bother me so much? i cou
+      -    'ldn''t even move. breathing heavily, i gripped nothing as ha
+      -    'rd as i could..."'
                  CLOSE-META
            END-DISPLAY.
            CALL 'HEAD'.
@@ -56,8 +56,7 @@
                      'i'
                    END-H1
                    SCRIPT SRC BECOMES '"https://ajax.googleapis.com/ajax
-      -    '/libs/jquery/3.4.0/jquery.min.js"'
-                   CLOSE-SCRIPT
+      -    '/libs/jquery/3.4.0/jquery.min.js"' CLOSE-SCRIPT
                    END-SCRIPT
                    SCRIPT SRC BECOMES '"f/typeWriter.js"' CLOSE-SCRIPT
                    END-SCRIPT
