@@ -37,7 +37,7 @@
                  NL
                  META BECOMES '"og:description"'
                    CON BECOMES '"i just want us to be happy. im happy. n
-      -    'ot re ally? dont know, hard to say...'
+      -    'ot re ally? dont know, hard to say..."'
                  CLOSE-META
            END-DISPLAY.
            CALL 'HEAD'.

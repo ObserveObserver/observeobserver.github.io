@@ -18,6 +18,7 @@
                  CAPTION
                    'L - *observe.observer'
                  END-CAPTION
+                 NL
                  META BECOMES '"og:title"'
                    CON BECOMES '"m - *observe.observer"'
                  CLOSE-META
@@ -33,6 +34,7 @@
                  META BECOMES '"og:image"'
                   CON BECOMES '"http://observe.observer/f/preview.jpg>"'
                  CLOSE-META
+                 NL
                  META BECOMES '"og:description"'
                    CON BECOMES '"she feels pain, he feels pain. what am
       -    'i? am i real? what am i?..."'
