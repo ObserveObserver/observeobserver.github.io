@@ -140,7 +140,7 @@ h3 {
 
 .listing {
 	display: block;
-	padding: 15px 300px 0px 300px;
+	padding: 15px 550px 0px 550px;
 }
 
 #divider {
@@ -166,7 +166,7 @@ h3 {
 }
 
 .story {
-	padding: 15px 300px 0px 300px;
+	padding: 15px 550px 0px 550px;
         text-align: left;
 	font-size: 22px;
 }
@@ -193,7 +193,7 @@ h3 {
   	height: auto;
 	}
 	.story, .blog_listing, .listing {
-	padding: 0px 300px 0px 300px;
+	padding: 0px 550px 0px 550px;
 	}
 	.blog_contents p, .listing p {
 	font-size:16px;
@@ -213,5 +213,18 @@ h3 {
 	.links {
 	font-size: 14px;
 	padding: 5px 0px 2px 0px;
+	}
+}
+
+
+@media only screen and (max-width: 1106px) {
+	.story, .blog_listing, .listing {
+	padding: 0px 300px 0px 300px;
+	}
+}
+
+@media only screen and (max-width: 1336px) {
+	.story, .blog_listing, .listing {
+	padding: 0px 400px 0px 400px;
 	}
 }
