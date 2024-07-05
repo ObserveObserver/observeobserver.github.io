@@ -1,0 +1,410 @@
+
+<!DOCTYPE html>
+<HEAD>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@observe.observer" />
+<meta name="twitter:title" content="*observe.observer - q" />
+<meta name="twitter:description" content="q" />
+<meta name="twitter:image" content="https://observe.observer/f/preview.jpg" />
+<TITLE>q - *observe.observer</TITLE>
+<LINK REL="stylesheet" TYPE="text/css" HREF="https://observe.observer/f/test.css">
+<META http-equiv="content-type" CONTENT="text/html; charset=UTF-8">
+
+</HEAD>
+<BODY>
+<DIV  CLASS="top"><H1>*observe.observer</H1></DIV><DIV  CLASS="links"><DIV  CLASS="storieslink"><A  HREF="https://observe.observer">stories</A></DIV>
+<DIV  CLASS="bloglink"><A  HREF="BLOG.HTML">blog</A></DIV>
+<DIV  CLASS="readmelink"><A  HREF="README.HTML">README.NFO</A></DIV>
+<DIV  CLASS="keyboardlink"><A  HREF="KEYBOARDS.HTML">keyboards</A></DIV></DIV>
+<DIV  ID="divider">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</DIV>
+
+<DIV  CLASS=story><H1 ID=storytitle>q</H1><div ID="srcArea"></div><P id="storytext" style="overflow-wrap: break-word;">cons = \h t c n -> c h (t c n)<br>
+nil = \c n -> n<br>
+lizt = \l -> l cons nil<br>
+append = \xs ys c n -> xs c (ys c n)<br>
+<br>
+li = \x y -> append (cons (\c n -> c '[' n) (append x (cons (\c n -> c ']' n) nil))) y<br>
+<br>
+<br>
+br = \x -> append (cons ' ' (cons 'b' (cons 'r' (cons ' ' nil)))) x<br>
+<br>
+shehetheythe = \x -> append (cons 's' (cons 'h' (cons 'e' (cons '/' (cons 'h' (cons 'e' (cons '/' (cons 't' (cons 'h' (cons 'e' (cons 'y' (cons '/' (cons 't' (cons 'h' (cons 'e' (cons ' ' nil)))))))))))))))) x<br>
+broke = \x -> append (cons 'b' (cons 'r' (cons 'o' (cons 'k' (cons 'e' (cons ' ' nil)))))) x<br>
+black = \x -> append (cons 'b' (cons 'l' (cons 'a' (cons 'c' (cons 'k' (cons ' ' nil)))))) x<br>
+conception = \x -> append (cons 'c' (cons 'o' (cons 'n' (cons 'c' (cons 'e' (cons 'p' (cons 't' (cons 'i' (cons 'o' (cons 'n' (cons ' ' nil))))))))))) x<br>
+returN = \x -> append (cons 'r' (cons 'e' (cons 't' (cons 'u' (cons 'r' (cons 'n' (cons ' ' nil))))))) x<br>
+spawn = \x -> append (cons 's' (cons 'p' (cons 'a' (cons 'w' (cons 'n' (cons ' ' nil)))))) x<br>
+looks = \x -> append (cons 'l' (cons 'o' (cons 'o' (cons 'k' (cons 's' (cons ' ' nil)))))) x<br>
+around = \x -> append (cons 'a' (cons 'r' (cons 'o' (cons 'u' (cons 'n' (cons 'd' (cons ' ' nil))))))) x<br>
+needs = \x -> append (cons 'n' (cons 'e' (cons 'e' (cons 'd' (cons 's' (cons ' ' nil)))))) x<br>
+liturgy = \x -> append (cons 'l' (cons 'i' (cons 't' (cons 'u' (cons 'r' (cons 'g' (cons 'y' (cons ' ' nil)))))))) x<br>
+oh = \x -> append (cons 'o' (cons 'h' (cons ' ' nil))) x<br>
+lord = \x -> append (cons 'L' (cons 'o' (cons 'r' (cons 'd' (cons ' ' nil))))) x<br>
+hast = \x -> append (cons 'h' (cons 'a' (cons 's' (cons 't' (cons ' ' nil))))) x<br>
+died = \x -> append (cons 'd' (cons 'i' (cons 'e' (cons 'd' (cons ' ' nil))))) x<br>
+wherefore = \x -> append (cons 'w' (cons 'h' (cons 'e' (cons 'r' (cons 'e' (cons 'f' (cons 'o' (cons 'r' (cons 'e' (cons ' ' nil)))))))))) x<br>
+didde = \x -> append (cons 'd' (cons 'i' (cons 'd' (cons 'd' (cons 'e' (cons ' ' nil)))))) x<br>
+goest = \x -> append (cons 'g' (cons 'o' (cons 'e' (cons 's' (cons 't' (cons ' ' nil)))))) x<br>
+inne = \x -> append (cons 'i' (cons 'n' (cons 'n' (cons 'e' (cons ' ' nil))))) x<br>
+troublst = \x -> append (cons 't' (cons 'r' (cons 'o' (cons 'u' (cons 'b' (cons 'l' (cons 's' (cons 't' (cons ' ' nil))))))))) x<br>
+tymes = \x -> append (cons 't' (cons 'y' (cons 'm' (cons 'e' (cons 's' (cons ' ' nil)))))) x<br>
+gOd = \x -> append (cons 'G' (cons 'o' (cons 'd' (cons ' ' nil)))) x<br>
+o = \x -> append (cons 'o' (cons ' ' nil)) x<br>
+dere = \x -> append (cons 'd' (cons 'e' (cons 'r' (cons 'e' (cons ' ' nil))))) x<br>
+thou = \x -> append (cons 'T' (cons 'h' (cons 'o' (cons 'u' (cons ' ' nil))))) x<br>
+art = \x -> append (cons 'a' (cons 'r' (cons 't' (cons ' ' nil)))) x<br>
+when = \x -> append (cons 'w' (cons 'h' (cons 'e' (cons 'n' (cons ' ' nil))))) x<br>
+canst = \x -> append (cons 'c' (cons 'a' (cons 'n' (cons 's' (cons 't' (cons ' ' nil)))))) x<br>
+tHou = \x -> append (cons 't' (cons 'h' (cons 'o' (cons 'u' (cons ' ' nil))))) x<br>
+showst = \x -> append (cons 's' (cons 'h' (cons 'o' (cons 'w' (cons 's' (cons 't' (cons ' ' nil))))))) x<br>
+us = \x -> append (cons 'u' (cons 's' (cons ' ' nil))) x<br>
+thine = \x -> append (cons 'T' (cons 'h' (cons 'i' (cons 'n' (cons 'e' (cons ' ' nil)))))) x<br>
+herte = \x -> append (cons 'h' (cons 'e' (cons 'r' (cons 't' (cons 'e' (cons ' ' nil)))))) x<br>
+purE = \x -> append (cons 'p' (cons 'u' (cons 'r' (cons 'e' (cons ' ' nil))))) x<br>
+theyre = \x -> append (cons 't' (cons 'h' (cons 'e' (cons 'y' (cons 'r' (cons 'e' (cons ' ' nil))))))) x<br>
+saying = \x -> append (cons 's' (cons 'a' (cons 'y' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))) x<br>
+wordz = \x -> append (cons 'w' (cons 'o' (cons 'r' (cons 'd' (cons 's' (cons ' ' nil)))))) x<br>
+scramble = \x -> append (cons 's' (cons 'c' (cons 'r' (cons 'a' (cons 'm' (cons 'b' (cons 'l' (cons 'e' (cons ' ' nil))))))))) x<br>
+omsolete = \x -> append (cons 'o' (cons 'm' (cons 's' (cons 'o' (cons 'l' (cons 'e' (cons 't' (cons 'e' (cons ' ' nil))))))))) x<br>
+desire = \x -> append (cons 'd' (cons 'e' (cons 's' (cons 'i' (cons 'r' (cons 'e' (cons ' ' nil))))))) x<br>
+someplace = \x -> append (cons 's' (cons 'o' (cons 'm' (cons 'e' (cons 'p' (cons 'l' (cons 'a' (cons 'c' (cons 'e' (cons ' ' nil)))))))))) x<br>
+joy = \x -> append (cons 'j' (cons 'o' (cons 'y' (cons ' ' nil)))) x<br>
+happiness = \x -> append (cons 'h' (cons 'a' (cons 'p' (cons 'p' (cons 'i' (cons 'n' (cons 'e' (cons 's' (cons 's' (cons ' ' nil)))))))))) x<br>
+sadness = \x -> append (cons 's' (cons 'a' (cons 'd' (cons 'n' (cons 'e' (cons 's' (cons 's' (cons ' ' nil)))))))) x<br>
+neutral = \x -> append (cons 'n' (cons 'e' (cons 'u' (cons 't' (cons 'r' (cons 'a' (cons 'l' (cons ' ' nil)))))))) x<br>
+between = \x -> append (cons 'b' (cons 'e' (cons 't' (cons 'w' (cons 'e' (cons 'e' (cons 'n' (cons ' ' nil)))))))) x<br>
+perpetual = \x -> append (cons 'p' (cons 'e' (cons 'r' (cons 'p' (cons 'e' (cons 't' (cons 'u' (cons 'a' (cons 'l' (cons ' ' nil)))))))))) x<br>
+nulL = \x -> append (cons 'n' (cons 'u' (cons 'l' (cons 'l' (cons ' ' nil))))) x<br>
+opened = \x -> append (cons 'o' (cons 'p' (cons 'e' (cons 'n' (cons 'e' (cons 'd' (cons ' ' nil))))))) x<br>
+door = \x -> append (cons 'd' (cons 'o' (cons 'o' (cons 'r' (cons ' ' nil))))) x<br>
+walked = \x -> append (cons 'w' (cons 'a' (cons 'l' (cons 'k' (cons 'e' (cons 'd' (cons ' ' nil))))))) x<br>
+licked = \x -> append (cons 'l' (cons 'i' (cons 'c' (cons 'k' (cons 'e' (cons 'd' (cons ' ' nil))))))) x<br>
+teased = \x -> append (cons 't' (cons 'e' (cons 'a' (cons 's' (cons 'e' (cons 'd' (cons ' ' nil))))))) x<br>
+waitress = \x -> append (cons 'w' (cons 'a' (cons 'i' (cons 't' (cons 'r' (cons 'e' (cons 's' (cons 's' (cons ' ' nil))))))))) x<br>
+pulled = \x -> append (cons 'p' (cons 'u' (cons 'l' (cons 'l' (cons 'e' (cons 'd' (cons ' ' nil))))))) x<br>
+hearts = \x -> append (cons 'h' (cons 'e' (cons 'a' (cons 'r' (cons 't' (cons 's' (cons ' ' nil))))))) x<br>
+across = \x -> append (cons 'a' (cons 'c' (cons 'r' (cons 'o' (cons 's' (cons 's' (cons ' ' nil))))))) x<br>
+fluttered = \x -> append (cons 'f' (cons 'l' (cons 'u' (cons 't' (cons 't' (cons 'e' (cons 'r' (cons 'e' (cons 'd' (cons ' ' nil)))))))))) x<br>
+ground = \x -> append (cons 'g' (cons 'r' (cons 'o' (cons 'u' (cons 'n' (cons 'd' (cons ' ' nil))))))) x<br>
+understood = \x -> append (cons 'u' (cons 'n' (cons 'd' (cons 'e' (cons 'r' (cons 's' (cons 't' (cons 'o' (cons 'o' (cons 'd' (cons ' ' nil))))))))))) x<br>
+statement = \x -> append (cons 's' (cons 't' (cons 'a' (cons 't' (cons 'e' (cons 'm' (cons 'e' (cons 'n' (cons 't' (cons ' ' nil)))))))))) x<br>
+we = \x -> append (cons 'w' (cons 'e' (cons ' ' nil))) x<br>
+shoW = \x -> append (cons 's' (cons 'h' (cons 'o' (cons 'w' (cons ' ' nil))))) x<br>
+felt = \x -> append (cons 'f' (cons 'e' (cons 'l' (cons 't' (cons ' ' nil))))) x<br>
+zffton = \x -> append (cons '[' (cons '0' (cons '5' (cons ':' (cons '5' (cons '3' (cons ':' (cons '1' (cons '9' (cons ']' nil)))))))))) x<br>
+sure = \x -> append (cons 's' (cons 'u' (cons 'r' (cons 'e' (cons ' ' nil))))) x<br>
+zffttf = \x -> append (cons '[' (cons '0' (cons '5' (cons ':' (cons '5' (cons '3' (cons ':' (cons '3' (cons '5' (cons ']' nil)))))))))) x<br>
+years = \x -> append (cons 'y' (cons 'e' (cons 'a' (cons 'r' (cons 's' (cons ' ' nil)))))) x<br>
+zffftz = \x -> append (cons '[' (cons '0' (cons '5' (cons ':' (cons '5' (cons '4' (cons ':' (cons '2' (cons '0' (cons ']' nil)))))))))) x<br>
+honest = \x -> append (cons 'h' (cons 'o' (cons 'n' (cons 'e' (cons 's' (cons 't' (cons ' ' nil))))))) x<br>
+scared = \x -> append (cons 's' (cons 'c' (cons 'a' (cons 'r' (cons 'e' (cons 'd' (cons ' ' nil))))))) x<br>
+may = \x -> append (cons 'm' (cons 'a' (cons 'y' (cons ' ' nil)))) x<br>
+for = \x -> append (cons 'f' (cons 'o' (cons 'r' (cons ' ' nil)))) x<br>
+zffftt = \x -> append (cons '[' (cons '0' (cons '5' (cons ':' (cons '5' (cons '5' (cons ':' (cons '3' (cons '2' (cons ']' nil)))))))))) x<br>
+kidding = \x -> append (cons 'k' (cons 'i' (cons 'd' (cons 'd' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))))) x<br>
+left = \x -> append (cons 'l' (cons 'e' (cons 'f' (cons 't' (cons ' ' nil))))) x<br>
+look = \x -> append (cons 'l' (cons 'o' (cons 'o' (cons 'k' (cons ' ' nil))))) x<br>
+treated = \x -> append (cons 't' (cons 'r' (cons 'e' (cons 'a' (cons 't' (cons 'e' (cons 'd' (cons ' ' nil)))))))) x<br>
+your = \x -> append (cons 'y' (cons 'o' (cons 'u' (cons 'r' (cons ' ' nil))))) x<br>
+shot = \x -> append (cons 's' (cons 'h' (cons 'o' (cons 't' (cons ' ' nil))))) x<br>
+how = \x -> append (cons 'h' (cons 'o' (cons 'w' (cons ' ' nil)))) x<br>
+act = \x -> append (cons 'a' (cons 'c' (cons 't' (cons ' ' nil)))) x<br>
+must = \x -> append (cons 'm' (cons 'u' (cons 's' (cons 't' (cons ' ' nil))))) x<br>
+joke = \x -> append (cons 'j' (cons 'o' (cons 'k' (cons 'e' (cons ' ' nil))))) x<br>
+zfffft = \x -> append (cons '[' (cons '0' (cons '5' (cons ':' (cons '5' (cons '5' (cons ':' (cons '4' (cons '3' (cons ']' nil)))))))))) x<br>
+ive = \x -> append (cons 'i' (cons 'v' (cons 'e' (cons ' ' nil)))) x<br>
+been = \x -> append (cons 'b' (cons 'e' (cons 'e' (cons 'n' (cons ' ' nil))))) x<br>
+ready = \x -> append (cons 'r' (cons 'e' (cons 'a' (cons 'd' (cons 'y' (cons ' ' nil)))))) x<br>
+zffszz = \x -> append (cons '[' (cons '0' (cons '5' (cons ':' (cons '5' (cons '6' (cons ':' (cons '0' (cons '0' (cons ']' nil)))))))))) x<br>
+backing = \x -> append (cons 'b' (cons 'a' (cons 'c' (cons 'k' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))))) x<br>
+out = \x -> append (cons 'o' (cons 'u' (cons 't' (cons ' ' nil)))) x<br>
+alone = \x -> append (cons 'a' (cons 'l' (cons 'o' (cons 'n' (cons 'e' (cons ' ' nil)))))) x<br>
+sick = \x -> append (cons 's' (cons 'i' (cons 'c' (cons 'k' (cons ' ' nil))))) x<br>
+zffntz = \x -> append (cons '[' (cons '0' (cons '5' (cons ':' (cons '5' (cons '9' (cons ':' (cons '3' (cons '0' (cons ']' nil)))))))))) x<br>
+amtime = \x -> append (cons 'A' (cons 'M' (cons ' ' nil))) x<br>
+yyyy = \x -> append (cons 'Y' (cons 'Y' (cons 'Y' (cons 'Y' (cons ':' (cons ' ' nil)))))) x<br>
+hello = \x -> append (cons 'h' (cons 'e' (cons 'l' (cons 'l' (cons 'o' (cons ' ' nil)))))) x<br>
+tell = \x -> append (cons 't' (cons 'e' (cons 'l' (cons 'l' (cons ' ' nil))))) x<br>
+youre = \x -> append (cons 'y' (cons 'o' (cons 'u' (cons 'r' (cons 'e' (cons ' ' nil)))))) x<br>
+actually = \x -> append (cons 'a' (cons 'c' (cons 't' (cons 'u' (cons 'a' (cons 'l' (cons 'l' (cons 'y' (cons ' ' nil))))))))) x<br>
+acting = \x -> append (cons 'a' (cons 'c' (cons 't' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))) x<br>
+embarrassing = \x -> append (cons 'e' (cons 'm' (cons 'b' (cons 'a' (cons 'r' (cons 'r' (cons 'a' (cons 's' (cons 's' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))))))) x<br>
+zszftf = \x -> append (cons '[' (cons '0' (cons '6' (cons ':' (cons '0' (cons '5' (cons ':' (cons '3' (cons '5' (cons ']' nil)))))))))) x<br>
+xxxx = \x -> append (cons 'X' (cons 'X' (cons 'X' (cons 'X' (cons ':' (cons ' ' nil)))))) x<br>
+okay = \x -> append (cons 'o' (cons 'k' (cons 'a' (cons 'y' (cons ' ' nil))))) x<br>
+you = \x -> append (cons 'y' (cons 'o' (cons 'u' (cons ' ' nil)))) x<br>
+yOu = \x -> append (cons 'Y' (cons 'o' (cons 'u' (cons ' ' nil)))) x<br>
+werent = \x -> append (cons 'w' (cons 'e' (cons 'r' (cons 'e' (cons 'n' (cons 't' (cons ' ' nil))))))) x<br>
+peer = \x -> append (cons 'p' (cons 'e' (cons 'e' (cons 'r' (cons ' ' nil))))) x<br>
+pressures = \x -> append (cons 'p' (cons 'r' (cons 'e' (cons 's' (cons 's' (cons 'u' (cons 'r' (cons 'e' (cons 's' (cons ' ' nil)))))))))) x<br>
+bitch = \x -> append (cons 'b' (cons 'i' (cons 't' (cons 'c' (cons 'h' (cons ' ' nil)))))) x<br>
+answering = \x -> append (cons 'a' (cons 'n' (cons 's' (cons 'w' (cons 'e' (cons 'r' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))))))) x<br>
+eitheR = \x -> append (cons 'e' (cons 'i' (cons 't' (cons 'h' (cons 'e' (cons 'r' (cons ' ' nil))))))) x<br>
+huh = \x -> append (cons 'h' (cons 'u' (cons 'h' (cons ' ' nil)))) x<br>
+well = \x -> append (cons 'w' (cons 'e' (cons 'l' (cons 'l' (cons ' ' nil))))) x<br>
+makes = \x -> append (cons 'm' (cons 'a' (cons 'k' (cons 'e' (cons 's' (cons ' ' nil)))))) x<br>
+mistakes = \x -> append (cons 'm' (cons 'i' (cons 's' (cons 't' (cons 'a' (cons 'k' (cons 'e' (cons 's' (cons ' ' nil))))))))) x<br>
+haha = \x -> append (cons 'h' (cons 'a' (cons 'h' (cons 'a' (cons ' ' nil))))) x<br>
+sat = \x -> append (cons 's' (cons 'a' (cons 't' (cons ' ' nil)))) x<br>
+she = \x -> append (cons 's' (cons 'h' (cons 'e' (cons ' ' nil)))) x<br>
+nothing = \x -> append (cons 'n' (cons 'o' (cons 't' (cons 'h' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))))) x<br>
+met = \x -> append (cons 'm' (cons 'e' (cons 't' (cons ' ' nil)))) x<br>
+outside = \x -> append (cons 'o' (cons 'u' (cons 't' (cons 's' (cons 'i' (cons 'd' (cons 'e' (cons ' ' nil)))))))) x<br>
+designated = \x -> append (cons 'd' (cons 'e' (cons 's' (cons 'i' (cons 'g' (cons 'n' (cons 'a' (cons 't' (cons 'e' (cons 'd' (cons ' ' nil))))))))))) x<br>
+meeting = \x -> append (cons 'm' (cons 'e' (cons 'e' (cons 't' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))))) x<br>
+spot = \x -> append (cons 's' (cons 'p' (cons 'o' (cons 't' (cons ' ' nil))))) x<br>
+some = \x -> append (cons 's' (cons 'o' (cons 'm' (cons 'e' (cons ' ' nil))))) x<br>
+chainbrand = \x -> append (cons 'c' (cons 'h' (cons 'a' (cons 'i' (cons 'n' (cons 'b' (cons 'r' (cons 'a' (cons 'n' (cons 'd' (cons ' ' nil))))))))))) x<br>
+shop = \x -> append (cons 's' (cons 'h' (cons 'o' (cons 'p' (cons ' ' nil))))) x<br>
+had = \x -> append (cons 'h' (cons 'a' (cons 'd' (cons ' ' nil)))) x<br>
+no = \x -> append (cons 'n' (cons 'o' (cons ' ' nil))) x<br>
+idea = \x -> append (cons 'i' (cons 'd' (cons 'e' (cons 'a' (cons ' ' nil))))) x<br>
+name = \x -> append (cons 'n' (cons 'a' (cons 'm' (cons 'e' (cons ' ' nil))))) x<br>
+both = \x -> append (cons 'b' (cons 'o' (cons 't' (cons 'h' (cons ' ' nil))))) x<br>
+world = \x -> append (cons 'w' (cons 'o' (cons 'r' (cons 'l' (cons 'd' (cons ' ' nil)))))) x<br>
+detached = \x -> append (cons 'd' (cons 'e' (cons 't' (cons 'a' (cons 'c' (cons 'h' (cons 'e' (cons 'd' (cons ' ' nil))))))))) x<br>
+society = \x -> append (cons 's' (cons 'o' (cons 'c' (cons 'i' (cons 'e' (cons 't' (cons 'y' (cons ' ' nil)))))))) x<br>
+lived = \x -> append (cons 'l' (cons 'i' (cons 'v' (cons 'e' (cons 'd' (cons ' ' nil)))))) x<br>
+cybercitizens = \x -> append (cons 'c' (cons 'y' (cons 'b' (cons 'e' (cons 'r' (cons '-' (cons 'c' (cons 'i' (cons 't' (cons 'i' (cons 'z' (cons 'e' (cons 'n' (cons 's' (cons ' ' nil))))))))))))))) x<br>
+shook = \x -> append (cons 's' (cons 'h' (cons 'o' (cons 'o' (cons 'k' (cons ' ' nil)))))) x<br>
+hands = \x -> append (cons 'h' (cons 'a' (cons 'n' (cons 'd' (cons 's' (cons ' ' nil)))))) x<br>
+shtt = \x -> append (cons 's' (cons 'h' (cons 'e' (cons '/' (cons 'h' (cons 'e' (cons '/' (cons 't' (cons 'h' (cons 'e' (cons 'y' (cons '/' (cons 't' (cons 'h' (cons 'e' (cons ' ' nil)))))))))))))))) x<br>
+took = \x -> append (cons 't' (cons 'o' (cons 'o' (cons 'k' (cons ' ' nil))))) x<br>
+whywhy = \x -> append (cons 'w' (cons 'h' (cons 'y' (cons 'w' (cons 'h' (cons 'y' (cons ' ' nil))))))) x<br>
+whywhywhywhywhy = \x -> append (cons 'w' (cons 'h' (cons 'y' (cons 'w' (cons 'h' (cons 'y' (cons 'w' (cons 'h' (cons 'y' (cons 'w' (cons 'h' (cons 'y' (cons 'w' (cons 'h' (cons 'y' (cons ' ' nil)))))))))))))))) x<br>
+whywhywhy = \x -> append (cons 'w' (cons 'h' (cons 'y' (cons 'w' (cons 'h' (cons 'y' (cons 'w' (cons 'h' (cons 'y' (cons ' ' nil)))))))))) x<br>
+whyW = \x -> append (cons 'w' (cons 'h' (cons 'y' (cons 'W' (cons ' ' nil))))) x<br>
+saw = \x -> append (cons 's' (cons 'a' (cons 'w' (cons ' ' nil)))) x<br>
+putrid = \x -> append (cons 'p' (cons 'u' (cons 't' (cons 'r' (cons 'i' (cons 'd' (cons ' ' nil))))))) x<br>
+there = \x -> append (cons 't' (cons 'h' (cons 'e' (cons 'r' (cons 'e' (cons ' ' nil)))))) x<br>
+teeth = \x -> append (cons 't' (cons 'e' (cons 'e' (cons 't' (cons 'h' (cons ' ' nil)))))) x<br>
+everywhere = \x -> append (cons 'e' (cons 'v' (cons 'e' (cons 'r' (cons 'y' (cons 'w' (cons 'h' (cons 'e' (cons 'r' (cons 'e' (cons ' ' nil))))))))))) x<br>
+fragments = \x -> append (cons 'f' (cons 'r' (cons 'a' (cons 'g' (cons 'm' (cons 'e' (cons 'n' (cons 't' (cons 's' (cons ' ' nil)))))))))) x<br>
+glittered = \x -> append (cons 'g' (cons 'l' (cons 'i' (cons 't' (cons 't' (cons 'e' (cons 'r' (cons 'e' (cons 'd' (cons ' ' nil)))))))))) x<br>
+food = \x -> append (cons 'f' (cons 'o' (cons 'o' (cons 'd' (cons ' ' nil))))) x<br>
+coffee = \x -> append (cons 'c' (cons 'o' (cons 'f' (cons 'f' (cons 'e' (cons 'e' (cons ' ' nil))))))) x<br>
+lungs = \x -> append (cons 'l' (cons 'u' (cons 'n' (cons 'g' (cons 's' (cons ' ' nil)))))) x<br>
+breathe = \x -> append (cons 'b' (cons 'r' (cons 'e' (cons 'a' (cons 't' (cons 'h' (cons 'e' (cons ' ' nil)))))))) x<br>
+beings = \x -> append (cons 'b' (cons 'e' (cons 'i' (cons 'n' (cons 'g' (cons 's' (cons ' ' nil))))))) x<br>
+marrow = \x -> append (cons 'm' (cons 'a' (cons 'r' (cons 'r' (cons 'o' (cons 'w' (cons ' ' nil))))))) x<br>
+becomes = \x -> append (cons 'b' (cons 'e' (cons 'c' (cons 'o' (cons 'm' (cons 'e' (cons 's' (cons ' ' nil)))))))) x<br>
+apart = \x -> append (cons 'a' (cons 'p' (cons 'a' (cons 'r' (cons 't' (cons ' ' nil)))))) x<br>
+now = \x -> append (cons 'n' (cons 'o' (cons 'w' (cons ' ' nil)))) x<br>
+at = \x -> append (cons 'a' (cons 't' (cons ' ' nil))) x<br>
+scene = \x -> append (cons 's' (cons 'c' (cons 'e' (cons 'n' (cons 'e' (cons ' ' nil)))))) x<br>
+crime = \x -> append (cons 'c' (cons 'r' (cons 'i' (cons 'm' (cons 'e' (cons ' ' nil)))))) x<br>
+criminal = \x -> append (cons 'c' (cons 'r' (cons 'i' (cons 'm' (cons 'i' (cons 'n' (cons 'a' (cons 'l' (cons ' ' nil))))))))) x<br>
+investigation = \x -> append (cons 'i' (cons 'n' (cons 'v' (cons 'e' (cons 's' (cons 't' (cons 'i' (cons 'g' (cons 'a' (cons 't' (cons 'i' (cons 'o' (cons 'n' (cons ' ' nil)))))))))))))) x<br>
+brains = \x -> append (cons 'b' (cons 'r' (cons 'a' (cons 'i' (cons 'n' (cons 's' (cons ' ' nil))))))) x<br>
+alL = \x -> append (cons 'a' (cons 'l' (cons 'l' (cons ' ' nil)))) x<br>
+place = \x -> append (cons 'p' (cons 'l' (cons 'a' (cons 'c' (cons 'e' (cons ' ' nil)))))) x<br>
+that = \x -> append (cons 't' (cons 'h' (cons 'a' (cons 't' (cons ' ' nil))))) x<br>
+once = \x -> append (cons 'o' (cons 'n' (cons 'c' (cons 'e' (cons ' ' nil))))) x<br>
+would = \x -> append (cons 'w' (cons 'o' (cons 'u' (cons 'l' (cons 'd' (cons ' ' nil)))))) x<br>
+being = \x -> append (cons 'b' (cons 'e' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))) x<br>
+unimaginable = \x -> append (cons 'u' (cons 'n' (cons 'i' (cons 'm' (cons 'a' (cons 'g' (cons 'i' (cons 'n' (cons 'a' (cons 'b' (cons 'l' (cons 'e' (cons ' ' nil))))))))))))) x<br>
+come = \x -> append (cons 'c' (cons 'o' (cons 'm' (cons 'e' (cons ' ' nil))))) x<br>
+witnessing = \x -> append (cons 'w' (cons 'i' (cons 't' (cons 'n' (cons 'e' (cons 's' (cons 's' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))))) x<br>
+was = \x -> append (cons 'w' (cons 'a' (cons 's' (cons ' ' nil)))) x<br>
+slumped = \x -> append (cons 's' (cons 'l' (cons 'u' (cons 'm' (cons 'p' (cons 'e' (cons 'd' (cons ' ' nil)))))))) x<br>
+hole = \x -> append (cons 'h' (cons 'o' (cons 'l' (cons 'e' (cons ' ' nil))))) x<br>
+heaD = \x -> append (cons 'h' (cons 'e' (cons 'a' (cons 'd' (cons ' ' nil))))) x<br>
+hair = \x -> append (cons 'h' (cons 'a' (cons 'i' (cons 'r' (cons ' ' nil))))) x<br>
+hey = \x -> append (cons 'h' (cons 'e' (cons 'y' (cons ' ' nil)))) x<br>
+skin = \x -> append (cons 's' (cons 'k' (cons 'i' (cons 'n' (cons ' ' nil))))) x<br>
+hangs = \x -> append (cons 'h' (cons 'a' (cons 'n' (cons 'g' (cons 's' (cons ' ' nil)))))) x<br>
+off = \x -> append (cons 'o' (cons 'f' (cons 'f' (cons ' ' nil)))) x<br>
+skull = \x -> append (cons 's' (cons 'k' (cons 'u' (cons 'l' (cons 'l' (cons ' ' nil)))))) x<br>
+inside = \x -> append (cons 'i' (cons 'n' (cons 's' (cons 'i' (cons 'd' (cons 'e' (cons ' ' nil))))))) x<br>
+today = \x -> append (cons 't' (cons 'o' (cons 'd' (cons 'a' (cons 'y' (cons ' ' nil)))))) x<br>
+infront = \x -> append (cons 'i' (cons 'n' (cons 'f' (cons 'r' (cons 'o' (cons 'n' (cons 't' (cons ' ' nil)))))))) x<br>
+everyone = \x -> append (cons 'e' (cons 'v' (cons 'e' (cons 'r' (cons 'y' (cons 'o' (cons 'n' (cons 'e' (cons ' ' nil))))))))) x<br>
+really = \x -> append (cons 'r' (cons 'e' (cons 'a' (cons 'l' (cons 'l' (cons 'y' (cons ' ' nil))))))) x<br>
+smells = \x -> append (cons 's' (cons 'm' (cons 'e' (cons 'l' (cons 'l' (cons 's' (cons ' ' nil))))))) x<br>
+can = \x -> append (cons 'c' (cons 'a' (cons 'n' (cons ' ' nil)))) x<br>
+taste = \x -> append (cons 't' (cons 'a' (cons 's' (cons 't' (cons 'e' (cons ' ' nil)))))) x<br>
+human = \x -> append (cons 'h' (cons 'u' (cons 'm' (cons 'a' (cons 'n' (cons ' ' nil)))))) x<br>
+blood = \x -> append (cons 'b' (cons 'l' (cons 'o' (cons 'o' (cons 'd' (cons ' ' nil)))))) x<br>
+air = \x -> append (cons 'a' (cons 'i' (cons 'r' (cons ' ' nil)))) x<br>
+windows = \x -> append (cons 'w' (cons 'i' (cons 'n' (cons 'd' (cons 'o' (cons 'w' (cons 's' (cons ' ' nil)))))))) x<br>
+painted = \x -> append (cons 'p' (cons 'a' (cons 'i' (cons 'n' (cons 't' (cons 'e' (cons 'd' (cons ' ' nil)))))))) x<br>
+red = \x -> append (cons 'r' (cons 'e' (cons 'd' (cons ' ' nil)))) x<br>
+these = \x -> append (cons 't' (cons 'h' (cons 'e' (cons 's' (cons 'e' (cons ' ' nil)))))) x<br>
+happen = \x -> append (cons 'h' (cons 'a' (cons 'p' (cons 'p' (cons 'e' (cons 'n' (cons ' ' nil))))))) x<br>
+were = \x -> append (cons 'w' (cons 'e' (cons 'r' (cons 'e' (cons ' ' nil))))) x<br>
+miserable = \x -> append (cons 'm' (cons 'i' (cons 's' (cons 'e' (cons 'r' (cons 'a' (cons 'b' (cons 'l' (cons 'e' (cons ' ' nil)))))))))) x<br>
+helped = \x -> append (cons 'h' (cons 'e' (cons 'l' (cons 'p' (cons 'e' (cons 'd' (cons ' ' nil))))))) x<br>
+saved = \x -> append (cons 's' (cons 'a' (cons 'v' (cons 'e' (cons 'd' (cons ' ' nil)))))) x<br>
+grabbed = \x -> append (cons 'g' (cons 'r' (cons 'a' (cons 'b' (cons 'b' (cons 'e' (cons 'd' (cons ' ' nil)))))))) x<br>
+gun = \x -> append (cons 'g' (cons 'u' (cons 'n' (cons ' ' nil)))) x<br>
+should = \x -> append (cons 's' (cons 'h' (cons 'o' (cons 'u' (cons 'l' (cons 'd' (cons ' ' nil))))))) x<br>
+done = \x -> append (cons 'd' (cons 'o' (cons 'n' (cons 'e' (cons ' ' nil))))) x<br>
+something = \x -> append (cons 's' (cons 'o' (cons 'm' (cons 'e' (cons 't' (cons 'h' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))))))) x<br>
+oR = \x -> append (cons 'o' (cons 'r' (cons ' ' nil))) x<br>
+they = \x -> append (cons 't' (cons 'h' (cons 'e' (cons 'y' (cons ' ' nil))))) x<br>
+write = \x -> append (cons 'w' (cons 'r' (cons 'i' (cons 't' (cons 'e' (cons ' ' nil)))))) x<br>
+note = \x -> append (cons 'n' (cons 'o' (cons 't' (cons 'e' (cons ' ' nil))))) x<br>
+itll = \x -> append (cons 'i' (cons 't' (cons 'l' (cons 'l' (cons ' ' nil))))) x<br>
+newspaper = \x -> append (cons 'n' (cons 'e' (cons 'w' (cons 's' (cons 'p' (cons 'a' (cons 'p' (cons 'e' (cons 'r' (cons ' ' nil)))))))))) x<br>
+tomorrow = \x -> append (cons 't' (cons 'o' (cons 'm' (cons 'o' (cons 'r' (cons 'r' (cons 'o' (cons 'w' (cons ' ' nil))))))))) x<br>
+already = \x -> append (cons 'a' (cons 'l' (cons 'r' (cons 'e' (cons 'a' (cons 'd' (cons 'y' (cons ' ' nil)))))))) x<br>
+taking = \x -> append (cons 't' (cons 'a' (cons 'k' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))) x<br>
+videos = \x -> append (cons 'v' (cons 'i' (cons 'd' (cons 'e' (cons 'o' (cons 's' (cons ' ' nil))))))) x<br>
+pictures = \x -> append (cons 'p' (cons 'i' (cons 'c' (cons 't' (cons 'u' (cons 'r' (cons 'e' (cons 's' (cons ' ' nil))))))))) x<br>
+put = \x -> append (cons 'p' (cons 'u' (cons 't' (cons ' ' nil)))) x<br>
+online = \x -> append (cons 'o' (cons 'n' (cons 'l' (cons 'i' (cons 'n' (cons 'e' (cons ' ' nil))))))) x<br>
+lasT = \x -> append (cons 'l' (cons 'a' (cons 's' (cons 't' (cons ' ' nil))))) x<br>
+family = \x -> append (cons 'f' (cons 'a' (cons 'm' (cons 'i' (cons 'l' (cons 'y' (cons ' ' nil))))))) x<br>
+sees = \x -> append (cons 's' (cons 'e' (cons 'e' (cons 's' (cons ' ' nil))))) x<br>
+parents = \x -> append (cons 'p' (cons 'a' (cons 'r' (cons 'e' (cons 'n' (cons 't' (cons 's' (cons ' ' nil)))))))) x<br>
+imagine = \x -> append (cons 'i' (cons 'm' (cons 'a' (cons 'g' (cons 'i' (cons 'n' (cons 'e' (cons ' ' nil)))))))) x<br>
+our = \x -> append (cons 'o' (cons 'u' (cons 'r' (cons ' ' nil)))) x<br>
+mothers = \x -> append (cons 'm' (cons 'o' (cons 't' (cons 'h' (cons 'e' (cons 'r' (cons 's' (cons ' ' nil)))))))) x<br>
+will = \x -> append (cons 'w' (cons 'i' (cons 'l' (cons 'l' (cons ' ' nil))))) x<br>
+breaking = \x -> append (cons 'b' (cons 'r' (cons 'e' (cons 'a' (cons 'k' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))) x<br>
+just = \x -> append (cons 'j' (cons 'u' (cons 's' (cons 't' (cons ' ' nil))))) x<br>
+thinking = \x -> append (cons 't' (cons 'h' (cons 'i' (cons 'n' (cons 'k' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))) x<br>
+numb = \x -> append (cons 'n' (cons 'u' (cons 'm' (cons 'b' (cons ' ' nil))))) x<br>
+feel = \x -> append (cons 'f' (cons 'e' (cons 'e' (cons 'l' (cons ' ' nil))))) x<br>
+thing = \x -> append (cons 't' (cons 'h' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))) x<br>
+body = \x -> append (cons 'b' (cons 'o' (cons 'd' (cons 'y' (cons ' ' nil))))) x<br>
+heart = \x -> append (cons 'h' (cons 'e' (cons 'a' (cons 'r' (cons 't' (cons ' ' nil)))))) x<br>
+brain = \x -> append (cons 'b' (cons 'r' (cons 'a' (cons 'i' (cons 'n' (cons ' ' nil)))))) x<br>
+may_be = \x -> append (cons 'm' (cons 'a' (cons 'y' (cons 'b' (cons 'e' (cons ' ' nil)))))) x<br>
+dream = \x -> append (cons 'd' (cons 'r' (cons 'e' (cons 'a' (cons 'm' (cons ' ' nil)))))) x<br>
+potentially = \x -> append (cons 'p' (cons 'o' (cons 't' (cons 'e' (cons 'n' (cons 't' (cons 'i' (cons 'a' (cons 'l' (cons 'l' (cons 'y' (cons ' ' nil)))))))))))) x<br>
+dreaming = \x -> append (cons 'd' (cons 'r' (cons 'e' (cons 'a' (cons 'm' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))) x<br>
+but = \x -> append (cons 'b' (cons 'u' (cons 't' (cons ' ' nil)))) x<br>
+real = \x -> append (cons 'r' (cons 'e' (cons 'a' (cons 'l' (cons ' ' nil))))) x<br>
+life = \x -> append (cons 'l' (cons 'i' (cons 'f' (cons 'e' (cons ' ' nil))))) x<br>
+experiencing = \x -> append (cons 'e' (cons 'x' (cons 'p' (cons 'e' (cons 'r' (cons 'i' (cons 'e' (cons 'n' (cons 'c' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))))))) x<br>
+anD = \x -> append (cons 'a' (cons 'n' (cons 'd' (cons ' ' nil)))) x<br>
+know = \x -> append (cons 'k' (cons 'n' (cons 'o' (cons 'w' (cons ' ' nil))))) x<br>
+cops = \x -> append (cons 'c' (cons 'o' (cons 'p' (cons 's' (cons ' ' nil))))) x<br>
+coming = \x -> append (cons 'c' (cons 'o' (cons 'm' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))) x<br>
+on = \x -> append (cons 'o' (cons 'n' (cons ' ' nil))) x<br>
+their = \x -> append (cons 't' (cons 'h' (cons 'e' (cons 'i' (cons 'r' (cons ' ' nil)))))) x<br>
+phonse = \x -> append (cons 'p' (cons 'h' (cons 'o' (cons 'n' (cons 's' (cons 'e' (cons ' ' nil))))))) x<br>
+people = \x -> append (cons 'p' (cons 'e' (cons 'o' (cons 'p' (cons 'l' (cons 'e' (cons ' ' nil))))))) x<br>
+are = \x -> append (cons 'a' (cons 'r' (cons 'e' (cons ' ' nil)))) x<br>
+crying = \x -> append (cons 'c' (cons 'r' (cons 'y' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))) x<br>
+wish = \x -> append (cons 'w' (cons 'i' (cons 's' (cons 'h' (cons ' ' nil))))) x<br>
+could = \x -> append (cons 'c' (cons 'o' (cons 'u' (cons 'l' (cons 'd' (cons ' ' nil)))))) x<br>
+cry = \x -> append (cons 'c' (cons 'r' (cons 'y' (cons ' ' nil)))) x<br>
+is = \x -> append (cons 'i' (cons 's' (cons ' ' nil))) x<br>
+like = \x -> append (cons 'l' (cons 'i' (cons 'k' (cons 'e' (cons ' ' nil))))) x<br>
+movie = \x -> append (cons 'm' (cons 'o' (cons 'v' (cons 'i' (cons 'e' (cons ' ' nil)))))) x<br>
+nightmare = \x -> append (cons 'n' (cons 'i' (cons 'g' (cons 'h' (cons 't' (cons 'm' (cons 'a' (cons 'r' (cons 'e' (cons ' ' nil)))))))))) x<br>
+convinced = \x -> append (cons 'c' (cons 'o' (cons 'n' (cons 'v' (cons 'i' (cons 'n' (cons 'c' (cons 'e' (cons 'd' (cons ' ' nil)))))))))) x<br>
+wake = \x -> append (cons 'w' (cons 'a' (cons 'k' (cons 'e' (cons ' ' nil))))) x<br>
+up = \x -> append (cons 'u' (cons 'p' (cons ' ' nil))) x<br>
+anY = \x -> append (cons 'a' (cons 'n' (cons 'y' (cons ' ' nil)))) x<br>
+minute = \x -> append (cons 'm' (cons 'i' (cons 'n' (cons 'u' (cons 't' (cons 'e' (cons ' ' nil))))))) x<br>
+from = \x -> append (cons 'f' (cons 'r' (cons 'o' (cons 'm' (cons ' ' nil))))) x<br>
+everything = \x -> append (cons 'e' (cons 'v' (cons 'e' (cons 'r' (cons 'y' (cons 't' (cons 'h' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))))) x<br>
+pretend = \x -> append (cons 'p' (cons 'r' (cons 'e' (cons 't' (cons 'e' (cons 'n' (cons 'd' (cons ' ' nil)))))))) x<br>
+eveN = \x -> append (cons 'e' (cons 'v' (cons 'e' (cons 'n' (cons ' ' nil))))) x<br>
+say = \x -> append (cons 's' (cons 'a' (cons 'y' (cons ' ' nil)))) x<br>
+goodbye = \x -> append (cons 'g' (cons 'o' (cons 'o' (cons 'd' (cons 'b' (cons 'y' (cons 'e' (cons ' ' nil)))))))) x<br>
+didnt = \x -> append (cons 'd' (cons 'i' (cons 'd' (cons 'n' (cons 't' (cons ' ' nil)))))) x<br>
+get = \x -> append (cons 'g' (cons 'e' (cons 't' (cons ' ' nil)))) x<br>
+the = \x -> append (cons 't' (cons 'h' (cons 'e' (cons ' ' nil)))) x<br>
+things = \x -> append (cons 't' (cons 'h' (cons 'i' (cons 'n' (cons 'g' (cons 's' (cons ' ' nil))))))) x<br>
+wanted = \x -> append (cons 'w' (cons 'a' (cons 'n' (cons 't' (cons 'e' (cons 'd' (cons ' ' nil))))))) x<br>
+shouldnt = \x -> append (cons 's' (cons 'h' (cons 'o' (cons 'u' (cons 'l' (cons 'd' (cons 'n' (cons 't' (cons ' ' nil))))))))) x<br>
+have = \x -> append (cons 'h' (cons 'a' (cons 'v' (cons 'e' (cons ' ' nil))))) x<br>
+listened = \x -> append (cons 'l' (cons 'i' (cons 's' (cons 't' (cons 'e' (cons 'n' (cons 'e' (cons 'd' (cons ' ' nil))))))))) x<br>
+so = \x -> append (cons 's' (cons 'o' (cons ' ' nil))) x<br>
+gulliable = \x -> append (cons 'g' (cons 'u' (cons 'l' (cons 'l' (cons 'i' (cons 'a' (cons 'b' (cons 'l' (cons 'e' (cons ' ' nil)))))))))) x<br>
+such = \x -> append (cons 's' (cons 'u' (cons 'c' (cons 'h' (cons ' ' nil))))) x<br>
+a = \x -> append (cons 'a' (cons ' ' nil)) x<br>
+fucking = \x -> append (cons 'f' (cons 'u' (cons 'c' (cons 'k' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))))) x<br>
+idiot = \x -> append (cons 'i' (cons 'd' (cons 'i' (cons 'o' (cons 't' (cons ' ' nil)))))) x<br>
+give = \x -> append (cons 'g' (cons 'i' (cons 'v' (cons 'e' (cons ' ' nil))))) x<br>
+another = \x -> append (cons 'a' (cons 'n' (cons 'o' (cons 't' (cons 'h' (cons 'e' (cons 'r' (cons ' ' nil)))))))) x<br>
+chance = \x -> append (cons 'c' (cons 'h' (cons 'a' (cons 'n' (cons 'c' (cons 'e' (cons ' ' nil))))))) x<br>
+live = \x -> append (cons 'l' (cons 'i' (cons 'v' (cons 'e' (cons ' ' nil))))) x<br>
+different = \x -> append (cons 'd' (cons 'i' (cons 'f' (cons 'f' (cons 'e' (cons 'r' (cons 'e' (cons 'n' (cons 't' (cons ' ' nil)))))))))) x<br>
+doing = \x -> append (cons 'd' (cons 'o' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))) x<br>
+here = \x -> append (cons 'h' (cons 'e' (cons 'r' (cons 'e' (cons ' ' nil))))) x<br>
+am = \x -> append (cons 'a' (cons 'm' (cons ' ' nil))) x<br>
+watching = \x -> append (cons 'w' (cons 'a' (cons 't' (cons 'c' (cons 'h' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))) x<br>
+its = \x -> append (cons 'i' (cons 't' (cons 's' (cons ' ' nil)))) x<br>
+fair = \x -> append (cons 'f' (cons 'a' (cons 'i' (cons 'r' (cons ' ' nil))))) x<br>
+isnt = \x -> append (cons 'i' (cons 's' (cons 'n' (cons 't' (cons ' ' nil))))) x<br>
+supposed = \x -> append (cons 's' (cons 'u' (cons 'p' (cons 'p' (cons 'o' (cons 's' (cons 'e' (cons 'd' (cons ' ' nil))))))))) x<br>
+be = \x -> append (cons 'b' (cons 'e' (cons ' ' nil))) x<br>
+again = \x -> append (cons 'a' (cons 'g' (cons 'a' (cons 'i' (cons 'n' (cons ' ' nil)))))) x<br>
+why = \x -> append (cons 'w' (cons 'h' (cons 'y' (cons ' ' nil)))) x<br>
+did = \x -> append (cons 'd' (cons 'i' (cons 'd' (cons ' ' nil)))) x<br>
+understand = \x -> append (cons 'u' (cons 'n' (cons 'd' (cons 'e' (cons 'r' (cons 's' (cons 't' (cons 'a' (cons 'n' (cons 'd' (cons ' ' nil))))))))))) x<br>
+ill = \x -> append (cons 'i' (cons 'l' (cons 'l' (cons ' ' nil)))) x<br>
+better = \x -> append (cons 'b' (cons 'e' (cons 't' (cons 't' (cons 'e' (cons 'r' (cons ' ' nil))))))) x<br>
+im = \x -> append (cons 'i' (cons 'm' (cons ' ' nil))) x<br>
+tired = \x -> append (cons 't' (cons 'i' (cons 'r' (cons 'e' (cons 'd' (cons ' ' nil)))))) x<br>
+oF = \x -> append (cons 'o' (cons 'f' (cons ' ' nil))) x<br>
+looking = \x -> append (cons 'l' (cons 'o' (cons 'o' (cons 'k' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil)))))))) x<br>
+stop = \x -> append (cons 's' (cons 't' (cons 'o' (cons 'p' (cons ' ' nil))))) x<br>
+smelling = \x -> append (cons 's' (cons 'm' (cons 'e' (cons 'l' (cons 'l' (cons 'i' (cons 'n' (cons 'g' (cons ' ' nil))))))))) x<br>
+takE = \x -> append (cons 't' (cons 'a' (cons 'k' (cons 'e' (cons ' ' nil))))) x<br>
+iN = \x -> append (cons 'i' (cons 'n' (cons ' ' nil))) x<br>
+it = \x -> append (cons 'i' (cons 't' (cons ' ' nil))) x<br>
+over = \x -> append (cons 'o' (cons 'v' (cons 'e' (cons 'r' (cons ' ' nil))))) x<br>
+listen = \x -> append (cons 'l' (cons 'i' (cons 's' (cons 't' (cons 'e' (cons 'n' (cons ' ' nil))))))) x<br>
+wont = \x -> append (cons 'w' (cons 'o' (cons 'n' (cons 't' (cons ' ' nil))))) x<br>
+plaese = \x -> append (cons 'p' (cons 'l' (cons 'a' (cons 'e' (cons 's' (cons 'e' (cons ' ' nil))))))) x<br>
+what = \x -> append (cons 'w' (cons 'h' (cons 'a' (cons 't' (cons ' ' nil))))) x<br>
+about = \x -> append (cons 'a' (cons 'b' (cons 'o' (cons 'u' (cons 't' (cons ' ' nil)))))) x<br>
+them = \x -> append (cons 't' (cons 'h' (cons 'e' (cons 'm' (cons ' ' nil))))) x<br>
+through = \x -> append (cons 't' (cons 'h' (cons 'r' (cons 'o' (cons 'u' (cons 'g' (cons 'h' (cons ' ' nil)))))))) x<br>
+make = \x -> append (cons 'm' (cons 'a' (cons 'k' (cons 'e' (cons ' ' nil))))) x<br>
+noT = \x -> append (cons 'n' (cons 'o' (cons 't' (cons ' ' nil)))) x<br>
+exist = \x -> append (cons 'e' (cons 'x' (cons 'i' (cons 's' (cons 't' (cons ' ' nil)))))) x<br>
+begin = \x -> append (cons 'b' (cons 'e' (cons 'g' (cons 'i' (cons 'n' (cons ' ' nil)))))) x<br>
+with = \x -> append (cons 'w' (cons 'i' (cons 't' (cons 'h' (cons ' ' nil))))) x<br>
+existence = \x -> append (cons 'e' (cons 'x' (cons 'i' (cons 's' (cons 't' (cons 'e' (cons 'n' (cons 'c' (cons 'e' (cons ' ' nil)))))))))) x<br>
+iF = \x -> append (cons 'i' (cons 'f' (cons ' ' nil))) x<br>
+cant = \x -> append (cons 'c' (cons 'a' (cons 'n' (cons 't' (cons ' ' nil))))) x<br>
+go = \x -> append (cons 'g' (cons 'o' (cons ' ' nil))) x<br>
+back = \x -> append (cons 'b' (cons 'a' (cons 'c' (cons 'k' (cons ' ' nil))))) x<br>
+erase = \x -> append (cons 'e' (cons 'r' (cons 'a' (cons 's' (cons 'e' (cons ' ' nil)))))) x<br>
+smell = \x -> append (cons 's' (cons 'm' (cons 'e' (cons 'l' (cons 'l' (cons ' ' nil)))))) x<br>
+hear = \x -> append (cons 'h' (cons 'e' (cons 'a' (cons 'r' (cons ' ' nil))))) x<br>
+mother = \x -> append (cons 'm' (cons 'o' (cons 't' (cons 'h' (cons 'e' (cons 'r' (cons ' ' nil))))))) x<br>
+brother = \x -> append (cons 'b' (cons 'r' (cons 'o' (cons 't' (cons 'h' (cons 'e' (cons 'r' (cons ' ' nil)))))))) x<br>
+father = \x -> append (cons 'f' (cons 'a' (cons 't' (cons 'h' (cons 'e' (cons 'r' (cons ' ' nil))))))) x<br>
+one = \x -> append (cons 'o' (cons 'n' (cons 'e' (cons ' ' nil)))) x<br>
+more = \x -> append (cons 'm' (cons 'o' (cons 'r' (cons 'e' (cons ' ' nil))))) x<br>
+time = \x -> append (cons 't' (cons 'i' (cons 'm' (cons 'e' (cons ' ' nil))))) x<br>
+see = \x -> append (cons 's' (cons 'e' (cons 'e' (cons ' ' nil)))) x<br>
+my = \x -> append (cons 'm' (cons 'y' (cons ' ' nil))) x<br>
+friends = \x -> append (cons 'f' (cons 'r' (cons 'i' (cons 'e' (cons 'n' (cons 'd' (cons 's' (cons ' ' nil)))))))) x<br>
+god = \x -> append (cons 'g' (cons 'o' (cons 'd' (cons ' ' nil)))) x<br>
+leT = \x -> append (cons 'l' (cons 'e' (cons 't' (cons ' ' nil)))) x<br>
+me = \x -> append (cons 'm' (cons 'e' (cons ' ' nil))) x<br>
+this = \x -> append (cons 't' (cons 'h' (cons 'i' (cons 's' (cons ' ' nil))))) x<br>
+please = \x -> append (cons 'p' (cons 'l' (cons 'e' (cons 'a' (cons 's' (cons 'e' (cons ' ' nil))))))) x<br>
+dO = \x -> append (cons 'd' (cons 'o' (cons ' ' nil))) x<br>
+want = \x -> append (cons 'w' (cons 'a' (cons 'n' (cons 't' (cons ' ' nil))))) x<br>
+tO = \x -> append (cons 't' (cons 'o' (cons ' ' nil))) x<br>
+die = \x -> append (cons 'd' (cons 'i' (cons 'e' (cons ' ' nil)))) x<br>
+i = \x -> append (cons 'i' (cons ' ' nil)) x<br>
+dont = \x -> append (cons 'd' (cons 'o' (cons 'n' (cons 't' (cons ' ' nil))))) x<br>
+wa = \x -> append (cons 'w' (cons 'a' (cons ' ' nil))) x<br>
+implY = \x -> append (cons '-' (cons '>' nil)) x<br>
+<br>
+churchToString(lizt(shehetheythe(broke (broke(through(br(shtt(understood(br(black(conception(implY(br(returN(spawn(br(it(looks(around(implY(br(it(sees(what(it(needs(tO(see(br(see(saw(liturgy(for(shtt(br(oh(lord(br(thou(hast(died(br(wherefore(didde(thou(goest(br(inne(these(troublst(o(tymes(br(gOd(o(dere(br(when(canst(thou(showst(us(br(that(thou(art(here(br(when(canst(thou(showst(us(br(thine(herte(so(purE(br(br(you(listened(br(you(have(no(idea(what(theyre(saying(br(hello(br(the(wordz(scramble(your(brain(br(omsolete(desire(br(desire(nulL(br(you(exist(anD(dont(its(someplace(between(between(joy(between(happiness(between(sadness(between(neutral(br(between(everything(anD(nothing(br(perpetual(nulL(we(opened(the(door(anD(walked(iN(the(smell(oF(coffee(licked(anD(teased(the(waitress(had(no(idea(what(was(coming(i(pulled(it(out(hearts(across(fluttered(on(the(ground(it(was(understood(we(wanted(tO(make(a(statement(we(wanted(tO(shoW(everyone(how(it(felt(br(zffton(xxxx(are(you(sure(youre(ready(br(zffttf(yyyy(ive(been(ready(for(years(br(zffftz(xxxx(tO(be(honest(im(scared(i(feel(like(there(may(be(something(left(for(me(br(zffftt(yyyy(are(you(kidding(look(what(you(have(left(you(have(nothing(look(how(they(treated(you(this(is(your(one(shot(tO(get(back(at(them(anD(this(is(how(you(act(this(must(be(a(joke(br(zfffft(yyyy(im(ready(ive(been(ready(br(zffszz(yyyy(iF(youre(backing(out(ill(dO(it(alone(im(sick(oF(it(alL(br(zffntz(yyyy(hello(dont(tell(me(youre(actually(acting(like(this(come(on(fucking(embarrassing(br(zszftf(xxxx(okay(ill(dO(it(br(br(you(werent(but(hey(peer(pressures(a(bitch(huh(noT(answering(me(eitheR(huh(well(everyone(makes(mistakes(haha(br(shtt(sat(anD(listened(shtt(could(hear(everything(anD(nothing(see(everything(anD(nothing(br(they(met(outside(the(designated(meeting(spot(some(chainbrand(coffee(shop(they(had(no(idea(the(name(oF(they(were(both(detached(from(the(world(detached(from(society(they(lived(online(cybercitizens(they(shook(hands(shtt(took(it(br(why(why(why(why(why(why(why(br(why(br(why(why(why(why(why(br(why(why(why(why(why(why(why(br(why(why(why(why(br(why(br(why(why(why(why(why(why(why(why(why(whywhy(whywhywhywhywhy(whywhywhy(why(why(why(br(why(why(why(why(why(why(why(why(br(why(why(why(why(whyW(why(why(br(why(br(why(br(why(br(br(i(saw(the(scene(the(putrid(red(the(brains(everywhere(there(were(teeth(everywhere(skull(fragments(glittered(the(food(its(iN(the(coffee(its(iN(the(air(my(lungs(breathe(a(human(beings(marrow(the(marrow(becomes(apart(oF(me(now(im(at(the(scene(oF(a(crime(a(criminal(investigation(xxxx(brains(alL(over(the(place(that(was(a(human(once(that(was(once(a(human(being(why(would(a(human(being(dO(this(its(unimaginable(tO(me(i(dont(know(why(im(here(why(did(i(come(here(today(why(am(i(witnessing(this(why(was(it(done(why(did(i(dO(it(i(dont(understand(i(dont(understand(im(slumped(over(hole(iN(the(heaD(hair(hey(wake(up(their(skin(hangs(off(the(skull(i(can(see(inside(through(anD(through(why(today(why(infront(oF(everyone(why(did(they(why(i(dont(really(i(dont(i(dont(i(cant(i(dont(really(they(smell(it(smells(iN(here(it(smells(i(can(taste(the(smell(i(taste(the(smell(i(taste(the(smell(oF(their(blood(i(can(taste(it(i(taste(human(blood(iN(the(air(the(windows(painted(red(i(dont(understand(why(god(why(leT(these(things(happen(tO(people(were(they(so(miserable(could(i(have(helped(them(could(i(have(saved(them(i(should(have(grabbed(the(gun(i(should(have(done(something(tO(stop(it(what(about(the(parents(oR(friends(did(the(friends(know(did(they(write(a(note(this(will(be(iN(the(newspaper(itll(be(iN(the(newspaper(tomorrow(people(will(have(tO(see(this(people(are(already(taking(videos(anD(pictures(please(dont(put(it(online(please(dont(leT(this(be(the(lasT(thing(my(family(sees(i(dont(want(my(parents(tO(see(this(i(cant(imagine(what(our(mothers(will(feel(my(heart(is(breaking(just(thinking(about(it(i(want(tO(cry(but(cant(im(numb(i(cant(feel(a(thing(iN(my(body(iN(my(heart(iN(my(brain(may(be(this(is(a(dream(potentially(im(dreaming(but(i(know(its(real(this(is(real(life(im(experiencing(this(anD(i(didnt(eveN(know(i(want(tO(go(back(what(dO(i(dO(dO(i(the(cops(are(coming(people(are(on(their(phonse(people(are(crying(i(wish(i(could(cry(this(is(like(a(movie(its(a(nightmare(im(convinced(ill(wake(up(anY(minute(from(this(i(see(everything(why(did(i(dO(it(why(did(i(dO(this(i(cant(pretend(why(did(i(dO(this(why(did(i(dO(this(why(did(i(dO(this(why(did(i(dO(this(i(didnt(eveN(get(tO(say(goodbye(i(didnt(get(tO(dO(the(things(i(wanted(why(did(i(dO(this(why(did(i(listen(i(shouldnt(have(listened(im(so(gulliable(why(did(i(dO(this(im(such(a(fucking(idiot(please(god(leT(me(go(back(please(god(give(me(another(chance(please(god(i(wont(dO(this(again(ill(live(different(please(why(am(i(doing(this(why(am(i(here(why(cant(i(go(back(why(am(i(watching(this(its(noT(fair(isnt(it(supposed(tO(be(over(please(god(leT(me(go(back(please(dont(takE(me(please(leT(me(dO(this(again(why(did(i(dO(this(i(dont(understand(please(leT(me(go(back(please(leT(me(go(back(please(leT(me(go(back(ill(dO(better(please(leT(me(go(back(i(want(tO(go(back(im(tired(oF(this(please(make(me(stop(looking(please(make(me(stop(smelling(please(takE(me(back(iN(time(leT(me(dO(it(over(please(i(wont(listen(i(wont(dO(this(plaese(i(dont(want(tO(die(i(dont(want(tO(die(i(dont(want(tO(die(i(dont(want(tO(die(i(dont(want(tO(die(i(dont(want(tO(die(please(god(i(dont(want(dO(die(please(god(god(please(please(please(please(what(about(my(mother(what(about(my(brother(please(god(dont(leT(them(go(through(this(make(me(noT(exist(tO(begin(with(erase(my(existence(iF(i(cant(go(back(please(erase(me(god(please(i(dont(want(tO(see(this(i(dont(want(tO(smell(this(i(dont(want(tO(hear(this(please(leT(me(see(my(mother(one(more(time(leT(me(see(my(brother(one(more(time(leT(me(see(my(father(one(more(time(leT(me(see(my(friends(god(please(dont(leT(me(dO(this(please(i(dont(want(tO(die(i(dont(want(dO(die(i(dont(want(tO(die(i(dont(want(tO(die(i(dont(wa(cons '.' nil)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))<br>
+
+
+</P></DIV>
+
+    <script src="index.js"></script>
+<script>
+    function debugGlobals() {
+        console.log('Available globals:', Object.keys(window).filter(key => key.includes('App') || key.includes('PS') || key === 'halogen'));
+    }
+
+    // Run this after your PureScript script is loaded
+    document.addEventListener('DOMContentLoaded', debugGlobals);
+</script></BODY>
+
