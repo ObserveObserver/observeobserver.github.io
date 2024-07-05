@@ -22,12 +22,9 @@
 nil = \c n -> n<br>
 lizt = \l -> l cons nil<br>
 append = \xs ys c n -> xs c (ys c n)<br>
-<br>
-li = \x y -> append (cons (\c n -> c '[' n) (append x (cons (\c n -> c ']' n) nil))) y<br>
-<br>
-<br>
+churchToString :: (forall r. (Char -> r -> r) -> r -> r) -> String<br>
+churchToString church = fromCharArray (church (\c arr -> [ c ] <> arr) [])<br>
 br = \x -> append (cons ' ' (cons 'b' (cons 'r' (cons ' ' nil)))) x<br>
-<br>
 shehetheythe = \x -> append (cons 's' (cons 'h' (cons 'e' (cons '/' (cons 'h' (cons 'e' (cons '/' (cons 't' (cons 'h' (cons 'e' (cons 'y' (cons '/' (cons 't' (cons 'h' (cons 'e' (cons ' ' nil)))))))))))))))) x<br>
 broke = \x -> append (cons 'b' (cons 'r' (cons 'o' (cons 'k' (cons 'e' (cons ' ' nil)))))) x<br>
 black = \x -> append (cons 'b' (cons 'l' (cons 'a' (cons 'c' (cons 'k' (cons ' ' nil)))))) x<br>
