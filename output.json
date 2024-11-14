@@ -1,41 +1,5 @@
 [
     {
-        "band": "Rock N' Roe 3",
-        "date": "11-13-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/36/34/14_Edp.jpg?v=4",
-        "description": "Rock N’ Roe 3 with Special Guests Default Friends Paperback Romance Earf Day Stiletto Holly Pocket Preying Mantease Wednesday, November 13th, 2024 Will’s Pub – Orlando, FL 7PM Doors / 18 Plus / $10-15 Minimum Suggested** **Proceeds benefiting SWAN of Orlando Presented By Montgomery Drive x Ghouls & ",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/rock-n-roe-3/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Hard Swingin' Country Soiree with Decker & Dimitrov",
-        "date": "11-13-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/64_Edp.jpg?v=3",
-        "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-4/",
-        "city": "Orlando"
-    },
-    {
-        "band": "The Greenjays Trio",
-        "date": "11-13-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/61/85/53_Edp.jpg?v=3",
-        "description": "The Greenjays Trio offers fresh takes on classic jazz and neo soul at Lil' Indies NO COVER 21+",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/the-greenjays-trio-7/",
-        "city": "Orlando"
-    },
-    {
-        "band": "152 Productions Presents: The Funeral Portrait, Dark Divine, Not Enough Space, and Until I Die",
-        "date": "11-13-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/42/39/84_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/152-productions-presents-the-funeral-portrait-dark-divine-not-enough-space-and-until-i-die/",
-        "city": "Orlando"
-    },
-    {
         "band": "HEAVY//HITTER Moments of Misery\" EP Release Show with Special Guests",
         "date": "11-14-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/59/84/13_Edp.jpg?v=2",
@@ -110,7 +74,7 @@
     {
         "band": "endoxa bridge city sinners",
         "date": "11-15-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3c9eaf75cf5e7c761cbd5bd1f7efe76b8895fe9f0e4f96d2d9d3d0a1833fd8c9.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -290,7 +254,7 @@
     {
         "band": "Snooper, Real People, Cabo Boing",
         "date": "11-21-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_27e448250018bc44b292751d1f4730247273003aa6f60278e0743fad64c03e57.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -326,7 +290,7 @@
     {
         "band": "FRIKITONA",
         "date": "11-22-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_826418303e10acbfddff28aba29cdc5a845004f29cc5c4995ec1777e36a51e2e.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -362,7 +326,7 @@
     {
         "band": "GOOD LUCK CLUB",
         "date": "11-23-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_d4437f035a16af6625c73139fd9264cefef526b98cd318ce1ce08717a774aad6.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -425,7 +389,7 @@
     {
         "band": "Crown Magnetar Extermination Dismemberment Extortionist Atoll",
         "date": "11-26-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_47ce80f062e19b14e32dbaa382a4737657e415afb7141d97549f1b32dbf4c3ee.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -470,7 +434,7 @@
     {
         "band": "DRUNKEN TURKEY FRY",
         "date": "11-27-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3f86ea7fd2e0d9c51b4ce4594470a237e48aab3a8311e1633588f664c5f1eb1e.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -515,7 +479,7 @@
     {
         "band": "EAT WHAT YOU KILL",
         "date": "11-29-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_f59867092e8b32abb6cc4579bc8e2b19e5a3cbca465cd72b7a189b35c6b5e9b2.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -551,7 +515,7 @@
     {
         "band": "Gwansgiving",
         "date": "11-30-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_bbb90c7d35c69d1e17274d9f0d8ebe88e0467b886d9f161acbcb6d3409dd1c42.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -639,21 +603,21 @@
         "city": "Orlando"
     },
     {
-        "band": "Hard Swingin' Country Soiree with Decker & Dimitrov",
-        "date": "12-04-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/53_Edp.jpg?v=3",
-        "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-5/",
-        "city": "Orlando"
-    },
-    {
         "band": "Someday River, Electric Blue Yonder, and Claire Vandiver",
         "date": "12-04-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/40/95/64_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Someday River Electric Blue Yonder Claire Vandiver Wednesday, December 4th, 2024 Will’s Pub – Orlando 7PM Doors / 18 Plus / $15",
         "location": "willspub",
         "url": "https://willspub.org/tm-event/someday-river-electric-blue-yonder-and-claire-vandiver/",
+        "city": "Orlando"
+    },
+    {
+        "band": "Hard Swingin' Country Soiree with Decker & Dimitrov",
+        "date": "12-04-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/53_Edp.jpg?v=3",
+        "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
+        "location": "willspub",
+        "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-5/",
         "city": "Orlando"
     },
     {
@@ -713,7 +677,7 @@
     {
         "band": "Louder Than Love DJ Fader and Eddie B. Swift",
         "date": "12-06-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_1bb82b857f7b9b0c305acd9289d30100b2a96d307df45996f31dc0c10d40d7bc.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -749,7 +713,7 @@
     {
         "band": "Peter McPoland",
         "date": "12-07-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_45d315ecdacb2384d81f100b1d25e9148e7348685be6a3e70afc9f178978796e.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -790,6 +754,15 @@
         "location": "conduitfl",
         "url": "https://www.conduitfl.com/tm-event/seven-kingdoms-striker-and-lutharo/",
         "city": "Orlando"
+    },
+    {
+        "band": "BANDS WITH BENEFITS",
+        "date": "12-08-2024",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_df1e3e15c4dbc2e1520c99c94371f2f2caf1c75bfc6c72ad4b877c43f9de559a.png",
+        "description": "",
+        "location": "crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "city": "Tampa"
     },
     {
         "band": "Kaleigh Baker",
@@ -857,7 +830,7 @@
     {
         "band": "Birth-Tay Par-Tay (Taylor Swift dance party)",
         "date": "12-12-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_8e55aa53850e8a6b5d02655d0cda544380706c79d44ae670b4e0abb2cf9c952a.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -884,11 +857,20 @@
     {
         "band": "Tampa Indie Night",
         "date": "12-13-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_f9ed0213db14c4029e54b6d95147d920993239f4b3b3911e38f351d9119177e8.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
         "city": "Tampa"
+    },
+    {
+        "band": "Burial Joy, Mind Virus, andwhentheskywasopened, Foreverless, & Right Effort at The S.P.O.T.",
+        "date": "12-13-2024",
+        "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzMxNTk3MDU0MzY2IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
+        "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Burial Joy Mind Virus andwhentheskywasopened Foreverless Right Effort  Friday December 13th 2024 The S.P.O.T. 6633 E Colonial Dr $10 adv / $15 dos  doors at 6:00pm | All Ages",
+        "location": "thespot",
+        "url": "https://www.zplnr.com/events/1213?venueCredit=thespotorl",
+        "city": "Orlando"
     },
     {
         "band": "Edhochuli with The Caution Children, Pavlovs Bell, and Dearest",
@@ -909,9 +891,18 @@
         "city": "Orlando"
     },
     {
+        "band": "No Fraud, Antagonizor, Midnight Vice, Plasmodulated, and Gnarcoossee",
+        "date": "12-14-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/20/03_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "conduitfl",
+        "url": "https://www.conduitfl.com/tm-event/no-fraud-antagonizor-midnight-vice-plasmodulated-and-gnarcoossee/",
+        "city": "Orlando"
+    },
+    {
         "band": "GRRRLS Night x Dyke Nite",
         "date": "12-14-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_557dad56baeaed0e1d36f03f9e4dc0ea6d21cfab3c5483ff0d20643e23444a6a.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -956,7 +947,7 @@
     {
         "band": "CHURCH SESSIONS",
         "date": "12-15-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_9ff8e61490fc8f10143712afdb73bfb403ab12bd47690101696da7366625bf05.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1046,7 +1037,7 @@
     {
         "band": "A Very Crowbar Christmas",
         "date": "12-20-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_83b7092e22250a6192758165064ab1a1975bc32aeb1b63c3731dbd9880c638dc.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1091,7 +1082,7 @@
     {
         "band": "Jingle Rock TAMPA",
         "date": "12-22-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_cf87b63133ca8e190c8788dcf30226ba1105247ee4ea157213e6a2011f5471e3.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1131,6 +1122,15 @@
         "description": "18 and up",
         "location": "conduitfl",
         "url": "https://www.conduitfl.com/tm-event/linndsyeah-and-friends-end-of-the-year-show/",
+        "city": "Orlando"
+    },
+    {
+        "band": "Orlando Girls Rock Fest II",
+        "date": "12-28-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/09/83_Edp.jpg?v=3",
+        "description": "OGRC presents Orlando Girls Rock Fest II @ Will's Pub on December 28th, 2024 Don't miss the Second Orlando Girls Rock Fest, an empowering, community-driven event that celebrates and showcases the talents of young female and gender-nonconforming musicians across Florida. Featuring… Las Nubes, Auditor",
+        "location": "willspub",
+        "url": "https://willspub.org/tm-event/orlando-girls-rock-fest-ii/",
         "city": "Orlando"
     },
     {
@@ -1217,7 +1217,7 @@
     {
         "band": "Slothrust w/ Weakened Friends",
         "date": "01-23-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_c7d87656032c551dbbcc451f302404d43f0adb13af8b675445a3801f024b63e8.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1244,7 +1244,7 @@
     {
         "band": "Michigander w/ Sydney Sprague",
         "date": "01-26-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_53cf583fb81edb897229c2df42d56636db6612f8a5706f3258732e3103fffada.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1271,7 +1271,7 @@
     {
         "band": "Ax and the Hatchetmen - Way Too Late Tour",
         "date": "02-01-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b5eb2ee40f5d1be29a180e8fdeca5d2b5f1e73d790a979e9702000fd56529ea4.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1280,11 +1280,20 @@
     {
         "band": "Glaive",
         "date": "02-11-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_31c979cdfadaf409c2ed9354d69745e2b101e8df635020df7f8426d4e7d0e070.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
         "city": "Tampa"
+    },
+    {
+        "band": "The Backfires",
+        "date": "02-14-2025",
+        "imageUrl": "https://willspub.org/wp-content/uploads/2024/11/0.jpg",
+        "description": "Endoxa Booking presents The Backfires LIVE at Will’s Pub on February 14th, 2025 7PM Doors 18+ $15/$18",
+        "location": "willspub",
+        "url": "https://willspub.org/tm-event/the-backfires/",
+        "city": "Orlando"
     },
     {
         "band": "Endoxa Booking Presents: Born of Osiris, Within Destruction, Entheos, Axty, and Lost in Separation",
@@ -1298,7 +1307,7 @@
     {
         "band": "THE MAIN SQUEEZE",
         "date": "02-19-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3396bc58b8ee503641adf1ec0495e942a71d76f61da331f2b88ac1c6b67e5b5b.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1306,8 +1315,17 @@
     },
     {
         "band": "Landon Conrath",
+        "date": "02-20-2025",
+        "imageUrl": "https://willspub.org/wp-content/uploads/2024/11/LC-Orlando.jpg",
+        "description": "Endoxa Booking Presents Landon Conrath LIVE on February 20th, 2025 7PM Doors 18+ $15",
+        "location": "willspub",
+        "url": "https://willspub.org/tm-event/landon-conrath/",
+        "city": "Orlando"
+    },
+    {
+        "band": "Landon Conrath",
         "date": "02-21-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_e8eb6e7d12849be1b559fcd9c03443d69962f056c1a1530c98c4887a9e659160.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1325,7 +1343,7 @@
     {
         "band": "Shovels & Rope",
         "date": "03-07-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_a52747daaa7d94c06df61e2ba176d4b2850eaa0bfd0ad86d350401ee8f9ff529.png",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1334,7 +1352,7 @@
     {
         "band": "The Stews Chicken Fight Album Release Tour Pt. 2",
         "date": "03-08-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3ad60f2f80383399b4d496b55ade06dd28c63f439724e56c16ca4e72de128497.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1361,7 +1379,16 @@
     {
         "band": "The Hails & Never Ending Fall",
         "date": "03-28-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3d1d7ab169ea99e59a4b86ec5f8a9f498c1e33063abb7e7862df72440249c1d6.jpg",
+        "description": "",
+        "location": "crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "city": "Tampa"
+    },
+    {
+        "band": "The Bright Light Social Hour",
+        "date": "04-05-2025",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_a5c5bfcc4b808fb648b859123bf6fe13f2f815901acb57487e49f33b18c03618.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
@@ -1379,7 +1406,7 @@
     {
         "band": "MIKE",
         "date": "04-22-2025",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_6afcae5bc6cd43cb5d6e0e253baeb721b3462cb9196bc2587a74cd8321f5e8e8.jpg",
         "description": "",
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
