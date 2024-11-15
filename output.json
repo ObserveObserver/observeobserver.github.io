@@ -1,41 +1,5 @@
 [
     {
-        "band": "HEAVY//HITTER Moments of Misery\" EP Release Show with Special Guests",
-        "date": "11-14-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/59/84/13_Edp.jpg?v=2",
-        "description": "Montgomery Drive Presents Heavy//Hitter “Moments of Misery\" EP Release Show with Special Guests Peacemaker Slamwich Lilith’s Demise Execution Complex Thursday, November 14th, 2024 Will’s Pub – Orlando 7PM Doors / 18 Plus / $18 Advance / $20 Day-Of-Show",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/heavy-hitter-moments-of-misery-ep-release-show-with-special-guests/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Thursday Thinks Trivia",
-        "date": "11-14-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/44/46/84_Edp.jpg?v=3",
-        "description": "Our trivia questions range from music, movies, current events, geography, word jumbles, science, history, television, tribonds, and more! Prizes / Gift Cards 1st – $30 2nd – $20 Assorted Swag No Cover / 21+ / 7:30pm-10pm",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/thursday-thinks-trivia-7/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Void. Terror. Silence: A Free Night of Goth, Industiral, and Darkwave w/ DJ Hexorcist",
-        "date": "11-14-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/64/41/33_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/void-terror-silence-a-free-night-of-goth-industiral-and-darkwave-w-dj-hexorcist-3/",
-        "city": "Orlando"
-    },
-    {
-        "band": "One Direction Dance Night",
-        "date": "11-14-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b08fb4d2a5219edb4bd2ec05c108d71343d34eaf323698f59037226cf05c5206.png",
-        "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
-        "city": "Tampa"
-    },
-    {
         "band": "Dragonfly: Art by Shannon Holt and Friends",
         "date": "11-15-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/61/86/93_Edp.jpg?v=3",
@@ -1107,6 +1071,15 @@
         "city": "Tampa"
     },
     {
+        "band": "A Very Conduit Punkmas w/ Petty Thefts, Virginity, Stiletto, Caustic Bats, and Trashworld",
+        "date": "12-22-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/61/73_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "conduitfl",
+        "url": "https://www.conduitfl.com/tm-event/a-very-conduit-punkmas-w-petty-thefts-virginity-stiletto-caustic-bats-and-trashworld/",
+        "city": "Orlando"
+    },
+    {
         "band": "Kaleigh Baker",
         "date": "12-23-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/37/43_Edp.jpg?v=3",
@@ -1429,5 +1402,14 @@
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
         "city": "Tampa"
+    },
+    {
+        "band": "Void. Terror. Silence: A Free Night of Goth, Industiral, and Darkwave w/ DJ Hexorcist",
+        "date": "11-14-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/64/41/33_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "conduitfl",
+        "url": "https://www.conduitfl.com/tm-event/void-terror-silence-a-free-night-of-goth-industiral-and-darkwave-w-dj-hexorcist-3/",
+        "city": "Orlando"
     }
 ]
