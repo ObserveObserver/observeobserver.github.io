@@ -1053,6 +1053,15 @@
         "city": "Orlando"
     },
     {
+        "band": "Zeke’s Birthday Show w/ Dealey Plaza, Fatal Frames, Morduus, Secret Set, Execution Complex, & Rusty$",
+        "date": "12-21-2024",
+        "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzMxNjg1NDY5NTA4IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
+        "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Zeke’s Birthday Show featuring: Dealey Plaza (performing ‘The Courtesan & The Sitar Man’ for the first time since 2018) Fatal Frames Morduus Secret Set Execution Complex Rusty$ama  Saturday December 21st 2024 The S.P.O.T. 6633 E Colonial Dr $7 adv / $10 dos  doors",
+        "location": "thespot",
+        "url": "https://www.zplnr.com/events/zeke28?venueCredit=thespotorl",
+        "city": "Orlando"
+    },
+    {
         "band": "Jayo",
         "date": "12-22-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/23_Edp.jpg?v=3",
@@ -1233,6 +1242,15 @@
         "city": "Orlando"
     },
     {
+        "band": "SPARTA with Here Here and Like Father",
+        "date": "01-25-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/59/82/33_Edp.jpg?v=12",
+        "description": "Montgomery Drive Presents SPARTA with Special Guests Here Here Like Father Saturday, January 25th, 2025 Will’s Pub – Orlando 7PM Doors / 18 plus / $30",
+        "location": "willspub",
+        "url": "https://willspub.org/tm-event/sparta-with-here-here-and-like-father/",
+        "city": "Orlando"
+    },
+    {
         "band": "Michigander w/ Sydney Sprague",
         "date": "01-26-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_53cf583fb81edb897229c2df42d56636db6612f8a5706f3258732e3103fffada.jpg",
@@ -1240,6 +1258,15 @@
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
         "city": "Tampa"
+    },
+    {
+        "band": "ZETA x CALVA LOUISE",
+        "date": "01-26-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/07/53_Edp.jpg?v=2",
+        "description": "Montgomery Drive Presents ZETA x CALVA LOUISE Sunday, January 26th, 2025 Will's Pub – Orlando, FL 7PM Doors / 18 Plus / $20",
+        "location": "willspub",
+        "url": "https://willspub.org/tm-event/zeta-x-calva-louise/",
+        "city": "Orlando"
     },
     {
         "band": "Texas Dungeon Synth and Spark Booking Collective Present: Florida Dungeon Fest 2025",
@@ -1321,6 +1348,15 @@
         "location": "crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/120439",
         "city": "Tampa"
+    },
+    {
+        "band": "TIM BARRY",
+        "date": "02-21-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/02/83_Edp.jpg?v=2",
+        "description": "Montgomery Drive Presents TIM BARRY with Special Guests Jordan Foley Jordan Schneider Friday, February 21st, 2024 Will’s Pub – Orlando 7PM / 18 Plus / $20",
+        "location": "willspub",
+        "url": "https://willspub.org/tm-event/tim-barry/",
+        "city": "Orlando"
     },
     {
         "band": "Endoxa Booking Presents: Swallow the Sun, Harakiri for the Sky, Ghost Bath, and Snakes of Russia",
