@@ -27,24 +27,6 @@
         "city": "Orlando"
     },
     {
-        "band": "152 Productions Presents: Cannibal Kids, Miroux, Solar Flaire, and Lady Heroine",
-        "date": "11-15-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/60/94/03_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/152-productions-presents-cannibal-kids-miroux-solar-flaire-and-lady-heroine/",
-        "city": "Orlando"
-    },
-    {
-        "band": "endoxa bridge city sinners",
-        "date": "11-15-2024",
-        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3c9eaf75cf5e7c761cbd5bd1f7efe76b8895fe9f0e4f96d2d9d3d0a1833fd8c9.jpg",
-        "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
-        "city": "Tampa"
-    },
-    {
         "band": "Lil Kevo 303, Tektroidgrl, Sativa Redbull, & Xybagoth at The S.P.O.T. ",
         "date": "11-15-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzMwMTIzODUwMjU1IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
@@ -1446,6 +1428,15 @@
         "description": "18 and up",
         "location": "conduitfl",
         "url": "https://www.conduitfl.com/tm-event/void-terror-silence-a-free-night-of-goth-industiral-and-darkwave-w-dj-hexorcist-3/",
+        "city": "Orlando"
+    },
+    {
+        "band": "152 Productions Presents: Cannibal Kids, Miroux, Solar Flaire, and Lady Heroine",
+        "date": "11-15-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/60/94/03_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "conduitfl",
+        "url": "https://www.conduitfl.com/tm-event/152-productions-presents-cannibal-kids-miroux-solar-flaire-and-lady-heroine/",
         "city": "Orlando"
     }
 ]
