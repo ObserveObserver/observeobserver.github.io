@@ -1,82 +1,10 @@
 [
     {
-        "band": "Rav, Kill Bill, meltycanon, and love-sadKiD and Dahm",
-        "date": "11-17-2024",
-        "imageUrl": "https://willspub.org/wp-content/uploads/2024/08/0-2.jpg",
-        "description": "Rav, Kill Bill, meltycanon, and love-sadKiD and Dahm on November 27th, 2024 at Will’s Pub | Presented by Endoxa Booking ________________________ DOORS 7PM $20 adv – $25 dos 18+ VIP Package includes: – 1 General Admission Ticket – A polaroid signed by Rav and Kill Bill: the Rapper – A commemorative K",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/rav-kill-bill-meltycanon-and-love-sadkid-and-dahm/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Jayo",
-        "date": "11-17-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/44/46/24_Edp.jpg?v=3",
-        "description": "",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/jayo-5/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Endoxa Booking Presents: Bridge City Sinners, Holy Locust, Possessed by Paul James, and Lightin' Luk",
-        "date": "11-17-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/48/19/53_Edp.jpg?v=4",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-bridge-city-sinners-holy-locust-possessed-by-paul-james-and-lightin-luke/",
-        "city": "Orlando"
-    },
-    {
-        "band": "KnifeLighter, Thirst, Spider Inside Her, Spirit Leaves, No Business, & The Roulettes",
-        "date": "11-17-2024",
-        "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzI3Nzk0MjU2NDc0IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
-        "description": "SPARK BOOKING COLLECTIVE PRESENTS:  KnifeLighter Thirst Spider Inside Her Spirit Leaves No Business The Roulettes  Sunday November 17th 2024 The S.P.O.T. 6633 E Colonial Dr $10 adv / $15 dos doors at 6:30pm | All Ages",
-        "location": "thespot",
-        "url": "https://www.zplnr.com/events/thirst407?venueCredit=thespotorl",
-        "city": "Orlando"
-    },
-    {
-        "band": "Endoxa Booking Presents: Bridge City Sinners, Holy Locust, Yes Ma'am, and Lightin' Luke",
-        "date": "11-17-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/48/19/53_Edp.jpg?v=5",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-bridge-city-sinners-holy-locust-possessed-by-paul-james-and-lightin-luke/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Kaleigh Baker",
-        "date": "11-18-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/54_Edp.jpg?v=3",
-        "description": "Kaleigh Baker performs live at Lil' Indie's every Monday from 7PM-9PM 21+ // Free",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/kaleigh-baker-13/",
-        "city": "Orlando"
-    },
-    {
-        "band": "90's Trivia Night w/ Alex Tracy",
-        "date": "11-18-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/67/04/63_Edp.jpg?v=3",
-        "description": "Slap on a friendship bracelet and grab your crew for a totally awesome night of 90's Trivia at Will's Pub! Join us Monday, November 18th for a trip down memory lane as we test your knowledge on the dopest decade ever. From iconic pop culture moments to legendary 90's music hits, we’ll cover it all. ",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/90s-trivia-night-w-alex-tracy/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Scream Queen Trivia Presents: Horror Trivia at Conduit",
-        "date": "11-18-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/64/28/03_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/scream-queen-trivia-presents-horror-trivia-at-conduit/",
-        "city": "Orlando"
-    },
-    {
         "band": "Kaonashi, Omerta, Blind Equation, and More TBA",
         "date": "11-19-2024",
         "imageUrl": "https://willspub.org/wp-content/uploads/2024/09/0-1.jpg",
         "description": "Kaonashi, Omerta, Blind Equation, and More TBA – Presented by Endoxa Booking November 19th, 2024 DOORS 7PM Tickets: $20 adv, $25 day of show 18+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/kaonashi-omerta-blind-equation-and-more-tba/",
         "city": "Orlando"
     },
@@ -85,7 +13,7 @@
         "date": "11-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/64_Edp.jpg?v=3",
         "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-10/",
         "city": "Orlando"
     },
@@ -94,7 +22,7 @@
         "date": "11-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/40/77/04_Edp.jpg?v=8",
         "description": "Montgomery Drive Presents BrokeNCYDE Lil Reigndrop Resistor nAvvvi Wednesday, November 20th, 2024 Will’s Pub – Orlando 8PM / 18 Plus / $22 Advance / $25 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/filth-and-brokencyde-with-lil-reigndrop-and-resistor/",
         "city": "Orlando"
     },
@@ -103,7 +31,7 @@
         "date": "11-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/61/89/33_Edp.jpg?v=2",
         "description": "Patrick Hagerman 21+ // Free // 9pm",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/patrick-hagerman/",
         "city": "Orlando"
     },
@@ -112,7 +40,7 @@
         "date": "11-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/68/98/83_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-dogma-and-pontifex/",
         "city": "Orlando"
     },
@@ -121,7 +49,7 @@
         "date": "11-21-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/46/84_Edp.jpg?v=3",
         "description": "Our trivia questions range from music, movies, current events, geography, word jumbles, science, history, television, tribonds, and more! Prizes / Gift Cards 1st – $30 2nd – $20 Assorted Swag No Cover / 21+ / 7:30pm-10pm",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/thursday-thinks-trivia-8/",
         "city": "Orlando"
     },
@@ -130,7 +58,7 @@
         "date": "11-21-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/61/51/83_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Christopher Paul Stelling Thursday, November 21st, 2024 Will’s Pub – Orlando 8PM Doors / 18 Plus / $15 Advance / $20 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/christopher-paul-stelling/",
         "city": "Orlando"
     },
@@ -139,7 +67,7 @@
         "date": "11-21-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/01/04_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/non-linear-recordings-present-club-k-o-w-dmlln-dadabreach-and-more/",
         "city": "Orlando"
     },
@@ -148,8 +76,8 @@
         "date": "11-21-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_27e448250018bc44b292751d1f4730247273003aa6f60278e0743fad64c03e57.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -157,7 +85,7 @@
         "date": "11-22-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/48/44_Edp.jpg?v=4",
         "description": "Montgomery Drive Presents Hungover Monsoon The HVNZ Sky Navy Friday, November 22nd, 2024 Will’s Pub – Orlando 7PM Doors / 18 Plus / $15 Advance / $20 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/hungover-and-monsoon-with-the-hvnz-and-sky-navy/",
         "city": "Orlando"
     },
@@ -166,16 +94,16 @@
         "date": "11-22-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/74_Edp.jpg?v=3",
         "description": "BMF Fridays w/ DJ BMF @ Lil' Indies 10pm No Cover / 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/dj-bmf-9/",
         "city": "Orlando"
     },
     {
-        "band": "In a Nutrshell (a Tribute to Alice in Chains) and Plush Velvet (a Scott Weiland Tribute)",
+        "band": "In a Nutshell (a Tribute to Alice in Chains) and Plush Velvet (a Scott Weiland Tribute)",
         "date": "11-22-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/64/27/73_Edp.jpg?v=3",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/64/27/73_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/in-a-nutrshell-a-tribute-to-alice-in-chains-and-plush-velvet-a-scott-weiland-tribute/",
         "city": "Orlando"
     },
@@ -184,8 +112,8 @@
         "date": "11-22-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_826418303e10acbfddff28aba29cdc5a845004f29cc5c4995ec1777e36a51e2e.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -193,7 +121,7 @@
         "date": "11-23-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/64/14/73_Edp.jpg?v=2",
         "description": "Dom's 50th Bday Bash ft. Blue Streak Mamas, The Ludes, Redrum, and DJ Rome LIVE at Will's Pub on November 23rd, 2024. 8PM Doors $10/$15 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/doms-50th-bday-bash/",
         "city": "Orlando"
     },
@@ -202,7 +130,7 @@
         "date": "11-23-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/46/94_Edp.jpg?v=5",
         "description": "Hoops, laughs and Jams all under one roof! It’s the return of Basketball & Seinfeld -November 23rd at 9:00 PM. no cover! @ Lil' Indie's 21+ 10PM",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/basketball-and-seinfeld-with-b8ta-2/",
         "city": "Orlando"
     },
@@ -211,7 +139,7 @@
         "date": "11-23-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/58/43/83_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-cytotoxin-cognitive-inoculation-blindfolded-and-led-to-the-woods/",
         "city": "Orlando"
     },
@@ -220,8 +148,8 @@
         "date": "11-23-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_d4437f035a16af6625c73139fd9264cefef526b98cd318ce1ce08717a774aad6.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -229,7 +157,7 @@
         "date": "11-24-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/61/48/93_Edp.jpg?v=3",
         "description": "Southern Fried Sunday Thankful Music Feast Sunday 11/24 Location: Will's Pub and Dirty Laundry (our patio tiki bar) 4pm Doors & Show $12 ADV / $15 DOS Music at Dirty Laundry and Will's Pub: Oak Hill Drifters Clarie Vandiver (Full Band, Single Release Show) Timothy Eerie The Handshakes Patrick Hagerm",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/southern-fried-sunday-thankful-music-feast/",
         "city": "Orlando"
     },
@@ -238,7 +166,7 @@
         "date": "11-24-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/46/24_Edp.jpg?v=3",
         "description": "",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/jayo-7/",
         "city": "Orlando"
     },
@@ -247,7 +175,7 @@
         "date": "11-24-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/37/01/34_Edp.jpg?v=4",
         "description": "All Ages",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/montgomery-drive-and-the-coop-present-miracle-and-fading-signal-split-release-show/",
         "city": "Orlando"
     },
@@ -256,7 +184,7 @@
         "date": "11-25-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/54_Edp.jpg?v=3",
         "description": "Kaleigh Baker performs live at Lil' Indie's every Monday from 7PM-9PM 21+ // Free",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/kaleigh-baker-14/",
         "city": "Orlando"
     },
@@ -265,7 +193,7 @@
         "date": "11-25-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/56/22/13_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-crown-magnetar-extortionist-a-night-in-texas-a-wake-in-providence-and-atoll/",
         "city": "Orlando"
     },
@@ -274,7 +202,7 @@
         "date": "11-25-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzIzMzkxNTgxNjk0IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Catcher And The Rye Spiritual Chaos Noctus  Until I Die Reverya Create:Control  Monday November 25th 2024 The S.P.O.T. 6633 E Colonial Dr $15 dos / $10 adv doors at 6pm | All Ages",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/catr407?venueCredit=thespotorl",
         "city": "Orlando"
     },
@@ -283,8 +211,8 @@
         "date": "11-26-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_47ce80f062e19b14e32dbaa382a4737657e415afb7141d97549f1b32dbf4c3ee.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -292,7 +220,7 @@
         "date": "11-27-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/64_Edp.jpg?v=3",
         "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-11/",
         "city": "Orlando"
     },
@@ -301,7 +229,7 @@
         "date": "11-27-2024",
         "imageUrl": "https://willspub.org/wp-content/uploads/2024/11/image000001.jpg",
         "description": "Downgetters with special guest Patrick Hagerman LIVE at Will's Pub on Wednesday November 27th, 2024 $10 tickets 21+ 8PM Doors",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/downgetters-with-special-guest-patrick-hagerman/",
         "city": "Orlando"
     },
@@ -310,7 +238,7 @@
         "date": "11-27-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/63/12/03_Edp.jpg?v=2",
         "description": "Nesto's Jazz Trio 11.27.2024 No Cover 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/nestos-jazz-trio/",
         "city": "Orlando"
     },
@@ -319,7 +247,7 @@
         "date": "11-27-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/55/63/73_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/montgomery-drive-presents-will-wood-slouching-towards-bethlehem-tour/",
         "city": "Orlando"
     },
@@ -328,16 +256,16 @@
         "date": "11-27-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3f86ea7fd2e0d9c51b4ce4594470a237e48aab3a8311e1633588f664c5f1eb1e.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
-        "band": "Nick Shrubsole and Dougie Flesh and the Slashers",
+        "band": "Nick Shrubsole, Dougie Flesh and the Slashers, and Bryan Raymond",
         "date": "11-28-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/64/38/53_Edp.jpg?v=3",
-        "description": "Nick Shrubsole and Dougie Flesh and the Slashers on Thanksgiving night, November 28th 2024 @ Lil' Indie's 8PM FREE 21+",
-        "location": "willspub",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/64/38/53_Edp.jpg?v=4",
+        "description": "Nick Shrubsole, Dougie Flesh and the Slashers, and Bryan Raymond on Thanksgiving night, November 28th 2024 @ Lil' Indie's 8PM FREE 21+",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/nick-shrubsole-dougie-flesh-and-the-slashers-and-uncomfortable-dave/",
         "city": "Orlando"
     },
@@ -346,7 +274,7 @@
         "date": "11-29-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/62/81/53_Edp.jpg?v=4",
         "description": "Southern Fried Sunday: Thankful Music Feast and fundraiser for Second Harvest Food Bank Live music by… Laney Jones and the Spirits Terri Binion Amy in a Sidecar Jordan Schneider Info… Will's Pub 11.29.2024 $10 ADV – $15 DOS 18+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/sfs-w-laney-jones-terri-binion-more/",
         "city": "Orlando"
     },
@@ -355,7 +283,7 @@
         "date": "11-29-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/74_Edp.jpg?v=3",
         "description": "BMF Fridays w/ DJ BMF @ Lil' Indies 10pm No Cover / 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/dj-bmf-11/",
         "city": "Orlando"
     },
@@ -364,7 +292,7 @@
         "date": "11-29-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/66/23_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/deserted-will-welcome-2-the-black-friday-parade-cover-show/",
         "city": "Orlando"
     },
@@ -373,8 +301,8 @@
         "date": "11-29-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_f59867092e8b32abb6cc4579bc8e2b19e5a3cbca465cd72b7a189b35c6b5e9b2.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -391,7 +319,7 @@
         "date": "11-30-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/57/37/53_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Universal Funk Orchestra Album Release Party with Special Guests CreativAngel E-Turn DJ K1X Warm Fuzzy Conscious Mind Records Saturday, November 30th, 2024 Will’s Pub – Orlando 8PM Doors / 18 Plus / $12 Advance / $15 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/universal-funk-orchestra-album-release-with-special-guests-creativangel-e-turn-dj-k1x-warm-fuzzy-and-conscious-mind-records/",
         "city": "Orlando"
     },
@@ -400,7 +328,7 @@
         "date": "11-30-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/46/44_Edp.jpg?v=5",
         "description": "Shine returns to Lil' Indies! No cover, music starts at 10PM 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/shine/",
         "city": "Orlando"
     },
@@ -409,7 +337,7 @@
         "date": "11-30-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/38/70/73_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-dance-with-the-dead-korine-and-more/",
         "city": "Orlando"
     },
@@ -418,8 +346,8 @@
         "date": "11-30-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_bbb90c7d35c69d1e17274d9f0d8ebe88e0467b886d9f161acbcb6d3409dd1c42.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -427,7 +355,7 @@
         "date": "11-30-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzI0MjQ2MjAzNTA2IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Metalcore Night at The S.P.O.T.   Metalcore Night brings the heaviest dance party on earth to your city, complete with lineups featuring your favourite DJs, special guests, and live music performances. Get ready to scream and mosh all night to a playlist of the be",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/mcnorl?venueCredit=thespotorl",
         "city": "Orlando"
     },
@@ -436,7 +364,7 @@
         "date": "12-01-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/81/93_Edp.jpg?v=2",
         "description": "A local vintage/ Makers market benefiting local animal shelters & rescues 60+ vendors and food pop ups selling vintage goods, handmade items, records, plants & more! Free Entry • All Ages • Animal Friendly Wills Pub/ Lil Indies (1042 N Mills Ave) & Wally’s Bar & Liquors (1001 N Mills Ave) 2 blocks o",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/faire-of-the-dog-holiday-market/",
         "city": "Orlando"
     },
@@ -445,7 +373,7 @@
         "date": "12-01-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/38/63_Edp.jpg?v=3",
         "description": "Eugene Snowden LIVE at Lil' Indie's on Sunday, December 1st 2024 6PM-10PM 21+ NO COVER",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/eugene-snowden-3/",
         "city": "Orlando"
     },
@@ -454,7 +382,7 @@
         "date": "12-01-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/39/65/34_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Hawt & Popular Vol 3.4 Release Party Deficit Of Dreams Warm Frames Coffee Stain Rude Television Sunday, December 1st, 2024 Will’s Pub – Orlando 8PM Doors / 18 Plus / $10 Advance / $15 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/hawt-popular-vol-3-4-release-party/",
         "city": "Orlando"
     },
@@ -463,7 +391,7 @@
         "date": "12-01-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/23_Edp.jpg?v=3",
         "description": "",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/jayo-6/",
         "city": "Orlando"
     },
@@ -472,7 +400,7 @@
         "date": "12-01-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/59/52/53_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/human-clay-a-tribute-to-creed-and-suffer-a-tribute-to-stained/",
         "city": "Orlando"
     },
@@ -481,7 +409,7 @@
         "date": "12-02-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/37/43_Edp.jpg?v=3",
         "description": "Kaleigh Baker performs live at Lil' Indie's every Monday from 7PM-9PM 21+ // Free",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/kaleigh-baker-4/",
         "city": "Orlando"
     },
@@ -490,7 +418,7 @@
         "date": "12-02-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzI4MzA5MzMzODIxIiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Two-Piece Chain Gang Locked Up Curb Cut NOHEARTLEFT  Monday December 2nd 2024 The S.P.O.T. 6633 E Colonial Dr $10 adv / $15 dos  doors at 6:00pm | All Ages Tickets: zplnr.com/events/dsbd407",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/dsbd407?venueCredit=thespotorl",
         "city": "Orlando"
     },
@@ -499,17 +427,8 @@
         "date": "12-03-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/43_Edp.jpg?v=2",
         "description": "First Tuesdays @ Indie's / No Cover / 8PM / 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/loose-lips-2/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Someday River, Electric Blue Yonder, and Claire Vandiver",
-        "date": "12-04-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/40/95/64_Edp.jpg?v=2",
-        "description": "Montgomery Drive Presents Someday River Electric Blue Yonder Claire Vandiver Wednesday, December 4th, 2024 Will’s Pub – Orlando 7PM Doors / 18 Plus / $15",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/someday-river-electric-blue-yonder-and-claire-vandiver/",
         "city": "Orlando"
     },
     {
@@ -517,8 +436,17 @@
         "date": "12-04-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/53_Edp.jpg?v=3",
         "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-5/",
+        "city": "Orlando"
+    },
+    {
+        "band": "Someday River, Electric Blue Yonder, and Claire Vandiver",
+        "date": "12-04-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/40/95/64_Edp.jpg?v=2",
+        "description": "Montgomery Drive Presents Someday River Electric Blue Yonder Claire Vandiver Wednesday, December 4th, 2024 Will’s Pub – Orlando 7PM Doors / 18 Plus / $15",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/someday-river-electric-blue-yonder-and-claire-vandiver/",
         "city": "Orlando"
     },
     {
@@ -526,7 +454,7 @@
         "date": "12-04-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/40/13_Edp.jpg?v=3",
         "description": "Nesto's Jazz Trio No Cover 21+ 10PM",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/nestos-jazz-trio-2/",
         "city": "Orlando"
     },
@@ -535,7 +463,7 @@
         "date": "12-05-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/47/33_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Get With This White Star Read Only Memory Soap Box Derby Off Track Thursday, December 5th, 2025 Will’s Pub – Orlando 7PM Doors / 18 Plus / $15",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/get-with-this-white-star-read-only-memory-soap-box-derby-and-off-track/",
         "city": "Orlando"
     },
@@ -544,16 +472,16 @@
         "date": "12-05-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/62/36/63_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/beermoney-social-presents-shinobi-stalin-album-release-show/",
         "city": "Orlando"
     },
     {
         "band": "Florida Underground Fest 5 — Day 1",
         "date": "12-06-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/61/92/63_Edp.jpg?v=6",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/61/92/63_Edp.jpg?v=8",
         "description": "Florida Underground Fest is a three-day event that hosts over 70 punk and alternative bands from all over the state. Shows take place at Will's Pub, Lil Indies, Grumpy's, and Uncle Lou's.\" Gillian Carter, Wolf Face, Dial Drive, 430 Steps, Flagman, Chilled Monkey Brains, The Longest Hall, Debt Neglec",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/florida-underground-fest-5-day-1/",
         "city": "Orlando"
     },
@@ -562,7 +490,7 @@
         "date": "12-06-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/83_Edp.jpg?v=3",
         "description": "BMF Fridays w/ DJ BMF @ Lil' Indies 10pm No Cover / 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/dj-bmf/",
         "city": "Orlando"
     },
@@ -571,7 +499,7 @@
         "date": "12-06-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/53/90/83_Edp.jpg?v=5",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-sweet-spine-and-more/",
         "city": "Orlando"
     },
@@ -580,8 +508,8 @@
         "date": "12-06-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_1bb82b857f7b9b0c305acd9289d30100b2a96d307df45996f31dc0c10d40d7bc.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -589,16 +517,16 @@
         "date": "12-06-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzMxMDgwNzM0MDEzIiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE x OUR HOME RECORDS PRESENT:  FOLK PUNK FRIENDS featuring: Mangy Bones GutterLove (Acoustic) Glizzy Gillespie X Dirty Fingers (Acoustic) Madgick Dave!Ja!Vu! (Acoustic) Holding On For Dear Life Rusty$ama (Acoustic)  Viewing of Adam Sandler’s ‘Eight Crazy Nights’ after the show",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/fpf1?venueCredit=thespotorl",
         "city": "Orlando"
     },
     {
         "band": "Florida Underground Fest 5 — Day 2",
         "date": "12-07-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/61/94/73_Edp.jpg?v=5",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/61/94/73_Edp.jpg?v=6",
         "description": "Florida Underground Fest is a three-day event that hosts over 70 punk and alternative bands from all over the state. Shows take place at Will's Pub, Lil Indies, Grumpy's, and Uncle Lou's.\" Gillian Carter, Wolf Face, Dial Drive, 430 Steps, Flagman, Chilled Monkey Brains, The Longest Hall, Debt Neglec",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/florida-underground-fest-5-day-2/",
         "city": "Orlando"
     },
@@ -607,7 +535,7 @@
         "date": "12-07-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/51/17/23_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/matt-n-cammies-18th-anniversary-party/",
         "city": "Orlando"
     },
@@ -616,8 +544,8 @@
         "date": "12-07-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_45d315ecdacb2384d81f100b1d25e9148e7348685be6a3e70afc9f178978796e.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -625,16 +553,16 @@
         "date": "12-07-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzI3ODc2ODAxODAzIiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Crown of Thornz Domain Fortitude Spine Eater FISTMEETFACE lawofinertia Failed Attempt  Saturday December 7th 2024 The S.P.O.T. 6633 E Colonial Dr $15 adv / $20 dos doors at 5:30pm | All Ages",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/cot407?venueCredit=thespotorl",
         "city": "Orlando"
     },
     {
         "band": "Florida Underground Fest 5 — Day 3",
         "date": "12-08-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/61/94/83_Edp.jpg?v=6",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/61/94/83_Edp.jpg?v=8",
         "description": "Florida Underground Fest is a three-day event that hosts over 70 punk and alternative bands from all over the state. Shows take place at Will's Pub, Lil Indies, Grumpy's, and Uncle Lou's.\" Gillian Carter, Wolf Face, Dial Drive, 430 Steps, Flagman, Chilled Monkey Brains, The Longest Hall, Debt Neglec",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/florida-underground-fest-5-day-2-2/",
         "city": "Orlando"
     },
@@ -643,7 +571,7 @@
         "date": "12-08-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/23_Edp.jpg?v=3",
         "description": "",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/jayo-9/",
         "city": "Orlando"
     },
@@ -652,7 +580,7 @@
         "date": "12-08-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/57/67/13_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/seven-kingdoms-striker-and-lutharo/",
         "city": "Orlando"
     },
@@ -661,8 +589,8 @@
         "date": "12-08-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_df1e3e15c4dbc2e1520c99c94371f2f2caf1c75bfc6c72ad4b877c43f9de559a.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -670,7 +598,7 @@
         "date": "12-09-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/37/43_Edp.jpg?v=3",
         "description": "Kaleigh Baker performs live at Lil' Indie's every Monday from 7PM-9PM 21+ // Free",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/kaleigh-baker-7/",
         "city": "Orlando"
     },
@@ -679,7 +607,7 @@
         "date": "12-09-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/68/73/13_Edp.jpg?v=4",
         "description": "Montgomery Drive Presents Wells ta bien Agile last trip to summers end Monday, December 9th, 2024 Will’s Pub – Orlando 7PM Doors / 18 Plus / $12 Advance / $15 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/wells-ta-bien-agile-and-last-trip-to-summers-end/",
         "city": "Orlando"
     },
@@ -688,7 +616,7 @@
         "date": "12-10-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/43/11/24_Edp.jpg?v=4",
         "description": "Montgomery Drive Presents BREED Drosera Hysteresis Bunaand Tuesday, December 10th, 2024 Will’s Pub – Orlando 7PM Doors / 18 Plus / $15",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/breed-and-drosera-with-hysteresis-and-bunaand/",
         "city": "Orlando"
     },
@@ -697,7 +625,7 @@
         "date": "12-11-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/53_Edp.jpg?v=3",
         "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-13/",
         "city": "Orlando"
     },
@@ -706,7 +634,7 @@
         "date": "12-11-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/43/83/24_Edp.jpg?v=5",
         "description": "Glory Days Presents! Harvey Street, Treis & Friends, and Carabelle on Wed Dec 11 @ Will's Pub Doors 8PM / Show 8:30PM $12 adv / $14 dos 18+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/harvey-street-treis-friends-and-carabelle/",
         "city": "Orlando"
     },
@@ -715,7 +643,7 @@
         "date": "12-11-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/40/13_Edp.jpg?v=3",
         "description": "Nesto's Jazz Trio No Cover 21+ 10PM",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/nestos-jazz-trio-3/",
         "city": "Orlando"
     },
@@ -724,7 +652,7 @@
         "date": "12-12-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/56/86/33_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Dreamwell Lacerated Second Impact Concealer Thursday, December 12th, 2024 Will’s Pub – Orlando 8PM Doors / 18 Plus / $15 Advance / $20 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/dreamwell-and-lacerated-with-second-impact-and-concealer/",
         "city": "Orlando"
     },
@@ -733,7 +661,7 @@
         "date": "12-12-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/36/44/24_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-sumac-kowloon-walled-city-and-trigger-object/",
         "city": "Orlando"
     },
@@ -742,8 +670,8 @@
         "date": "12-12-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_8e55aa53850e8a6b5d02655d0cda544380706c79d44ae670b4e0abb2cf9c952a.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -751,7 +679,7 @@
         "date": "12-13-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/83_Edp.jpg?v=3",
         "description": "BMF Fridays w/ DJ BMF @ Lil' Indies 10pm No Cover / 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/dj-bmf-5/",
         "city": "Orlando"
     },
@@ -760,7 +688,7 @@
         "date": "12-13-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/67/64/73_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/tiny-waves-presents-k-pop-rave-christmas-edition/",
         "city": "Orlando"
     },
@@ -769,8 +697,8 @@
         "date": "12-13-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_f9ed0213db14c4029e54b6d95147d920993239f4b3b3911e38f351d9119177e8.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -778,7 +706,7 @@
         "date": "12-13-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzMxNTk3MDU0MzY2IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Burial Joy Mind Virus andwhentheskywasopened Foreverless Right Effort  Friday December 13th 2024 The S.P.O.T. 6633 E Colonial Dr $10 adv / $15 dos  doors at 6:00pm | All Ages",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/1213?venueCredit=thespotorl",
         "city": "Orlando"
     },
@@ -787,7 +715,7 @@
         "date": "12-14-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/61/21/13_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Edhochuli The Caution Children Pavlov’s Bell Dearest Saturday, December 14th, 2024 Will’s Pub – Orlando 8PM Doors / 18 Plus / $15 Advance / $20 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/edhochuli-with-the-caution-children-pavlovs-bell-and-dearest/",
         "city": "Orlando"
     },
@@ -796,7 +724,7 @@
         "date": "12-14-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/85/83_Edp.jpg?v=2",
         "description": "Shine returns to Lil' Indies! No cover, music starts at 10PM 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/shine-4/",
         "city": "Orlando"
     },
@@ -805,7 +733,7 @@
         "date": "12-14-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/68/20/03_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/no-fraud-antagonizor-midnight-vice-plasmodulated-and-gnarcoossee/",
         "city": "Orlando"
     },
@@ -814,8 +742,8 @@
         "date": "12-14-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_557dad56baeaed0e1d36f03f9e4dc0ea6d21cfab3c5483ff0d20643e23444a6a.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -823,7 +751,7 @@
         "date": "12-14-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzMwNDc5MTk2ODA5IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE x COFFIN COLLECTIVE PRESENT:  Merry Mosh: A Toy Drive Market & Show at The S.P.O.T. featuring: Delta Hate KnifeLighter Suffering Spirit High Pressure Intrabloom Near Death  Saturday December 14th 2024 The S.P.O.T. 6633 E Colonial Dr $10 adv / $13 dos ($5 w/ a toy) doors at 6",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/mm1?venueCredit=thespotorl",
         "city": "Orlando"
     },
@@ -832,7 +760,7 @@
         "date": "12-15-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/08/83_Edp.jpg?v=2",
         "description": "Montgomery Drive and Whatever Dude Productions Present Sunday Punk Matinee X-Mas Special 2024 Featuring Sick Dogs, The Palmettes, The New Lows, The New Aesthetics, $500 (Members of The Holy Mess, How Dare You, Teen Agers, and Seagulls), Earthgirl, Double Bubble, and Mystery Band Sunday, December 15t",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/sunday-punk-matinee-x-mas-special-2024/",
         "city": "Orlando"
     },
@@ -841,7 +769,7 @@
         "date": "12-15-2024",
         "imageUrl": "https://willspub.org/wp-content/uploads/2024/09/0-2.jpg",
         "description": "D.R.I., Killed by Florida, Swift Knuckle Solution, The Palmeranians, and Deficit of Dreams – Presented by Endoxa Booking December 15th, 2024 $18 adv, $23 dos Doors at 8PM 18+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/d-r-i-killed-by-florida-swift-knuckle-solution-the-palmeranians-and-deficit-of-dreams/",
         "city": "Orlando"
     },
@@ -850,7 +778,7 @@
         "date": "12-15-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/23_Edp.jpg?v=3",
         "description": "",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/jayo-10/",
         "city": "Orlando"
     },
@@ -859,8 +787,8 @@
         "date": "12-15-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_9ff8e61490fc8f10143712afdb73bfb403ab12bd47690101696da7366625bf05.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -868,7 +796,7 @@
         "date": "12-16-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/37/43_Edp.jpg?v=3",
         "description": "Kaleigh Baker performs live at Lil' Indie's every Monday from 7PM-9PM 21+ // Free",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/kaleigh-baker-8/",
         "city": "Orlando"
     },
@@ -877,7 +805,7 @@
         "date": "12-17-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/17/13_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Counting Bodies Counterattack Noctus Izora Reverya Tuesday, December 17th, 2024 Will’s Pub – Orlando 7PM Doors / $10 Advance / $15 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/counting-bodies-with-counterattack-noctus-izora-and-reverya/",
         "city": "Orlando"
     },
@@ -886,7 +814,7 @@
         "date": "12-18-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/48/33_Edp.jpg?v=4",
         "description": "Montgomery Drive Presents Keep Flying Bay Street, Petty Thefts, and Rainout December 18th, 2024 Will’s Pub – Orlando 7PM Doors / 18 Plus / $15",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/keep-flying-with-bay-street-petty-thefts-and-rainout/",
         "city": "Orlando"
     },
@@ -895,7 +823,7 @@
         "date": "12-18-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/53_Edp.jpg?v=3",
         "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-14/",
         "city": "Orlando"
     },
@@ -904,7 +832,7 @@
         "date": "12-18-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/40/13_Edp.jpg?v=3",
         "description": "Nesto's Jazz Trio No Cover 21+ 10PM",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/nestos-jazz-trio-4/",
         "city": "Orlando"
     },
@@ -913,7 +841,7 @@
         "date": "12-19-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/64/92/43_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Jinglerock Orlando at Will’s Pub The Forum Weather Boys Gary Lazer Eyes Thursday, December 19th, 2024 Will’s Pub- Orlando, FL 7PM Doors / 18 Plus / $13 Advance / $15 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/jinglerock-orlando/",
         "city": "Orlando"
     },
@@ -922,7 +850,7 @@
         "date": "12-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/81/03_Edp.jpg?v=2",
         "description": "Luscious Lisa LIVE @ Will's Pub December 20th, 2024 8PM $15/$20 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/luscious-lisa/",
         "city": "Orlando"
     },
@@ -931,7 +859,7 @@
         "date": "12-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/83_Edp.jpg?v=3",
         "description": "BMF Fridays w/ DJ BMF @ Lil' Indies 10pm No Cover / 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/dj-bmf-8/",
         "city": "Orlando"
     },
@@ -940,7 +868,7 @@
         "date": "12-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/64/18/33_Edp.jpg?v=5",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-bodysnatcher-the-vile-winter-tour-in-orlando-w-southpaw-and-tracheotomy/",
         "city": "Orlando"
     },
@@ -949,8 +877,8 @@
         "date": "12-20-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_83b7092e22250a6192758165064ab1a1975bc32aeb1b63c3731dbd9880c638dc.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -958,7 +886,7 @@
         "date": "12-21-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/67/30/03_Edp.jpg?v=2",
         "description": "Idiot Time Machine December 21st, 2024 @ Lil Indie's 4:30PM-6PM 21+ Free / Donations encouraged Improv Comedy, Musical Improv Comedy, Stand up comedy Somehow, history novice & comedian Chandy Burke has gotten her hands on a time machine, and she's not just keeping it to herself! This bold adventurer",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/idiot-time-machine/",
         "city": "Orlando"
     },
@@ -967,7 +895,7 @@
         "date": "12-21-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/62/40/23_Edp.jpg?v=5",
         "description": "Montgomery Drive Presents Ivypaint Saturday, December 21st, 2024 Will’s Pub – Orlando 8PM Doors / 18 Plus / $15",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/ivypaint/",
         "city": "Orlando"
     },
@@ -976,7 +904,7 @@
         "date": "12-21-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/93_Edp.jpg?v=2",
         "description": "United Groove performs live Funk, Reggae, MoTown, Smooth Jazz, + R&B at Lil' Indies from 9pm-Midnight . 21+ // No cover",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/united-groove/",
         "city": "Orlando"
     },
@@ -985,7 +913,7 @@
         "date": "12-21-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzMxNjg1NDY5NTA4IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Zeke’s Birthday Show featuring: Dealey Plaza (performing ‘The Courtesan & The Sitar Man’ for the first time since 2018) Fatal Frames Morduus Secret Set Execution Complex Rusty$ama  Saturday December 21st 2024 The S.P.O.T. 6633 E Colonial Dr $7 adv / $10 dos  doors",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/zeke28?venueCredit=thespotorl",
         "city": "Orlando"
     },
@@ -994,8 +922,17 @@
         "date": "12-22-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/23_Edp.jpg?v=3",
         "description": "",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/jayo-12/",
+        "city": "Orlando"
+    },
+    {
+        "band": "A Very Conduit Punkmas w/ Petty Thefts, Virginity, Stiletto, Caustic Bats, and Trashworld",
+        "date": "12-22-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/61/73_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "Conduit FL",
+        "url": "https://www.conduitfl.com/tm-event/a-very-conduit-punkmas-w-petty-thefts-virginity-stiletto-caustic-bats-and-trashworld/",
         "city": "Orlando"
     },
     {
@@ -1003,26 +940,26 @@
         "date": "12-22-2024",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_cf87b63133ca8e190c8788dcf30226ba1105247ee4ea157213e6a2011f5471e3.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
-    },
-    {
-        "band": "A Very Conduit Punkmas w/ Petty Thefts, Virginity, Stiletto, Caustic Bats, and Trashworld",
-        "date": "12-22-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/68/61/73_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/a-very-conduit-punkmas-w-petty-thefts-virginity-stiletto-caustic-bats-and-trashworld/",
-        "city": "Orlando"
     },
     {
         "band": "Kaleigh Baker",
         "date": "12-23-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/37/43_Edp.jpg?v=3",
         "description": "Kaleigh Baker performs live at Lil' Indie's every Monday from 7PM-9PM 21+ // Free",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/kaleigh-baker-9/",
+        "city": "Orlando"
+    },
+    {
+        "band": "Bad Santa & The Anrgy Elves: No Sleep 'til Christmas Tour 2024",
+        "date": "12-23-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/69/55/73_Edp.jpg?v=5",
+        "description": "Bad Santa & The Anrgy Elves: No Sleep 'til Christmas Tour 2024 Bad Santa & The Anrgy Elves return to Will's Pub on December 23rd, 2024 for a night of badass holiday rock n' roll. Doors 8PM Tickets: 21+ For fans of: punk, rock, and Christmas",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/bad-santa-til-christmas-tour-2024/",
         "city": "Orlando"
     },
     {
@@ -1030,7 +967,7 @@
         "date": "12-27-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/67/04/13_Edp.jpg?v=5",
         "description": "Montgomery Drive Presents Oklahoma Stackhouse Golden Flower Rauce Padgett Friday, December 27th, 2024 Will's Pub – Orlando 8PM Doors / 18 Plus / $15 Advance / $20 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/oklahoma-stackhouse-with-golden-flower-and-rauce-padgett/",
         "city": "Orlando"
     },
@@ -1039,7 +976,7 @@
         "date": "12-27-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/83_Edp.jpg?v=3",
         "description": "BMF Fridays w/ DJ BMF @ Lil' Indies 10pm No Cover / 21+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/dj-bmf-12/",
         "city": "Orlando"
     },
@@ -1048,16 +985,16 @@
         "date": "12-27-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/67/68/83_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/linndsyeah-and-friends-end-of-the-year-show/",
         "city": "Orlando"
     },
     {
         "band": "Orlando Girls Rock Fest II",
         "date": "12-28-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/68/09/83_Edp.jpg?v=3",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/09/83_Edp.jpg?v=5",
         "description": "OGRC presents Orlando Girls Rock Fest II @ Will's Pub on December 28th, 2024 Don't miss the Second Orlando Girls Rock Fest, an empowering, community-driven event that celebrates and showcases the talents of young female and gender-nonconforming musicians across Florida. Featuring… Las Nubes, Auditor",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/orlando-girls-rock-fest-ii/",
         "city": "Orlando"
     },
@@ -1066,7 +1003,7 @@
         "date": "12-29-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/62/64/03_Edp.jpg?v=2",
         "description": "Montgomery Drive and The Coop Present Armageddon Records Takeover featuring Concealer Contention Dissent Monterey and MORE TBA Sunday, December 29th, 2024 Will’s Pub – Orlando 6PM Doors / All Ages / $20 Advance / $25 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/armageddon-records-takeover/",
         "city": "Orlando"
     },
@@ -1075,7 +1012,7 @@
         "date": "12-29-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/23_Edp.jpg?v=3",
         "description": "",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/jayo-13/",
         "city": "Orlando"
     },
@@ -1084,7 +1021,7 @@
         "date": "12-29-2024",
         "imageUrl": "https://d1v74sz5wnkb9f.cloudfront.net/eyJidWNrZXQiOiJ6cGxucjVkNTZjLXByb2R0aHJlZSIsImtleSI6InB1YmxpYy8xYmY0ZTI2Yy1jMTU5LTQ0NTEtYTc0MS1hMjhiODZhZjc5NmY6OmV2ZW50OjoxNzMxMzM0NjEyNjQ1IiwiZWRpdHMiOnsicmVzaXplIjp7ImJhY2tncm91bmQiOnsiciI6MjExLCJnIjoyMTEsImIiOjIxMSwiYWxwaGEiOjF9LCJ3aWR0aCI6MTUwLCJoZWlnaHQiOjE1MCwiZml0IjoiY292ZXIifX19",
         "description": "SPARK BOOKING COLLECTIVE PRESENTS:  Oinkliteration Insectile newfoundgenocide Serious Bodily Harm defleshed for burial  Sunday December 29th 2024 The S.P.O.T. 6633 E Colonial Dr $10 adv / $15 dos  doors at 6:00pm | All Ages",
-        "location": "thespot",
+        "location": "The S.P.O.T",
         "url": "https://www.zplnr.com/events/oink407?venueCredit=thespotorl",
         "city": "Orlando"
     },
@@ -1093,7 +1030,7 @@
         "date": "12-30-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/37/43_Edp.jpg?v=3",
         "description": "Kaleigh Baker performs live at Lil' Indie's every Monday from 7PM-9PM 21+ // Free",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/kaleigh-baker-15/",
         "city": "Orlando"
     },
@@ -1102,7 +1039,7 @@
         "date": "01-10-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/17/03_Edp.jpg?v=2",
         "description": "Glory Days Presents! Fri Jan 10 @ Will's Pub PARROTFISH Madwoman Mirror Parts Treis and Friends Doors 8 / Show 8:30 $12 adv / $15 dos 18+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/parrotfish-madwoman-mirror-parts-and-treis-and-friends/",
         "city": "Orlando"
     },
@@ -1111,7 +1048,7 @@
         "date": "01-17-2025",
         "imageUrl": "https://willspub.org/wp-content/uploads/2024/11/0-1.jpg",
         "description": "Koffin Kats, The Rumours, and Lightnin’ Luke – Presented by Endoxa Booking JANUARY 17TH, 2024 Will’s Pub 8PM Doors $20/$25 18+",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/koffin-kats-the-rumours-and-lightnin-luke/",
         "city": "Orlando"
     },
@@ -1120,7 +1057,7 @@
         "date": "01-18-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/40/76/74_Edp.jpg?v=5",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-driveways-and-braveweather/",
         "city": "Orlando"
     },
@@ -1129,7 +1066,7 @@
         "date": "01-21-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/67/96/23_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/152-productions-presents-156-silence-vctms-heavy-hitter-and-wiltwither/",
         "city": "Orlando"
     },
@@ -1138,7 +1075,7 @@
         "date": "01-23-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/58/32/73_Edp.jpg?v=2",
         "description": "Montgomery Drive Presents Southern Culture On The Skids Thursday, January 23rd, 2025 Will’s Pub – Orlando 7PM / 18 Plus / $30 Advance / $35 Day-Of-Show",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/southern-culture-on-the-skids/",
         "city": "Orlando"
     },
@@ -1147,8 +1084,8 @@
         "date": "01-23-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_c7d87656032c551dbbcc451f302404d43f0adb13af8b675445a3801f024b63e8.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -1156,17 +1093,8 @@
         "date": "01-24-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/09/73_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/152-productions-presents-burn-absolute-coma-waves-spirit-leaves-royal-hearts-burial-joy-and-sleeptalker/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Endoxa Booking and 152 Productions Present: Mat Kerekes (from Citizen), Equipment, and Bike Routes",
-        "date": "01-25-2025",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/42/95/34_Edp.jpg?v=4",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/endoxa-booking-and-152-productions-present-mat-kerekes-from-citizen-equipment-and-bike-routes/",
         "city": "Orlando"
     },
     {
@@ -1174,8 +1102,26 @@
         "date": "01-25-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/59/82/33_Edp.jpg?v=12",
         "description": "Montgomery Drive Presents SPARTA with Special Guests Here Here Like Father Saturday, January 25th, 2025 Will’s Pub – Orlando 7PM Doors / 18 plus / $30",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/sparta-with-here-here-and-like-father/",
+        "city": "Orlando"
+    },
+    {
+        "band": "Endoxa Booking and 152 Productions Present: Mat Kerekes (from Citizen), Equipment, and Bike Routes",
+        "date": "01-25-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/42/95/34_Edp.jpg?v=4",
+        "description": "18 and up",
+        "location": "Conduit FL",
+        "url": "https://www.conduitfl.com/tm-event/endoxa-booking-and-152-productions-present-mat-kerekes-from-citizen-equipment-and-bike-routes/",
+        "city": "Orlando"
+    },
+    {
+        "band": "ZETA x CALVA LOUISE",
+        "date": "01-26-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/07/53_Edp.jpg?v=2",
+        "description": "Montgomery Drive Presents ZETA x CALVA LOUISE Sunday, January 26th, 2025 Will's Pub – Orlando, FL 7PM Doors / 18 Plus / $20",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/zeta-x-calva-louise/",
         "city": "Orlando"
     },
     {
@@ -1183,25 +1129,16 @@
         "date": "01-26-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_53cf583fb81edb897229c2df42d56636db6612f8a5706f3258732e3103fffada.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
-    },
-    {
-        "band": "ZETA x CALVA LOUISE",
-        "date": "01-26-2025",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/68/07/53_Edp.jpg?v=2",
-        "description": "Montgomery Drive Presents ZETA x CALVA LOUISE Sunday, January 26th, 2025 Will's Pub – Orlando, FL 7PM Doors / 18 Plus / $20",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/zeta-x-calva-louise/",
-        "city": "Orlando"
     },
     {
         "band": "Texas Dungeon Synth and Spark Booking Collective Present: Florida Dungeon Fest 2025",
         "date": "01-31-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/67/78/13_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/texas-dungeon-synth-and-spark-booking-collective-present-florida-dungeon-fest-2025/",
         "city": "Orlando"
     },
@@ -1210,7 +1147,7 @@
         "date": "02-01-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/55/63/53_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/152-productions-presents-scary-kids-scaring-kids-self-titled-anniversary-tour/",
         "city": "Orlando"
     },
@@ -1219,8 +1156,8 @@
         "date": "02-01-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b5eb2ee40f5d1be29a180e8fdeca5d2b5f1e73d790a979e9702000fd56529ea4.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -1228,8 +1165,8 @@
         "date": "02-11-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_31c979cdfadaf409c2ed9354d69745e2b101e8df635020df7f8426d4e7d0e070.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -1237,7 +1174,7 @@
         "date": "02-14-2025",
         "imageUrl": "https://willspub.org/wp-content/uploads/2024/11/0.jpg",
         "description": "Endoxa Booking presents The Backfires LIVE at Will’s Pub on February 14th, 2025 7PM Doors 18+ $15/$18",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/the-backfires/",
         "city": "Orlando"
     },
@@ -1246,7 +1183,7 @@
         "date": "02-14-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/42/93_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-born-of-osiris-within-destruction-entheos-axty-and-lost-in-separation/",
         "city": "Orlando"
     },
@@ -1255,8 +1192,8 @@
         "date": "02-19-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3396bc58b8ee503641adf1ec0495e942a71d76f61da331f2b88ac1c6b67e5b5b.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -1264,8 +1201,17 @@
         "date": "02-20-2025",
         "imageUrl": "https://willspub.org/wp-content/uploads/2024/11/LC-Orlando.jpg",
         "description": "Endoxa Booking Presents Landon Conrath LIVE on February 20th, 2025 7PM Doors 18+ $15",
-        "location": "willspub",
+        "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/landon-conrath/",
+        "city": "Orlando"
+    },
+    {
+        "band": "TIM BARRY",
+        "date": "02-21-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/02/83_Edp.jpg?v=2",
+        "description": "Montgomery Drive Presents TIM BARRY with Special Guests Jordan Foley Jordan Schneider Friday, February 21st, 2024 Will’s Pub – Orlando 7PM / 18 Plus / $20",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/tim-barry/",
         "city": "Orlando"
     },
     {
@@ -1273,26 +1219,26 @@
         "date": "02-21-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_e8eb6e7d12849be1b559fcd9c03443d69962f056c1a1530c98c4887a9e659160.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
-    },
-    {
-        "band": "TIM BARRY",
-        "date": "02-21-2025",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/68/02/83_Edp.jpg?v=2",
-        "description": "Montgomery Drive Presents TIM BARRY with Special Guests Jordan Foley Jordan Schneider Friday, February 21st, 2024 Will’s Pub – Orlando 7PM / 18 Plus / $20",
-        "location": "willspub",
-        "url": "https://willspub.org/tm-event/tim-barry/",
-        "city": "Orlando"
     },
     {
         "band": "Endoxa Booking Presents: Swallow the Sun, Harakiri for the Sky, Ghost Bath, and Snakes of Russia",
         "date": "02-28-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/59/28/83_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-swallow-the-sun-harakiri-for-the-sky-ghost-bath-and-snakes-of-russia/",
+        "city": "Orlando"
+    },
+    {
+        "band": "Endoxa Booking Presents: Earthside and More",
+        "date": "03-05-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/60/13_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "Conduit FL",
+        "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-earthside-and-more/",
         "city": "Orlando"
     },
     {
@@ -1300,8 +1246,8 @@
         "date": "03-07-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_a52747daaa7d94c06df61e2ba176d4b2850eaa0bfd0ad86d350401ee8f9ff529.png",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -1309,8 +1255,8 @@
         "date": "03-08-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3ad60f2f80383399b4d496b55ade06dd28c63f439724e56c16ca4e72de128497.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -1318,7 +1264,7 @@
         "date": "03-15-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/64/29/33_Edp.jpg?v=4",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/80s-dance-part-w-dj-brian-st-clair/",
         "city": "Orlando"
     },
@@ -1327,8 +1273,17 @@
         "date": "03-18-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/64/42/03_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-thrown-varials-no-cure-and-heavensgate/",
+        "city": "Orlando"
+    },
+    {
+        "band": "HEART TO GOLD",
+        "date": "03-26-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/77/53_Edp.jpg?v=5",
+        "description": "Montgomery Drive Presents HEART TO GOLD Enumclaw Oolong Wednesday, March 26th, 2025 Will’s Pub – Orlando 7PM / 18 Plus / $20 Advance / $25 Day-Of-Show",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/heart-to-gold/",
         "city": "Orlando"
     },
     {
@@ -1336,8 +1291,17 @@
         "date": "03-28-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3d1d7ab169ea99e59a4b86ec5f8a9f498c1e33063abb7e7862df72440249c1d6.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
+        "city": "Tampa"
+    },
+    {
+        "band": "NIGHTLY",
+        "date": "04-04-2025",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_9ed984fa33c7b389e62846afc3c3f31902c742b3ab706d27fc3e5b5b858f4406.jpg",
+        "description": "",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -1345,8 +1309,8 @@
         "date": "04-05-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_a5c5bfcc4b808fb648b859123bf6fe13f2f815901acb57487e49f33b18c03618.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
     },
     {
@@ -1354,7 +1318,7 @@
         "date": "04-08-2025",
         "imageUrl": "https://i.ticketweb.com/i/00/12/63/65/83_Edp.jpg?v=3",
         "description": "18 and up",
-        "location": "conduitfl",
+        "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-elder-lore-10th-anniversary-tour-with-sacri-monti-and-moon-destroys/",
         "city": "Orlando"
     },
@@ -1363,35 +1327,8 @@
         "date": "04-22-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_6afcae5bc6cd43cb5d6e0e253baeb721b3462cb9196bc2587a74cd8321f5e8e8.jpg",
         "description": "",
-        "location": "crowbar",
-        "url": "https://www.crowbarybor.com/calendar/#/events/120439",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
-    },
-    {
-        "band": "Void. Terror. Silence: A Free Night of Goth, Industiral, and Darkwave w/ DJ Hexorcist",
-        "date": "11-14-2025",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/64/41/33_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/void-terror-silence-a-free-night-of-goth-industiral-and-darkwave-w-dj-hexorcist-3/",
-        "city": "Orlando"
-    },
-    {
-        "band": "152 Productions Presents: Cannibal Kids, Miroux, Solar Flaire, and Lady Heroine",
-        "date": "11-15-2025",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/60/94/03_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/152-productions-presents-cannibal-kids-miroux-solar-flaire-and-lady-heroine/",
-        "city": "Orlando"
-    },
-    {
-        "band": "152 Productions Presents: Makari, Origami Button, SCRO, and more",
-        "date": "11-16-2025",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/29/82/04_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "conduitfl",
-        "url": "https://www.conduitfl.com/tm-event/152-productions-presents-makari-origami-button-scro-and-more/",
-        "city": "Orlando"
     }
 ]
