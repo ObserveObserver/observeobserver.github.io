@@ -1,14 +1,5 @@
 [
     {
-        "band": "Kaonashi, Omerta, Blind Equation, and More TBA",
-        "date": "11-19-2024",
-        "imageUrl": "https://willspub.org/wp-content/uploads/2024/09/0-1.jpg",
-        "description": "Kaonashi, Omerta, Blind Equation, and More TBA – Presented by Endoxa Booking November 19th, 2024 DOORS 7PM Tickets: $20 adv, $25 day of show 18+",
-        "location": "Will's Pub",
-        "url": "https://willspub.org/tm-event/kaonashi-omerta-blind-equation-and-more-tba/",
-        "city": "Orlando"
-    },
-    {
         "band": "Hard Swingin' Country Soiree with Decker & Dimitrov",
         "date": "11-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/64_Edp.jpg?v=3",
@@ -477,6 +468,15 @@
         "city": "Orlando"
     },
     {
+        "band": "Thursday Thinks Trivia",
+        "date": "12-05-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/69/94/63_Edp.jpg?v=3",
+        "description": "Our trivia questions range from music, movies, current events, geography, word jumbles, science, history, television, tribonds, and more! Prizes / Gift Cards 1st – $30 2nd – $20 Assorted Swag No Cover / 21+ / 7:30pm-10pm",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/thursday-thinks-trivia/",
+        "city": "Orlando"
+    },
+    {
         "band": "Florida Underground Fest 5 — Day 1",
         "date": "12-06-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/61/92/63_Edp.jpg?v=8",
@@ -675,6 +675,15 @@
         "city": "Tampa"
     },
     {
+        "band": "Thursday Thinks Trivia",
+        "date": "12-12-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/69/94/63_Edp.jpg?v=3",
+        "description": "Our trivia questions range from music, movies, current events, geography, word jumbles, science, history, television, tribonds, and more! Prizes / Gift Cards 1st – $30 2nd – $20 Assorted Swag No Cover / 21+ / 7:30pm-10pm",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/thursday-thinks-trivia-2/",
+        "city": "Orlando"
+    },
+    {
         "band": "DJ BMF",
         "date": "12-13-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/65/83/83_Edp.jpg?v=3",
@@ -846,6 +855,15 @@
         "city": "Orlando"
     },
     {
+        "band": "Thursday Thinks Trivia",
+        "date": "12-19-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/69/94/63_Edp.jpg?v=3",
+        "description": "Our trivia questions range from music, movies, current events, geography, word jumbles, science, history, television, tribonds, and more! Prizes / Gift Cards 1st – $30 2nd – $20 Assorted Swag No Cover / 21+ / 7:30pm-10pm",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/thursday-thinks-trivia-3/",
+        "city": "Orlando"
+    },
+    {
         "band": "Luscious Lisa",
         "date": "12-20-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/66/81/03_Edp.jpg?v=2",
@@ -963,6 +981,15 @@
         "city": "Orlando"
     },
     {
+        "band": "Thursday Thinks Trivia",
+        "date": "12-26-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/69/94/63_Edp.jpg?v=3",
+        "description": "Our trivia questions range from music, movies, current events, geography, word jumbles, science, history, television, tribonds, and more! Prizes / Gift Cards 1st – $30 2nd – $20 Assorted Swag No Cover / 21+ / 7:30pm-10pm",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/thursday-thinks-trivia-11/",
+        "city": "Orlando"
+    },
+    {
         "band": "Oklahoma Stackhouse with Golden Flower and Rauce Padgett",
         "date": "12-27-2024",
         "imageUrl": "https://i.ticketweb.com/i/00/12/67/04/13_Edp.jpg?v=5",
@@ -1032,6 +1059,15 @@
         "description": "Kaleigh Baker performs live at Lil' Indie's every Monday from 7PM-9PM 21+ // Free",
         "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/kaleigh-baker-15/",
+        "city": "Orlando"
+    },
+    {
+        "band": "152 Productions Presents: Stoned Mary, Fluxe, Alyk, Gilt, and Robots Prevail",
+        "date": "01-09-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/69/76/03_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "conduitfl",
+        "url": "https://www.conduitfl.com/tm-event/152-productions-presents-stoned-mary-fluxe-alyk-gilt-and-robots-prevail/",
         "city": "Orlando"
     },
     {
@@ -1161,6 +1197,15 @@
         "city": "Tampa"
     },
     {
+        "band": "Camping In Alaska",
+        "date": "02-07-2025",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_da2f4ca53ad357b0a0a5159bf068d002625af132c58ff6a53c8d082901776477.jpg",
+        "description": "",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
+        "city": "Tampa"
+    },
+    {
         "band": "Glaive",
         "date": "02-11-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_31c979cdfadaf409c2ed9354d69745e2b101e8df635020df7f8426d4e7d0e070.jpg",
@@ -1188,6 +1233,15 @@
         "city": "Orlando"
     },
     {
+        "band": "152 Productions Presents: Cane Hill, Mugshot, Foxlake, and Weeping Wound",
+        "date": "02-16-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/61/83_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "Conduit FL",
+        "url": "https://www.conduitfl.com/tm-event/152-productions-presents-cane-hill-mugshot-foxlake-and-weeping-wound/",
+        "city": "Orlando"
+    },
+    {
         "band": "THE MAIN SQUEEZE",
         "date": "02-19-2025",
         "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_3396bc58b8ee503641adf1ec0495e942a71d76f61da331f2b88ac1c6b67e5b5b.jpg",
@@ -1195,6 +1249,15 @@
         "location": "Crowbar",
         "url": "https://www.crowbarybor.com/calendar/#/events/104842",
         "city": "Tampa"
+    },
+    {
+        "band": "DEVON KAY & THE SOLUTIONS + DOLLAR SIGNS + TINY STILLS",
+        "date": "02-19-2025",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/68/91/23_Edp.jpg?v=2",
+        "description": "Montgomery Drive Presents Devon Kay & The Solutions Dollar Signs Tiny Stills Wednesday, February 19th, 2025 Will’s Pub – Orlando 7PM / 18 Plus / $15 Advance / $20 Day-Of-Show",
+        "location": "Will's Pub",
+        "url": "https://willspub.org/tm-event/devon-kay-the-solutions-dollar-signs-tiny-stills/",
+        "city": "Orlando"
     },
     {
         "band": "Landon Conrath",
@@ -1276,6 +1339,15 @@
         "location": "Conduit FL",
         "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-thrown-varials-no-cure-and-heavensgate/",
         "city": "Orlando"
+    },
+    {
+        "band": "Capstan – The Cult Tour",
+        "date": "03-22-2025",
+        "imageUrl": "https://s3.amazonaws.com/files.venuepilot.com/attachments/cover_b7827385c601dd0fc9297b75ab7f9b5e2a9fa0281d36729fecb13e8df79e9eb1.png",
+        "description": "",
+        "location": "Crowbar",
+        "url": "https://www.crowbarybor.com/calendar/#/events/104842",
+        "city": "Tampa"
     },
     {
         "band": "HEART TO GOLD",
