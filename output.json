@@ -1,39 +1,12 @@
 [
     {
-        "band": "Endoxa Booking Presents: Dogma and Pontifex",
-        "date": "11-20-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/68/98/83_Edp.jpg?v=3",
-        "description": "18 and up",
-        "location": "Conduit FL",
-        "url": "https://www.conduitfl.com/tm-event/endoxa-booking-presents-dogma-and-pontifex/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Hard Swingin' Country Soiree with Decker & Dimitrov",
-        "date": "11-20-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/44/45/64_Edp.jpg?v=3",
-        "description": "Wednesday evenings at Lil Indies! Come join us for a Hard Swingin' Country Soiree featuring Decker & Dimitrov Every Wednesday night from 7-9pm! No Cover, 21+",
-        "location": "Will's Pub",
-        "url": "https://willspub.org/tm-event/hard-swingin-country-soiree-with-decker-dimitrov-10/",
-        "city": "Orlando"
-    },
-    {
-        "band": "BrokeNCYDE with Lil Reigndrop and Resistor plus nAvvvi",
-        "date": "11-20-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/40/77/04_Edp.jpg?v=8",
-        "description": "Montgomery Drive Presents BrokeNCYDE Lil Reigndrop Resistor nAvvvi Wednesday, November 20th, 2024 Will’s Pub – Orlando 8PM / 18 Plus / $22 Advance / $25 Day-Of-Show",
-        "location": "Will's Pub",
-        "url": "https://willspub.org/tm-event/filth-and-brokencyde-with-lil-reigndrop-and-resistor/",
-        "city": "Orlando"
-    },
-    {
-        "band": "Patrick Hagerman",
-        "date": "11-20-2024",
-        "imageUrl": "https://i.ticketweb.com/i/00/12/61/89/33_Edp.jpg?v=2",
-        "description": "Patrick Hagerman 21+ // Free // 9pm",
-        "location": "Will's Pub",
-        "url": "https://willspub.org/tm-event/patrick-hagerman/",
-        "city": "Orlando"
+        "band": "",
+        "date": "00-00-0000",
+        "imageUrl": "",
+        "description": "",
+        "location": "",
+        "url": "",
+        "city": ""
     },
     {
         "band": "Non-Linear Recordings Present: Club K.O. w/ DMLLN, Dadabreach, and More",
@@ -447,6 +420,15 @@
         "description": "Nesto's Jazz Trio No Cover 21+ 10PM",
         "location": "Will's Pub",
         "url": "https://willspub.org/tm-event/nestos-jazz-trio-2/",
+        "city": "Orlando"
+    },
+    {
+        "band": "152 Productions Presents: Magi, Montra, Caliber, and Eden's Blessing",
+        "date": "12-04-2024",
+        "imageUrl": "https://i.ticketweb.com/i/00/12/69/74/23_Edp.jpg?v=3",
+        "description": "18 and up",
+        "location": "Conduit FL",
+        "url": "https://www.conduitfl.com/tm-event/152-productions-presents-magi-montra-caliber-and-edens-blessing/",
         "city": "Orlando"
     },
     {
