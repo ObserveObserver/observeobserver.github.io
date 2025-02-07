@@ -23,7 +23,7 @@ Reality : World
 Reality = MkWorld data {
     model = MkPhysicsModel euclidian,
     physics = MkPhysics model,
-    morals = Christian,
+    morals = Christian 1,
     politics = NeoLiberal,
 }
 
@@ -31,7 +31,7 @@ HyperReality : World
 HyperReality = MkWorld data {
     model = MkPhysicsModel euclidian,
     physics = MkPhysics model,
-    morals = CommodityFetishism,
+    morals = CommodityFetishism 1,
     politics = FreeMarket,
 }
 
