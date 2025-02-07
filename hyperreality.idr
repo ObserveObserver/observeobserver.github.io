@@ -11,11 +11,18 @@ Physics(x) = case x of {
     euclidian -> MkPhysics Euclidian
     _ -> MkPhysics NonEuclidian
 } 
+
+Morals : Type
+-- whatever dont care rn
+
+MoralsRatio : (Morals -> Int) -> Type
+MoralsRatio x y : x y
+
 World : Type
 World = data {
     model = PhysicsModel,
     physics = Physics(model),
-    morals = Morals,
+    morals = Morals Float,
     politics = Politics,
 }
 
@@ -23,7 +30,7 @@ Reality : World
 Reality = MkWorld data {
     model = MkPhysicsModel euclidian,
     physics = MkPhysics model,
-    morals = Christian 1,
+    morals = Christian 1.0,
     politics = NeoLiberal,
 }
 
@@ -31,7 +38,7 @@ HyperReality : World
 HyperReality = MkWorld data {
     model = MkPhysicsModel euclidian,
     physics = MkPhysics model,
-    morals = CommodityFetishism 1,
+    morals = CommodityFetishism 1.0,
     politics = FreeMarket,
 }
 
