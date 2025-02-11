@@ -166,7 +166,7 @@ h3 {
 }
 
 .story {
-	padding: 15px 550px 0px 550px;
+	padding: 15px 450px 0px 450px;
         text-align: left;
 	font-size: 22px;
 }
@@ -193,7 +193,7 @@ h3 {
   	height: auto;
 	}
 	.story, .blog_listing, .listing {
-	padding: 0px 550px 0px 550px;
+	padding: 0px 200px 0px 200px;
 	}
 	.blog_contents p, .listing p {
 	font-size:16px;
@@ -220,13 +220,13 @@ h3 {
 
 @media only screen and (max-width: 1536px) {
 	.story, .blog_listing, .listing {
-	padding: 0px 400px 0px 400px;
+	padding: 0px 200px 0px 200px;
 	}
 }
 
 
 @media only screen and (max-width: 1306px) {
 	.story, .blog_listing, .listing {
-	padding: 0px 300px 0px 300px;
+	padding: 0px 200px 0px 200px;
 	}
 }
