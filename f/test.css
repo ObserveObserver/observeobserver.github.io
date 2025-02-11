@@ -194,7 +194,7 @@ h3 {
 	}
 	.story, .blog_listing, .listing {
 	padding: 0px 200px 0px 200px;
-	font-size:16px;
+	font-size:14px;
 	}
 	.blog_contents p, .listing p {
 	font-size:16px;
@@ -203,7 +203,7 @@ h3 {
 	font-size: 30px;
 	}
 	.story p {
-	font-size:18px;
+	font-size:14px;
 	}
 	code {
 	font-size: 14px;
