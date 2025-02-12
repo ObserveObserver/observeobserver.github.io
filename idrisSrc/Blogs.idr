@@ -16,7 +16,7 @@ record Blog where
     
 footer : String
 footer = """
-<CENTER><IMG SRC=\"f/logo.png\"></CENTER><CENTER><A  HREF=\"https://github.com/ObserveObserver/observeobserver.github.io/tree/master/src\">Written in Idris 2</A></CENTER></BODY>
+<CENTER><IMG SRC=\"f/logo.png\"></CENTER><CENTER><A  HREF=\"https://github.com/ObserveObserver/observeobserver.github.io/tree/master/idrisSrc\">Written in Idris 2</A></CENTER></BODY>
 """
 
 getNl : String -> String
