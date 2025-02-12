@@ -28,11 +28,14 @@ layout title content =
         body [] [
           div [class_ "top"] [h1 [] [text "*observe.observer"]],
           div [class_ "links"] [
-            div [class_ "storieslink"] [a [href "https://observe.observer"] [text "stories"]],
-            div [class_ "bloglink"] [a [href "BLOG.HTML"] [text "blog"]],
-            div [class_ "readmelink"] [a [href "README.HTML"] [text "README.NFO"]],
-            div [class_ "keyboardlink"] [a [href "KEYBOARDS.HTML"] [text "keyboards"]]
-          ],
+                div [class_ "storieslink"] [a [href "https://observe.observer"] [text "stories"]],
+                text "\n",
+                div [class_ "bloglink"] [a [href "BLOG.HTML"] [text "blog"]],
+                text "\n",
+                div [class_ "readmelink"] [a [href "README.HTML"] [text "README.NFO"]],
+                text "\n",
+                div [class_ "keyboardlink"] [a [href "KEYBOARDS.HTML"] [text "keyboards"]]
+              ],
           div [id "divider"] [text "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="],
           div [class_ "story"] [
             h1 [id "storytitle"] [text title],
