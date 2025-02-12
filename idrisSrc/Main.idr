@@ -10,7 +10,7 @@ import Index
 
 
 header : String -> String
-header title = "<!DOCTYPE HTML><TITLE>" ++ title ++ " - *observe.observer</TITLE><META PROPERTY=\"og:title\" CONTENT=\"" 
+header title = "<!DOCTYPE HTML><TITLE>" ++ title ++ " *observe.observer</TITLE><META PROPERTY=\"og:title\" CONTENT=\"" 
           ++ title ++
            """ 
  - *observe.observer\">
@@ -37,9 +37,15 @@ checkTitle x =
     "index" => x ++ ".html"
     _ => toUpper x ++ ".HTML"
 
+checkHeader : String -> String
+checkHeader x =
+  case x of
+    "index" => ""
+    _ => x ++ " -"
+
 writeFile : String -> String -> IO()
 writeFile title content = do
-  res : Either FileError () <- writeFile (checkTitle(title)) (header(title) ++ content)
+  res : Either FileError () <- writeFile (checkTitle(title)) (header(checkHeader(title)) ++ content)
   case res of
     Left err => putStrLn ("Error writing file: " ++ show err)
     Right () => putStrLn "File written successfully"
