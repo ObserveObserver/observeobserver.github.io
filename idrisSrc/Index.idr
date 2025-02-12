@@ -8,6 +8,7 @@ import Data.String
 public export
 genIndex : Blog -> Html
 genIndex (MkBlog title content html) =
+    
     div [ class_ "listing" ] [
         div [ class_ "title" ] [
             a [ href (toUpper title ++ ".HTML") ] [
@@ -24,9 +25,23 @@ genIndex (MkBlog title content html) =
         ]
     ]
 
+indexHeader : String -> Html
+indexHeader x =
+    body [] [
+          div [class_ "top"] [h1 [] [text "*observe.observer"]],
+          div [class_ "links"] [
+            div [class_ "storieslink"] [a [href "https://observe.observer"] [text "stories"]],
+            div [class_ "bloglink"] [a [href "BLOG.HTML"] [text "blog"]],
+            div [class_ "readmelink"] [a [href "README.HTML"] [text "README.NFO"]],
+            div [class_ "keyboardlink"] [a [href "KEYBOARDS.HTML"] [text "keyboards"]]
+          ],
+          div [id "divider"] [text "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="],
+          text x,
+          text footer
+    ]
 glueIndex : List Html -> String
 glueIndex blogs = 
-    concat (map (\x => toString x) blogs)
+    toString $ indexHeader (concat (map (\x => toString x) blogs))
 
 public export
 buildIndex : List Blog -> String

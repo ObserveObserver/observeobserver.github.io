@@ -13,7 +13,7 @@ record Blog where
     content : String
     html : Html
 
-    
+public export
 footer : String
 footer = """
 <CENTER><IMG SRC=\"f/logo.png\"></CENTER><CENTER><A  HREF=\"https://github.com/ObserveObserver/observeobserver.github.io/tree/master/idrisSrc\">Written in Idris 2</A></CENTER></BODY>
@@ -38,15 +38,6 @@ layout title content =
             h1 [id "storytitle"] [text title],
             p [] [text content]
           ],
-          script [src "index.js"] [],
-          script [] [text """
-            function debugGlobals() {
-              console.log('Available globals:', Object.keys(window).filter(key => key.includes('App') || key.includes('PS') || key === 'halogen'));
-            }
-            
-            // Run this after your PureScript script is loaded
-            document.addEventListener('DOMContentLoaded', debugGlobals);
-          """],
           text footer
         ]
 
