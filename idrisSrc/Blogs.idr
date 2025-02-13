@@ -14,11 +14,10 @@ record Blog where
     html : Html
 
 public export
-footer : String
+footer : String -- will update this to html lib later :)
 footer = """
 <CENTER><IMG SRC=\"f/logo.png\"></CENTER><CENTER><A  HREF=\"https://github.com/ObserveObserver/observeobserver.github.io/tree/master/idrisSrc\">Written in Idris 2</A></CENTER></BODY>
 """
-
 getNl : String -> String
 getNl str = (concat (map (\x => x ++ "<br>") (forget (split (== '\n') str))))
 
@@ -39,14 +38,13 @@ layout title content =
           div [id "divider"] [text "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="],
           div [class_ "story"] [
             h1 [id "storytitle"] [text title],
-            p [] [text content]
+            p [] [text $ getNl $ content]
           ],
           text footer
         ]
 
 
 public export
-
 t : Blog
 t = let
         title = "t"
@@ -91,10 +89,13 @@ KILL ME. i look around. KILL ME. i see my chance. KILL ME. i take the pen. KILL 
     in
         layout title content
 
+-- I should be shot for this blog lol
+-- pretty sure it's only story in pure lambda calculus only
+-- (depending on your definition of "pure", "lambda calculus" and "only".)
 r : Blog
 r = let
         title = "r"
-        content = getNl """
+        content = """
 cons = \h t c n -> c h (t c n)
 nil = \c n -> n
 lizt = \l -> l cons nil
@@ -487,7 +488,7 @@ churchToString(lizt(shehetheythe(broke (broke(through(br(shtt(understood(br(blac
             h1 [id "storytitle"] [text title],
             div [id "srcArea"] [
             ]
-            , p [id "storytext", style "overflow-wrap: break-word;"] [text content]
+            , p [id "storytext", style "overflow-wrap: break-word;"] [text $ getNl $ content]
                 ]
                 , script [ src "index.js" ] []
                 , script [] [ text """

@@ -51,17 +51,15 @@ writeFile title content = do
     Right () => putStrLn "File written successfully"
 
 
-
 makeBlog : List Blog -> IO()
 makeBlog x = 
-  traverse_ (\y => writeFile y.title (toString y.html)) x
+  traverse_ (\y => writeFile y.title  (toString y.html)) x
 
 makeIndex : List Blog -> IO()
 makeIndex x =
   writeFile "index" $ buildIndex blogList
 
 main : IO ()
--- main = writeFile t.title (getNl(t.html))
 main = 
   do
     test <- makeBlog blogList
