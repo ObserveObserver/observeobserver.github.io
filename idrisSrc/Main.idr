@@ -8,6 +8,7 @@ import Data.List1
 import Blogs
 import Index
 
+-- sponge: write this in func HTML
 
 header : String -> String
 header title = "<!DOCTYPE HTML><TITLE>" ++ title ++ " *observe.observer</TITLE><META PROPERTY=\"og:title\" CONTENT=\"" 
@@ -29,8 +30,7 @@ header title = "<!DOCTYPE HTML><TITLE>" ++ title ++ " *observe.observer</TITLE><
 
 """
 
-
-
+-- this seems crazy but i like .HTML for my site in particular
 checkTitle : String -> String
 checkTitle x =
   case x of 
@@ -43,6 +43,8 @@ checkHeader x =
     "index" => ""
     _ => x ++ " -"
 
+-- sponge: refactor this section into I/O module
+
 writeFile : String -> String -> IO()
 writeFile title content = do
   res : Either FileError () <- writeFile (checkTitle(title)) (header(checkHeader(title)) ++ content)
@@ -50,14 +52,15 @@ writeFile title content = do
     Left err => putStrLn ("Error writing file: " ++ show err)
     Right () => putStrLn "File written successfully"
 
+makeIndex : List Blog -> IO()
+makeIndex x =
+  writeFile "index" $ buildIndex blogList
 
 makeBlog : List Blog -> IO()
 makeBlog x = 
   traverse_ (\y => writeFile y.title  (toString y.html)) x
 
-makeIndex : List Blog -> IO()
-makeIndex x =
-  writeFile "index" $ buildIndex blogList
+-- 
 
 main : IO ()
 main = 

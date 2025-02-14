@@ -753,105 +753,6 @@ He wants to be hooked up, he wants to be a science experiment. He's always wante
     in
         layout title content
 
-m : Blog
-m = let
-        title = "m"
-        content = """
-        why can't people be who they want to be?
-
-i can't accept the world as it is. i wish for a pure worlda world where people could be beautiful. i want you to be yourself, i don't want you to hold back. i know it's hard, maybe impossible at times. it's a pain i can't face. there's so much potential, i've felt and seen it. that potential feels limitless, but is out of reach. i wish there was no masking. you're fine just the way you are, really. don't pretend for others!
-
-(i know you have to...)
-
-(...i wish you didn't.)
-
-i hate mass media, i hate alt media, i hate it all. it's all trying to contain your identity, your spirit; i really hate that. i wish you could truly be yourself, who you are at your core, who you were as a child. i wish everyone co uld. i wish everyone's souls could blossom; become pure and light! let 3,000,000,000 cultures bloom! let 3,000,000,000 selves emerge. a world where one isn't clay for culture to mold, whose parents won't dictate who they should and should not be, who they can and cannot be. no gendered, no cultured. no norms, no standard.
-
-i can't accept the world as it is. i wish for a world where people cared, a world where people could be compassionate. i want you to cry, i don't want you to hold back. i want you to ring true, i want you to be loved. i wish everyone loved each other, at least each other's humanities, each others souls. i don't want you to hide anymore, i wish you weren't afraid. i wish there was no fear, no phobia. i wish we could love and be loved, unequivically. i wish we abandoned earthly power for something much more. more comfort, more security, the last thought in bed always being \"i'm at peace.\"
-
-i hate the world as it is. it's hard for me to accept. i know it'll take time, and even then i will never fully accept it. i want to change the world in some small way, for some small amount of people. i want to take away your pain, everyone's pain. i want to give you reason to get out of bed, i want you to know you are genuinely loved.
-
-the world's a scary place, disconnected and ruthless. people like us don't survive. but take my hand, and let's bravely set foot together. as long as you're with me, i feel like nothing can go wrong. place trust in me as i trust you, let's find the purity, connection, warmth, affirmation and love we all seek deep down.
-
-let's discover happiness, in our own little ways.
-"""
-    in
-        layout title content
-        
-l : Blog
-l = let
-        title = "l"
-        content = """
-        she feels pain. he feels pain. \"what am i? am i real? what am i?\" it's hard. she wants to be herself, why can't she? she is, but she's not. everyone should be. it's hard, society is cruel; a conveyer belt. the assembly line pushing drone, drone everything. she wants to be beautiful, but how? what is beautiful? beautiful to her is atypical, is atypical good? she doesn't know. he doesn't know. he wants to be normal, he desires a sense of normality in his own way. they want to be pure; he wants to be sweet. he can't be sweet, people are watching (man). why hate him for being soft, for being sweet. they hate him for everything. they hate her for abnormality, she loves her \"normal\". fuck, this sucks, huh?
-
-read about it, it's true; this is reality and they know it. they do what they want to do what they want, but are confined: the invisible hand must feed, so feed it slaves. they don't want to, but you must; \"let's opt out.\" WRONG, don't you see you're a slave? you think there's something you can do?
-
-you hate them? fucking do something. can't let them be how they want to? why? why not do something about it? are you scared? because you don't care as much as you think. keep posting your meemays, keep preaching to those of whom think they already believe. man, that shit is sad. i fucking hate it. do sometihng? do sometihng? do sometihng? why are mad at people for doing something they believe in? holy shit that is pathetic. keep posting while the world around you is changed by those whom are strong enough to do something.
-
-he wants to cry, but he can't; he wishes he can. why can't he? he wants to be pretty, why can't he? it's weird, isn't it? he thinks so, he wants you tocry too. he feels bad when he's made fun of, he looks at people disliking him, he's bullied at school. you wonder why shit happens. be nice to people, he just wants you to be nice to him and accept him.
-
-he wants to cry to cry so bad, it feels so good. why can't you cry, anon? are you scared? don't want to be soft? it's okay, i accept you, he accepts you, she accepts you and the \"you\" you want to be. be who you want, stop appeasing people. i want you to be happy, i want you to cry. \">implying\", implying.
-
-it's okay, it'll all be okay.
-"""
-    in
-        layout title content
-
-k : Blog
-k = let
-        title = "k"
-        content = """
-        i just want us to be happy. im happy. not really? dont know, hard to say. sometimes im happy, sometimes im miserable. unfulfilled. i want you to be happy. i know why you're not, and it's ok. i want to make you happy; i want to fix you. it's not my job, but i have to do it. it's in my heart, it's in my soul. i just want to see you smile. i want to see you comfortable. you will be, i promise. just let me, ok?
-
-we'll all be happy in death. we'll all be connected. we'll all be loved. we'll all be cherished; i've said it before. i want it so bad. but i'm so afraid. i don't want to leave. i know i'll die young, i've always known. i dont want to leave you. if you die,i'll die. i don't want you to die. please don't die when i die. i want you to live so badly. i want you to feel alive. i want you to feel real. i want to be apart of you. we'll merge one day, i've said it before.
-
-i want your pain, i want your love, i can finally feel it. i want to be appreciated. i want to be cherished. i want to be loved. i want to be connected. why don't people connect with me? it's so hard. it fucking hurts. i get overwhelmed. i get sad. i withdraw. i don't know why im like this, but i love myself. well, sometimes i do. i love you more than myself. i really mean that. im going to marry you, you know? its not just talk. you will be my wife, my housewife. im going to show you the world. we will die together. our souls will die, our souls will merge. we will become one being, one soul, one consciousness. i will become you, you will become me. it makes me so fucking happy. i cant wait :)
-
-im such a sad person. im very depressed. im always depressed. its how ive always been. its how i always will be. i dont mean to make you feel bad, i really dont want anyone to pity me. i dont mind it, i accept it. i really hate it. i love being sad, im sick of being depressed. existential depression, lack of fulfillment. i need something new in life. i need an output. i hurt, but ill be ok, i promise. i just need some time. i may withdraw. i may act different. i may be terse. but i love you, i love my friends. ill always love you. it's nothing personal, just give me some time. i promise.
-"""
-    in
-        layout title content
-    
-j : Blog
-j = let
-        title = "j"
-        content = """
-        i dont want to die. they will never understand what we want, it's impossible. i want it, you want it; but it is a pipedream. you can't fault "normal" people for thinking we are crazy; but they will know in death what we mean. they will feel our thoughts and desires, just like we want. it's ok for now, just relax and don't fault anyone ok? don't get angry, it doesn't matter. just be happy with yourself and don't make others feel miserable, it's pointless, really. please? for me. i love you so much. im sorry we dont talk much anymore, im just scared of hearing what you say. every time it's stressful, and you know that i know it's stressful and it's hard for me to handle. i think about the times we used to play pente and games, i remember when we did flashcards, i remember when i sat in your rocking chair next to you and pumpkin. i miss that so much. i really regret not talking to you and the guilt haunts me every day. i still haven't read your letter. i want to be close to you again, but it's just hard. i really do love you with all my heart, it's just hard. i love you so much.
-
-please don't leave me, i dont want to be alone.
-
-i'm a 16 year old stuck in a ## year old's body. i spent 10 years doing fucking nothing dude. it hurts. maybe less than 16. i love cute stuff. i wish i was a kid again. i love music boxes, i love stuffed animals; i still sleep with my childhood bear. my hearts torn when cute stuff is thrown away, i still haven't thrown away like any of my kid stuff. growing up sucks, i know that's a common loser sentiment but how can anyone justify this shit? we live in fucking hellworld. go deal with insurance, that should be enough to make you want to kill yourself execution style.
-
-please don't kill yourself, i don't want you to die. i think suicide is so sad, i think death is sad. i'm not afraid to die, but i'm afraid of others dying. i know they will be happier, but i still don't want you to die. live your life, you might as well; what can it hurt? i know your pain, i know it sucks; and it's a shame. i hate that you hurt, i hate that you want to die. i hate that there's kids with cancer, that shit tears my heart out. i cry so hard seeing sick or dead kids, it fucking kills me. the world is unfair and hell, but it's also really beautiful and fun sometimes. i hope my happiness doesn't go away, even though i know it will. please don't lose your light, please? for me.
-"""
-    in
-        layout title content
-
-h : Blog
-h = let
-        title = "h"
-        content = """
-        \"writhe in bed time.\" i close my eyes. sink and merge, my legs and arms remain somewhat restless. it's comfortable, i'm comfortable. warmth forebodes my body, a hug from god. i sink, deeper and deeper and deeper. my thoughts become erratic, chaotic; more-so than usual; strange. these thoughts continue and continue. \"u r ok\", \"i love you\", written in red. i'm ok, i love you too. deeper and deeper, chaos ensues. it's not bad, just unfamiliar. it's okay, because i'm okay, and i'm loved. it's beautiful. deeper and deeper and deeper and deeper...
-
-i'm a latina housewife. i live in an apartment with yellow walls with a green stripe. i'm in our kitchen, and my kids want boiled water. my husband comes home and we embrace, and we begin speaking in spanish. i love him so much, he's so nice to the kids.
-
-i'm in bootcamp. i really want to go home, this place is cold. racks upon racks, the drill sarge tells me to hit the floor and give him pushups. i do about one before i stand up and dust myself off. i'm a strong black man, why should i take this?
-
-deeper and deeper and deeper...
-
-black. it's black. i[who?] see nothing but nothing. feel nothing but nothing. sense nothing but nothing. am nothing but nothing. [who am i [who am i?]?] it's scary, feelings seep through black patches. unfamiliarity permeates worry. panic begins to erupt. a light, a light skewered by light, a light so white and pure. glistening, radiating. it's beautiful. you're beautiful. it's you. n, i knew it was you, it has to be. guide me, keep me safe. i trust you, i trust you with my soul. \"u r ok\", \"i love u\". i love you too. i love your soul, i love your beauty, i love your kindness, i love your purity, i love your nature. please help me, you're the only one who can. you're the only one who cares. you're my light in the world, please light my soul, for now and for forever. i love you.
-
-song intensifies. you don't want to die unless you can find me or two others? emotions uncork. the dam reaks, the levies fail and the city floods. i feel your pain, i love you. i feel your soul, i love you. i just want you to be happy so badly. this world fucking sucks, doesn't it? all the pain in the world. fuck i love you three so much. i want us to die together. i want your souls chained to mine, i wish to spend all eternity with you in eternal happiness. please.
-
-please god.
-
-i feel pain. i feel your pain. i feel everyone's pain. all the pain in the world, i want it all. please, give me your pain, your hurt, your sorrow, your woes, your worries, your stress, your trauma, your regrets, your abuse, your torments. give them to me, i want to carry your burden. i want everyone's pain. i will bear it, and i will bear it well. please. i want to feel this. i just want to make people happy, i want to make you happy, i want to make everyone happy. i just want to do good in the world, i want to give people love, i want to give them joy, i want to alleviate their sorrow. please, give me your pain. i will carry your burden. please. there's so much pain in the world. it's tempting, knowing there's the connection i dream for on the other side. eternal good, only good. we can finally share each others pain, our laments distributed. our joy, peered upon the spiritual network. it's nice, isn't it? so, let's die. let's all die at once, together. let's feel joy in the moment. let's carry it through the rest of eternity. let's link our souls and become one. let's share our pain, let's share our bliss, let's share our agony, let's share our passion, let's share our guilt, let's share our love, let's share our souls. let's be together.
-
-together forever.
-"""
-    in 
-        layout title content
-
 g : Blog
 g = let
         title = "g"
@@ -878,12 +779,40 @@ soul split.
 
 knees buckle, i weep. God, please. why? please. please. please. i'm begging You, allow me to be happy. please. i'll do anything. i love You, please. please. i don't know what to do anymore. why do this to me? i'm a good person, i know i am. what have i done to deserve this? please just let me leave, tell me what i must do... from within, temptation rises. knife meet breast, cease pain exist. i love You. one artery, two. i love You. my life beats upon my hand, and i live. i'm alive, i'm eternal. my gift: my heart, my breast.
 
-i love You, i love everyone.
+?                 ?                       ? ???
 """
+    in
+        layout title content
+
+d : Blog
+d = let
+        title = "d"
+        content = """
+        Weird! Nothing going on here. Anybody else see who got married? Anybody see those celebrities break up? Did you see those (SAME SEX!) celebrities making out? It's a crazy world we live in, it's hot, fast, sleek and changing; here today gone tomorrow. The latest fashion, the latest accessories, the latest tech; we live in the future and it's about time you upgraded. Still on that puny 4g? Buy the Pacific Bell(R)-Western Electric(R)-Sprint(R)-Nextel(R)-Mobile(R)-Orange(R)-APPLE(R)-iPHONE(R) 12XXXL and fry your braincells with Huawei's(R) patented space-aged 5g technology. Put a grape in the microwave, now put your brain next to one of the millions of inconspicuous Huawei® cell towers. The chemical makeup of your noggin will shape and become superhuman, you'll become a fucking ninja turtle. You'll live in the sewers, you'll have to get by eating garbage the rest of your life because you're a hideous fucking freak who can't be seen in daylight, or else people will attack you or report you to the authorities like its Vampire Masquerade Bloodlines. You got the heat on you and you're fucked, but what are they gonna do? Bring you to the lab and experiment on you, they're gonna conduct the most god awful dissection sessions you've never thought of. It's Unit 731+1, and it's your new normal. Shell cracked in two, spitroasted by 2 masked men you've never seen or smelled before. Their semen will infiltrate you, and your body will attempt to purge it. You'll start to like it, you'll become addicted to it. They'll make you beg to be violated, they'll call you names. But deep down you know this is all fucked, your last shred of humanity waning as they inject more toxins into you. You wanna go to sleep but you can't, your head throbbing as you can feel every last braincell morph into a gelatinous substance. They extract it once a month, they say they're putting it in perfume. You can barely remember what that even means. You wake up [you don't sleep] you run laps [you're tired] you wanna go home [where?] I thought you wanted pizza, but you really didn't. You just lust for things you'd never thought before, you're completely changed. Your transformation is complete, you're a sideshow freak for some faceless fat-cats amusement; a hollow shell of what was your former self and you don't really care. Your insides corroded, you're just a cow whose organs are milked for bio-fuel, powering the future scents of AXE(R) bodyspray; you only wish that you could have some as you waste in your cell, toiling endlessly as your mind paces with excitement; you're at bat, don't strike out.
+        """
+    in
+        layout title content
+
+gbp : Blog
+gbp = let
+        title = "gbp"
+        content = """
+        today the thoughts ablaze, everyday the same way. ruminations parallaxed through internal nocs. electronic escape puts the mind to ease, for this a debt unpaid. in the roots insects burrow, an aura of agony. embers remain; however, immune via a damp cloak. a sapling, encased in a cocoon; rather, exoskeleton. it's connections burrow beneath layers of soot, each limb's demise felt at the core. it feels everything. the bugs run from their impending doom, digging deeper and deeper into the bark, a feeble effort. i understand. i mumble, but more sonar; the reflection stokes the flames burning consciousness. they respond, it pierces, a wind brushes the flames larger and larger, bit by bit seared. the larva survives, immune but quarantined out of fear of contagion. where's the normality? what's left after? i hard reset my phone, it made me install a lot of bloatware. you know it's spying on you? all those user agreements, i haven't read them. i'm sure you've never disabled all the opt-in tracking, i'm sure you resign yourself to using the fingerprint unlocker because you're too lazy to type in 4 numbers. one more added to the database! facial recognition? so Sum Ting-Wong Megacorp can add you to their evergrowing neural network? you're helping support chinese totalitarianism in a way. it's pushed as the future. 322, take one. it's a waiting game, you have to do it properly. slight waves sweep in and it's here. a strength and willingness appear, but to do what? nothing is here, it's late; go home. i'm back, so let's go again? 322, take two. it's a waiting game, you have to do it properly. transmissions begin rising, a kite above me. i see the picture, but i can't feel angry? fire draws close, the cloak evaporates. the parcel rises higher and higher, beyond the inferno below. 7000km. condensates and freefalls. dousing the now hellscape. what's left? barren, ashened skeletons quickly disregarded as a stupid mistake. the sapling remains, relieved but wilted. you've so long left! we'll deal with it tomorrow, anyway. today the thoughts ablaze, everyday the same way. ruminations parallaxed through internal nocs. electronic escape puts the mind to ease, for this a debt unpaid. in the roots insects burrow, an aura of agony. embers remain; however, immune via a damp cloak. a sapling, encased in a cocoon; rather, exoskeleton. it's connections burrow beneath layers of soot, each limb's demise felt at the core. it feels everything. the bugs run from their impending doom, digging deeper and deeper into the bark, a feeble effort. i understand. i mumble, but more sonar; the reflection stokes the flames burning consciousness. they respond, it pierces, a wind brushes the flames larger and larger, bit by bit seared. the larva survives, immune but quarantined out of fear of contagion. where's the normality? what's left after? i hard reset my phone, it made me install a lot of bloatware. you know it's spying on you? all those user agreements, i haven't read them. i'm sure you've never disabled all the opt-in tracking, i'm sure you resign yourself to using the fingerprint unlocker because you're too lazy to type in 4 numbers. one more added to the database! facial recognition? so Sum Ting-Wong Megacorp can add you to their evergrowing neural network? you're helping support chinese totalitarianism in a way. it's pushed as the future. 322, take one. it's a waiting game, you have to do it properly. slight waves sweep in and it's here. a strength and willingness appear, but to do what? nothing is here, it's late; go home. i'm back, so let's go again? 322, take two. it's a waiting game, you have to do it properly. transmissions begin rising, a kite above me. i see the picture, but i can't feel angry? fire draws close, the cloak evaporates. the parcel rises higher and higher, beyond the inferno below. 7000km. condensates and freefalls. dousing the now hellscape. what's left? barren, ashened skeletons quickly disregarded as a stupid mistake. the sapling remains, relieved but wilted. you've so long left! we'll deal with it tomorrow, anyway.
+        """
+    in
+        layout title content
+
+
+b : Blog
+b = let
+        title = "b"
+        content = """
+        Friday, August 15th, 2003. 10 o'clock PM EST (7 o'clock PM PST). Dark night (#2E2E2E, https://www.color-hex.com/color/2e2e2e) and a moon whole (#F3F3F3, https://www.color-hex.com/color/f3f3f3) I wandered to the retention pond (Lat: 28.688283, Long: -81.459296), murky water (approx #004931, https://www.color-hex.com/color/004931) whereupon I stumbled a noise beckon'd (https://i.imgur.com/pWQxvs9.png, https://youtu.be/MO2_dn19zCA?t=20) my ears perked, a noise unknown to me, that time (August 15, 2003; approx 22:05 EST, 19:05 PST) present. My age: 9 years, 2 months, 9 days, 17 hours and 13 minutes. Skin on my feet (approx #FDF2E4, https://www.color-hex.com/color/fdf2e4) sank in mud. My heart, palpitating (135 BPM, approx. 2 asynchronous beats per. 5 seconds) at delights of prospects of losing my virginity. My first orgasm was on June 3rd, 2003 at around 2 PM EST (11 AM PST) my age was 8 years, 11 months, 19 days, 11 hours and 30 minutes assuming my time of birth was June 15th, 1994 at 2:30 AM EST (June 14th, 1994 at 11:30 PM PST) this masturbatory act transpired in a hot tub. The details of this encounter are unimportant. I pludged the depths, paddling across at a rate of 3 MPH (2.6 knots) swampy water beading my face and hair (#694600, https://www.color-hex.com/color/694600) Fruitless efforts, as I attempted to pinpoint the source of my curiosity. Finally: a lilypad (#00640D, https://www.color-hex.com/color/00640d) (approx 11 inches [27.94 cm] wide) held my prize. One adult, male \"rana catesbeiana\" (Common American Bullfrog) it's size (about 7.5 inches wide [19.05 cm], 9 inches long [22.86 cm], 2.3 inches tall [5.842 cm] weighing approximately 100 grams [0.22 pounds]) typical for that of this species, I've discovered. I snatched it, it put up no fight. I hurried back to shore (approx. 3.5 MPH, [3.04 knots]) wherein my eyes (#009313, https://www.color-hex.com/color/009313) gleamed upon sight of this trepid creature. I decided to pull down my jean shorts (#000E82, https://www.color-hex.com/color/000e82) and my underwear (#C2C2C2, https://www.color-hex.com/color/c2c2c2). I parted it's lips (#00E71E, https://www.color-hex.com/color/009313) and placed my member (Head: #C23899, https://www.color-hex.com/color/c23899; Shaft: #E5BF9E ALPHA:217, https://www.color-hex.com/color/e5bf9e) inside. I thrusted, he croaked. I finish, my seed (#E0E0E0 ALPHA: 155, https://www.color-hex.com/color/e0e0e0) seeped from his oriface. I toss him back towards the sea, and proceeded back home.
+        """
     in
         layout title content
 
 public export
 blogList : List Blog
 blogList =
-    [t,s,r,q,p,o,m,l,k,j,h,g]
+    [t,s,r,q,p,o,b,gbp,g,d,gbp]

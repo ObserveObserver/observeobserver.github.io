@@ -50,4 +50,3 @@ public export
 buildIndex : List Blog -> String
 buildIndex blogs =
     glueIndex $ map (\x => genIndex x) blogs
-
