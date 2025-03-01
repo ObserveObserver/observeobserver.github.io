@@ -1,3 +1,10 @@
+-- pseudocode example for philosophy presentation on intuition
+
+-- lmao
+import Cubical.Idris
+
+-- building our world state
+
 Person : Type
 Person = data {
     name = String
