@@ -7,7 +7,7 @@ mod Template {
         "<!DOCTYPE HTML><HEAD><TITLE>" ++ title ++ " - " ++ " *observe.observer</TITLE><META PROPERTY=\"og:title\" CONTENT=\"" 
           ++ title ++  
          "*observe.observer\"><META PROPERTY=\"og:type\" CONTENT=\"website\"><META PROPERTY=\"og:url\" CONTENT=\"HTTPS://OBSERVE.OBSERVER/index.html\"><META PROPERTY=\"og:image\" CONTENT=\"https://observe.observer/f/preview.jpg\"><META PROPERTY=\"og:description\" CONTENT=INQUIRE WITHIN><META NAME=\"theme-color\" CONTENT=\"#FFFFFF\"><META NAME=\"twitter:card\" CONTENT=\"summary_large_image\"><META NAME=\"twitter:image\" CONTENT=\"https://observe.observer/f/preview.jpg\"><META NAME=\"viewport\" CONTENT=\"width=device-width, initial-scale=1.0\"><LINK REL=\"stylesheet\" TYPE=\"text/css\" HREF=\"test.css\"><META http-equiv=\"content-type\" CONTENT=\"text/html; charset=UTF-8\"></HEAD>";
-      let footer = "<CENTER><IMG SRC=\"f/logo.png\"></CENTER><CENTER><A  HREF=\"https://github.com/ObserveObserver/observeobserver.github.io/tree/master/idrisSrc\">Written in Flix</A></CENTER></BODY>";
+      let footer = "<CENTER><IMG SRC=\"f/logo.png\"></CENTER><CENTER><A  HREF=\"https://github.com/ObserveObserver/observeobserver.github.io/tree/master/flixSrc\">Written in Flix</A></CENTER></BODY>";
 
       header(Blog.getTitle(blog)) ++
       body(
